@@ -9,9 +9,9 @@ import PageLayout from '@/layouts/PageLayout.astro';
   showFooterForm={true}
 >
   <Fragment slot="head">
-    <!-- Preload LCP hero banner images to improve LCP discovery -->
-    <link rel="preload" as="image" href="/images/ui/FormX_25Q2_hero_banner_pc@2x.webp" fetchpriority="high" media="(min-width: 768px)" />
-    <link rel="preload" as="image" href="/images/ui/FormX_25Q2_hero_banner_m@2x.webp" fetchpriority="high" media="(max-width: 767px)" />
+    <!-- Preload LCP hero banner images — breakpoints match the Tailwind bg-image swap (991/992px) -->
+    <link rel="preload" as="image" href="/images/ui/FormX_25Q2_hero_banner_pc@2x.webp" fetchpriority="high" media="(min-width: 992px)" />
+    <link rel="preload" as="image" href="/images/ui/FormX_25Q2_hero_banner_m@2x.webp" fetchpriority="high" media="(max-width: 991px)" />
   </Fragment>
   <!-- Hero: LLM headline + rotating document types (Tailwind layout; filetype animation in global.css) -->
   <section
