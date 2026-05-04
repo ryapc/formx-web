@@ -1,10 +1,11 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
+import FAQSection from '@/components/sections/FAQSection.astro';
 ---
 
 <PageLayout
   title="Bill of Lading Converter"
-  description=""
+  description="Extract shipper, consignee, carrier, and goods data from bill of lading PDFs automatically. AI-powered OCR with Zapier and n8n integration. Free trial."
   canonicalUrl="https://www.formx.ai/tools/bill-of-lading-converter"
 >
   <section class="title-2 bg-f7f8fc">
@@ -192,6 +193,32 @@ import PageLayout from '@/layouts/PageLayout.astro';
       </div>
     </div>
   </div>
+
+  <FAQSection
+    heading="Frequently Asked Questions"
+    items={[
+      {
+        question: "What data does FormX extract from a bill of lading?",
+        answer: `FormX extracts shipper and consignee name and address, carrier details, vessel and voyage number, port of loading and discharge, container number, seal number, goods description, quantity, weight, and freight terms. Output is available as JSON, Excel, or CSV. <a href="/schedule-demo">Get in touch</a> to see a demo.<br />`,
+      },
+      {
+        question: "What bill of lading formats does FormX support?",
+        answer: `FormX processes standard paper bills of lading as scanned PDFs or images, as well as digitally generated PDFs from freight management systems. It is template-free and handles varying layouts across shipping lines. <a href="/schedule-demo">Contact us</a> to test your specific format.<br />`,
+      },
+      {
+        question: "Can FormX integrate with freight and logistics software?",
+        answer: `Yes. FormX connects via REST API and has pre-built integrations with Zapier and n8n, enabling direct connection to TMS platforms, ERP systems, and customs management software without custom development. <a href="/schedule-demo">Schedule a demo</a> to discuss your integration.<br />`,
+      },
+      {
+        question: "Is it safe to upload shipping documents to FormX?",
+        answer: `FormX is ISO 27001 and SOC 2 Type II certified. All uploaded documents are encrypted in transit (TLS 1.2+) and at rest (AES-256). Documents are not retained after extraction. Read our <a href="/data-privacy-policy" target="_blank">data privacy policy</a> for more.<br />`,
+      },
+      {
+        question: "Is there a free trial for bill of lading extraction?",
+        answer: `Yes. The web tool is free with no signup required for single document extraction. Batch processing and API access require a free trial account. <a href="https://formextractorai.com/signup" target="_blank">Sign up</a> or <a href="/schedule-demo">contact us</a> to get started.<br />`,
+      },
+    ]}
+  />
 
   <section class="section whats-new">
     <div class="w-layout-blockcontainer container-default w-container">

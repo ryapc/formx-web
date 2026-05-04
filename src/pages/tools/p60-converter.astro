@@ -7,16 +7,16 @@ import StatCard from '@/components/sections/StatCard.astro';
 
 <PageLayout
   title="P60 Converter - Convert P60 Data Instantly | FormX.ai"
-  description=""
+  description="P60 extraction API and OCR SDK. Extract total pay, tax deducted, NI contributions, and employer details from any HMRC P60 — returned as JSON or CSV instantly."
   canonicalUrl="https://www.formx.ai/tools/p60-converter"
   showFooterForm={true}
 >
   <section class="title-2 bg-f7f8fc">
     <div class="w-layout-blockcontainer pagetitle__container w-container">
-      <h1 class="pricing-title"><span class="heading-gradient">P60 Converter<br/>‍</span>Automatically pull Every Field from a P60</h1>
-      <p class="section__header__content">Upload a P60 PDF or image. FormX reads every field - total pay, tax deducted, National Insurance contributions, employer details - and returns structured data instantly.</p>
+      <h1 class="pricing-title"><span class="heading-gradient">P60 Converter<br/>‍</span>P60 Extraction API and OCR SDK — Pull Every Field Automatically</h1>
+      <p class="section__header__content">Use the FormX P60 extraction API or OCR SDK to read HMRC P60 forms instantly. Returns total pay, tax deducted, National Insurance contributions, NI category, statutory payments, and employer PAYE reference as structured JSON or CSV — no templates required.</p>
       <div class="w-embed w-iframe">
-        <iframe src="https://widgets.formx.ai/invoice/" style="width: 100%; height: 600px" frameBorder="0"></iframe>
+        <iframe src="https://formx-lead-magnet.vercel.app/embed/p60" style="width: 100%; height: 600px" frameBorder="0"></iframe>
       </div>
     </div>
   </section>
@@ -62,8 +62,41 @@ import StatCard from '@/components/sections/StatCard.astro';
         question: "Can I tailor what I need to extract from P60 forms?",
         answer: `Yes. FormX lets you customise exactly which fields to extract and how the output is structured.<br /><br /><a href="/schedule-demo">Contact us</a> to setup a trial account for you.<br />`,
       },
+      {
+        question: "Is there an API for extracting P60 data?",
+        answer: `Yes. The FormX P60 extraction API accepts PDF and image uploads and returns all HMRC P60 fields as structured JSON — employee name, NI number, employer PAYE reference, total pay, tax deducted, NI contributions by category, statutory payments, and student loan deductions. Integrates with Sage, Xero, BambooHR, Workday, and Microsoft Dynamics 365. <a href="/schedule-demo">Get in touch</a> to set up API access.<br />`,
+      },
+      {
+        question: "What is a P60 OCR SDK?",
+        answer: `A P60 OCR SDK lets you embed P60 data reading directly into your application without sending documents to a web interface. FormX provides SDKs for Python, Node.js, Java, and .NET. See our <a href="https://help.formx.ai/reference/document-extraction" target="_blank">API documentation</a> to get started.<br />`,
+      },
+      {
+        question: "What is the difference between a P60 converter and a P60 extraction API?",
+        answer: `A P60 converter outputs a file (Excel or CSV) for manual use. A P60 extraction API returns structured JSON you can feed directly into payroll software, HR systems, or tax platforms without any manual reformatting. FormX supports both use cases.<br />`,
+      },
+      {
+        question: "What is P60 document AI?",
+        answer: `P60 document AI refers to using machine learning and large language models to understand and extract structured data from HMRC P60 forms — going beyond simple OCR to correctly identify fields regardless of layout or formatting differences between payroll software providers. FormX uses this approach to achieve >95% accuracy across Sage, Xero, QuickBooks, and ADP-generated P60s.<br />`,
+      },
     ]}
   />
+
+  <div class="section product-section bg-f7f8fc">
+    <div class="container-default w-container">
+      <div class="product-heading-content-wrapper">
+        <div class="product-heading-wrapper">
+          <h2 class="product-heading">Extract P60 Data Automatically with FormX</h2>
+        </div>
+        <div class="product-content-wrapper">
+          <div class="_3-block-grid">
+            <StatCard number="10x" label="Productivity" description="Replace manual P60 data entry with FormX to automate extraction across all fields and improve productivity by 10 times." />
+            <StatCard number=">95%" label="Accuracy" description="FormX delivers 95%+ accuracy on P60 forms across Sage, Xero, QuickBooks, and ADP layouts, reducing manual review to a minimum." />
+            <StatCard number="3" label="Months" description="On average, businesses can realise the return on investment of automation in as little as 3 months after implementing FormX.ai." />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <section class="bg-f7f8fc"></section>
 </PageLayout>

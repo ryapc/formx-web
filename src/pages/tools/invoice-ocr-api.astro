@@ -7,7 +7,7 @@ import StatCard from '@/components/sections/StatCard.astro';
 
 <PageLayout
   title="Invoice OCR API | Extract Data from Invoices Automatically"
-  description=""
+  description="Invoice OCR API for SAP, NetSuite, QuickBooks, and any ERP. Extracts vendor details, line items, totals, and payment terms as structured JSON. ISO 27001 certified."
   canonicalUrl="https://www.formx.ai/tools/invoice-ocr-api"
   showFooterForm={true}
 >
@@ -57,6 +57,14 @@ import StatCard from '@/components/sections/StatCard.astro';
       {
         question: "What does the Invoice OCR API\u00a0JSON response look like?",
         answer: `The API returns a structured JSON object containing all extracted invoice fields: vendor name and address, invoice number, issue and due dates, line items (description, quantity, unit price, tax), subtotal, tax total, grand total, currency, and payment terms. See our <a href="https://help.formx.ai/reference/document-extraction" target="_blank">API documentation here</a>. You can also customise extracted fields through the FormX portal.<br />`,
+      },
+      {
+        question: "How does FormX compare to Veryfi or Parsio for invoice OCR?",
+        answer: `Veryfi and Parsio both extract invoice data. FormX is built for enterprise ERP integration — with native connectors for SAP S/4HANA, Oracle NetSuite, QuickBooks, and Microsoft Dynamics 365 — and supports ZUGFeRD and Factur-X e-invoice formats alongside standard PDFs and scans. <a href="/schedule-demo">Schedule a demo</a> to compare.<br />`,
+      },
+      {
+        question: "Does FormX support ZUGFeRD or Factur-X e-invoices?",
+        answer: `Yes. FormX extracts both the visible PDF data and the embedded XML from ZUGFeRD and Factur-X invoices, returning a unified JSON output. Useful for European AP workflows where e-invoice formats are increasingly mandatory. <a href="/schedule-demo">Contact us</a> to discuss your use case.<br />`,
       },
       {
         question: "Can I tailor what I need to extract from invoices or receipts?",
