@@ -1,10 +1,11 @@
 ---
 import PageLayout from '@/layouts/PageLayout.astro';
+import FAQSection from '@/components/sections/FAQSection.astro';
 ---
 
 <PageLayout
   title="ID and Passport Extraction"
-  description=""
+  description="Extract passport and ID card data instantly with OCR — name, DOB, document number, expiry, MRZ. Used for KYC, AML, and onboarding workflows. Free trial."
   canonicalUrl="https://www.formx.ai/tools/id-and-passport-extraction"
 >
   <section class="title-2 bg-f7f8fc">
@@ -146,13 +147,39 @@ import PageLayout from '@/layouts/PageLayout.astro';
     </div>
   </div>
 
+  <FAQSection
+    heading="Frequently Asked Questions"
+    items={[
+      {
+        question: "What data does FormX extract from a passport or ID card?",
+        answer: `FormX extracts full name, date of birth, nationality, document number, issue and expiry dates, issuing authority, and MRZ (machine-readable zone) data. For ID cards, it also extracts address where present. Output is available as JSON or Excel. <a href="/schedule-demo">Get in touch</a> to see a demo.<br />`,
+      },
+      {
+        question: "What document types does the ID extraction tool support?",
+        answer: `FormX supports passports, national ID cards, driver's licences, and residence permits from most countries. Documents can be submitted as PDF, JPG, or PNG — including phone photographs. <a href="/schedule-demo">Contact us</a> to verify support for a specific document type.<br />`,
+      },
+      {
+        question: "How does FormX help with KYC and onboarding workflows?",
+        answer: `FormX extracts structured identity data from uploaded documents and returns it as JSON, which can be fed directly into KYC platforms, CRM systems, or onboarding workflows via REST API. This removes manual data entry from identity verification steps. <a href="/schedule-demo">Schedule a demo</a> to see the integration.<br />`,
+      },
+      {
+        question: "Is identity document data safe when processed by FormX?",
+        answer: `FormX is ISO 27001 and SOC 2 Type II certified. All uploaded documents are encrypted in transit (TLS 1.2+) and at rest (AES-256). Documents are not retained after extraction. Read our <a href="/data-privacy-policy" target="_blank">data privacy policy</a> for more.<br />`,
+      },
+      {
+        question: "Is there a free trial for passport and ID extraction?",
+        answer: `Yes — the web tool is free with no signup required for single document extraction. Batch processing and API access require a free trial account. <a href="https://formextractorai.com/signup" target="_blank">Sign up</a> or <a href="/schedule-demo">contact us</a> to get started.<br />`,
+      },
+    ]}
+  />
+
   <section class="section whats-new">
     <div class="w-layout-blockcontainer container-default w-container">
       <div class="whats-new-last-section">
         <div class="whats-new-content-wrap">
           <h2 class="whats-new-last-section-heading color-white">Expanding Your Toolkit: FormX.ai Beyond Passport OCR</h2>
         </div>
-        <a href="/talk-with-us" class="button-primary button-white w-button">Schedule a Demo -&gt;</a>
+        <a href="/schedule-demo" class="button-primary button-white w-button">Schedule a Demo -&gt;</a>
       </div>
     </div>
   </section>

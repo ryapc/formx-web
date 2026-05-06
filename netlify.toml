@@ -11,6 +11,28 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
+# HTML pages: browsers always revalidate via ETag (304 on hit), CDN caches until next deploy.
+# Netlify atomic deploys purge all "durable" entries automatically — no staleness risk.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    Netlify-CDN-Cache-Control = "public, durable, s-maxage=31536000"
+
+# Static images from /public/images/ — filenames are not hashed, so revalidate at browser.
+# CDN caches forever and is purged on each deploy alongside HTML.
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+    Netlify-CDN-Cache-Control = "public, durable, s-maxage=31536000"
+
+# Self-hosted fonts (if added later) — filenames will be fingerprinted, so immutable is safe.
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
 # ---------------------------------------------------------------------------
 # Canonical domain redirect — send all Netlify subdomain traffic to production
 # ---------------------------------------------------------------------------
@@ -155,6 +177,7 @@
   from = "/blog/reduce-data-entry-and-start-automating-with-machine-learning-ocr"
   to = "/blog/ocr-accounting-automated-workflows-future-finance"
   status = 301
+
 
 # ---------------------------------------------------------------------------
 # HTML extension redirects (Webflow legacy URLs → clean Astro URLs)

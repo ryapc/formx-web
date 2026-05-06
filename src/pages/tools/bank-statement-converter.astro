@@ -7,14 +7,14 @@ import StatCard from '@/components/sections/StatCard.astro';
 
 <PageLayout
   title="Bank Statement Converter | Convert Bank Statement PDF to CSV"
-  description=""
+  description="Convert bank statement PDFs to Excel, CSV, or JSON. Extracts account details, balances, and every transaction from any bank layout — no templates, API available."
   canonicalUrl="https://www.formx.ai/tools/bank-statement-converter"
   showFooterForm={true}
 >
   <section class="title-2 bg-f7f8fc">
     <div class="w-layout-blockcontainer pagetitle__container w-container">
       <h1 class="pricing-title">Bank Statement Converter</h1>
-      <p class="section__header__content">AI powered bank statement converter to instantly convert bank statement PDF to Excel, CSV or JSON</p>
+      <p class="section__header__content">Convert bank statement PDFs to Excel, CSV, or JSON via API or web upload. FormX extracts account holder details, opening and closing balances, and every transaction — date, description, debit, credit — from any bank layout, without templates.</p>
       <div class="w-embed w-iframe">
         <iframe src="https://widgets.formx.ai/bank-statement" style="width: 100%; height: 600px" frameBorder="0"></iframe>
       </div>
@@ -24,31 +24,35 @@ import StatCard from '@/components/sections/StatCard.astro';
   <CTACard
     heading="Get started with FormX.ai"
     ctaPrimary={{ text: "Start Free Trial", href: "https://formextractorai.com/signup" }}
-    ctaSecondary={{ text: "Speak with an Expert ->", href: "/talk-with-us" }}
+    ctaSecondary={{ text: "Speak with an Expert ->", href: "/schedule-demo" }}
   />
 
   <FAQSection
     heading="Frequently Asked Questions"
     items={[
       {
-        question: "What Data Can I Extract Using This PDF Bank Statement Converter?",
-        answer: `FormX can extract all data needed for businesses to expedite various application processes. These extraction items include but are not limited to the name and address of account owner, open and close balances, issue date of the statement, all transactions, and more.`,
+        question: "What data does FormX extract from a bank statement?",
+        answer: `FormX extracts account holder name and address, account number, statement period, opening and closing balances, and a full transaction list — date, description, debit amount, credit amount, and running balance for every row. Output is available as Excel, CSV, or JSON. <a href="/schedule-demo">Get in touch</a> to see a live demo.<br />`,
       },
       {
-        question: "What Types of Bank Statements Can Be Converted?",
-        answer: `FormX can extract data from all kinds of bank statements with various layouts and formats as it is not a template-based solution. Training a new extractor is also simple and requires as little as one sample image. <a href="https://formextractorai.com/signup" target="_blank">Sign up for a free trial</a> to see how simple it is to automate bank statement data extraction.`,
+        question: "What is the best bank statement OCR API?",
+        answer: `The FormX bank statement API extracts transaction data from any bank layout — including multi-page statements, scanned PDFs, and image uploads — and returns structured JSON with account info, statement period, and a full transaction list. No templates or bank-specific configuration required. <a href="https://help.formx.ai/reference/document-extraction" target="_blank">View API documentation</a>.<br />`,
       },
       {
-        question: "How Does FormX Convert PDF Bank Statement to Excel, CSV, or JSON?",
-        answer: `FormX leverages different AI technologies, such as OCR, Machine Learning, Large Language Models like GPT-4, etc., to do more than just converting images of bank statements into machine-encoded texts. It can understand the content of the bank statements, identify relevant data fields, and return them in structured data formats like Excel, CSV, or JSON, which can be directly used by other systems or applications for workflow automation or data analysis.<br />`,
+        question: "Which banks and statement formats does FormX support?",
+        answer: `FormX is template-free and processes statements from any bank — US, UK, EU, and APAC. It handles multi-column layouts, multi-page PDFs, and statements exported as images. There is no list of supported banks because FormX reads content, not templates. <a href="/schedule-demo">Contact us</a> to test a specific format.<br />`,
       },
       {
-        question: "Is the Extracted Data Safe With FormX?",
-        answer: `Certainly. Bank statement contains financial and personal data that should only be accessible to authorized parties. FormX does not use or store the extracted data in any permanent storage. Read our <a href="/data-privacy-policy" target="_blank">data privacy policy</a> for more.<br />`,
+        question: "How does FormX compare to DocuClipper for bank statement conversion?",
+        answer: `Both convert bank statements to structured data. FormX is API-first and built for lending platforms, mortgage brokers, and accounting software that need programmatic access and direct system integration — not just file downloads. <a href="/schedule-demo">Schedule a demo</a> to see the API in action.<br />`,
       },
       {
-        question: "Is The Online PDF Bank Statement Converter Free to Use?",
-        answer: `Yes, this PDF bank statement convert is free to use.<br /><br />If you wish to integrate automated bank statement data extraction with other applications, you can <a href="https://formextractorai.com/signup" target="_blank">sign up for a free trial</a> of FormX or <a href="/talk-with-us" target="_blank">contact us</a> to learn more about how FormX can be of help to your business.<br /><br />FormX offers a more advanced solution with pre-built extraction models, or extractor, including receipt, bank statement, invoice, and more. You can also build your own custom extractor with as little as one sample.`,
+        question: "Who uses bank statement conversion APIs?",
+        answer: `Mortgage lenders verifying income and cash flow, fintech apps automating expense categorisation, accounting firms processing client statements in bulk, and lending platforms running affordability checks. FormX integrates with Xero, QuickBooks, Sage, and custom systems via REST API.<br />`,
+      },
+      {
+        question: "Is the bank statement converter free to use?",
+        answer: `Yes — the web tool is free with no signup required. Batch processing and API access are available on a free trial account. <a href="https://formextractorai.com/signup" target="_blank">Sign up</a> or <a href="/schedule-demo">contact us</a> to get started.<br />`,
       },
     ]}
   />
@@ -57,7 +61,7 @@ import StatCard from '@/components/sections/StatCard.astro';
     <div class="container-default w-container">
       <div class="product-heading-content-wrapper">
         <div class="product-heading-wrapper">
-          <h2 class="product-heading">Make Your Image to Excel Conversion Intelligent and Automated with FormX</h2>
+          <h2 class="product-heading">Make Your Bank Statement Conversion Intelligent and Automated with FormX</h2>
         </div>
         <div class="product-content-wrapper">
           <div class="_3-block-grid">
