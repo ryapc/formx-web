@@ -21,7 +21,7 @@ const { href, title, image, imageAlt, tag, tagHref, date } = Astro.props;
         src={image}
         alt={imageAlt || title}
         class="image card-blog-post-featured img-fluid-block"
-        loading="lazy"
+        loading="eager"
       />
     </div>
   </a>
