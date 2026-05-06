@@ -8,14 +8,14 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/65c497f25a6daa7152c43596_FakeBankStatement_Featured.jpeg"
 featured_image_alt: "Protect Your Business: The Threat of Fake Bank Statements and How to Defend Yourself"
-canonical_url: "/blog/protect-your-business-the-threat-of-fake-bank-statements-and-how-to-defend-yourself"
+canonical_url: "/blog/protect-your-business-the-threat-of-fake-bank-statements-and-how-to-defend-yourself/"
 ---
 
 In today's digital world, fraudsters are constantly devising new ways to exploit vulnerabilities. One concerning tactic is the use of fake bank statements. These fabricated documents can appear deceptively real, posing a significant threat to businesses large and small.
 
 ## Understanding the Risks:
 
-![](/images/blog/65c4982cdc14796ce2e009d7_FakeBankStatement_2.jpeg)
+![](/images/blog/65c4982cdc14796ce2e009d7_FakeBankStatement_2.jpeg/)
 
 Understanding the Risks
 
@@ -33,7 +33,7 @@ By understanding these far-reaching consequences, businesses can appreciate the 
 
 ## 3 Steps to Unmask the Deception: Spotting Edited Bank Statements
 
-![](/images/blog/65c4980d8589fed620e0fcf4_FakeBankStatement_1.jpeg)
+![](/images/blog/65c4980d8589fed620e0fcf4_FakeBankStatement_1.jpeg/)
 
 3 Steps to Unmask the Deception: Spotting Edited Bank Statements
 
@@ -67,7 +67,7 @@ Step 3: Leverage Technology:
 
 ## The Cost of Falling Victim:
 
-![](/images/blog/65c4984ad7187db51fd410ef_FakeBankStatement_3.jpeg)
+![](/images/blog/65c4984ad7187db51fd410ef_FakeBankStatement_3.jpeg/)
 
 The Cost of Falling Victim
 
@@ -81,7 +81,7 @@ The consequences of failing to detect a fake bank statement can be severe:
 
 ## Proactive Defense: Building a Fortress Against Deception
 
-![](/images/blog/65c4990647767cd51681488a_FakeBankStatement_4.jpeg)
+![](/images/blog/65c4990647767cd51681488a_FakeBankStatement_4.jpeg/)
 
 Proactive Defense: Building a Fortress Against Deception
 

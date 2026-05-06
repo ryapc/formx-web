@@ -27,7 +27,7 @@ const categories = Object.entries(CATEGORY_LABELS);
 <PageLayout
   title={`${categoryLabel} - FormX.ai Blog`}
   description={`Read all ${categoryLabel} articles from the FormX.ai team on document processing, AI, and automation.`}
-  canonicalUrl={`https://www.formx.ai/blog-post-category/${category}`}
+  canonicalUrl={`https://www.formx.ai/blog-post-category/${category}/`}
   bodyClass="blog-page"
 >
   <div class="section blog-hero">
@@ -40,16 +40,16 @@ const categories = Object.entries(CATEGORY_LABELS);
     <div class="container-default w-container">
       {/* Category filter tabs */}
       <div class="blog-categories-grid">
-        <a href="/blog" class="button-blog-category w-button">All</a>
+        <a href="/blog/" class="button-blog-category w-button">All</a>
         {categories.map(([slug, label]) => (
           <a
-            href={`/blog-post-category/${slug}`}
+            href={`/blog-post-category/${slug}/`}
             class={`button-blog-category w-button${slug === category ? ' w--current' : ''}`}
           >
             {label}
           </a>
         ))}
-        <a href="/whats-new" class="button-blog-category w-button">What's New</a>
+        <a href="/whats-new/" class="button-blog-category w-button">What's New</a>
       </div>
     </div>
   </div>

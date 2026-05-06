@@ -255,27 +255,27 @@
 
 [[redirects]]
   from = "/products/*.html"
-  to = "/products/:splat"
+  to = "/products/:splat/"
   status = 301
 
 [[redirects]]
   from = "/solutions/*.html"
-  to = "/solutions/:splat"
+  to = "/solutions/:splat/"
   status = 301
 
 [[redirects]]
   from = "/tools/*.html"
-  to = "/tools/:splat"
+  to = "/tools/:splat/"
   status = 301
 
 [[redirects]]
   from = "/blog/*.html"
-  to = "/blog/:splat"
+  to = "/blog/:splat/"
   status = 301
 
 [[redirects]]
   from = "/whats-new/*.html"
-  to = "/whats-new/:splat"
+  to = "/whats-new/:splat/"
   status = 301
 
 # ---------------------------------------------------------------------------
@@ -295,7 +295,7 @@
 
 [[redirects]]
   from = "/documents/*"
-  to = "/solutions/:splat"
+  to = "/solutions/:splat/"
   status = 301
 
 # ---------------------------------------------------------------------------
@@ -375,7 +375,7 @@
 
 [[redirects]]
   from = "/customer-story/:splat"
-  to = "/success-stories/:splat"
+  to = "/success-stories/:splat/"
   status = 301
 
 [[redirects]]
@@ -424,7 +424,7 @@
 
 [[redirects]]
   from = "/category/:splat"
-  to = "/blog-post-category/:splat"
+  to = "/blog-post-category/:splat/"
   status = 301
 
 [[redirects]]

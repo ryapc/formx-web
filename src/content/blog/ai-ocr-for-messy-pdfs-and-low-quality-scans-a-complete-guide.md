@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/698379bf643af4eaff9aa825_1.png"
 featured_image_alt: "AI OCR for Messy PDFs and Low-Quality Scans: A Complete Guide"
-canonical_url: "/blog/ai-ocr-for-messy-pdfs-and-low-quality-scans-a-complete-guide"
+canonical_url: "/blog/ai-ocr-for-messy-pdfs-and-low-quality-scans-a-complete-guide/"
 ---
 
 Finance teams deal with document chaos every day. Faded receipts from thermal printers, skewed invoice scans, handwritten notes on purchase orders, and blurry photos of bank statements. Traditional OCR tools often fail on these messy documents, forcing teams back to manual data entry.

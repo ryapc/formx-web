@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/6513c6234a095aedb4bc0aee_esg-hexagon.jpeg"
 featured_image_alt: "How to Plan and Do ESG Data Collection Right?"
-canonical_url: "/blog/esg-data-collection"
+canonical_url: "/blog/esg-data-collection/"
 ---
 
 In 2022, the Securities and Exchange Commission (SEC) shared plans to update the rules regarding climate change disclosures and just this year, in 2023, the EU began revisiting its own approach. Neither instance has resulted in finalized laws just yet, but both point to the increasing importance of well-managed climate and environmental data.
@@ -47,7 +47,7 @@ Data plays a significant role in helping businesses show a clean bill of health 
 
 In their 2021 Global Investor Survey, PWC found that [79%](<https://www.pwc.com/us/en/services/esg/library/esg-data-collection-reporting.html>) of investors trust ESG information if it has been assured through auditing. This emphasizes how important it is that ESG data collection be done in a manner that is organized and audit-friendly.
 
-![](/images/blog/6513d9c044bdb5ff8f1d5c9e_data-puzzle.jpeg)
+![](/images/blog/6513d9c044bdb5ff8f1d5c9e_data-puzzle.jpeg/)
 
 ESG data casts a relatively wide net, from qualitative data regarding workplace conditions to quantitative information on emissions and environmental resource management. The scope can be intimidating but why is it worth investing in ESG data collection?
 

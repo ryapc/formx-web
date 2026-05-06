@@ -2,7 +2,7 @@
 title: "Terms of Services"
 heading: "Terms of Service"
 description: ""
-canonicalUrl: "https://www.formx.ai/terms-of-service"
+canonicalUrl: "https://www.formx.ai/terms-of-service/"
 ---
 
 ## 1. Your Agreement with FormX

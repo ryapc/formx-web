@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/6992ff3379878da6cfbe145f_2.png"
 featured_image_alt: "How to Choose the Right Intelligent Document Processing Platform"
-canonical_url: "/blog/how-to-choose-the-right-intelligent-document-processing-platform"
+canonical_url: "/blog/how-to-choose-the-right-intelligent-document-processing-platform/"
 ---
 
 # How to Choose the Right Intelligent Document Processing Platform

@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/6802013ac1217bcae8c01d24_ZUGFeRD%2C-XRechnung-%26-Factur-X_-Germany%27s-E-Invoicing-Guide.jpeg"
 featured_image_alt: "ZUGFeRD, XRechnung & Factur-X: Germany's E-Invoicing Guide"
-canonical_url: "/blog/zugferd-xrechnung-factur-x-germanys-e-invoicing-guide"
+canonical_url: "/blog/zugferd-xrechnung-factur-x-germanys-e-invoicing-guide/"
 ---
 
 Electronic invoicing is becoming increasingly important in the business world, particularly in Germany. As of January 2025, businesses in Germany will be required to adopt new standards for electronic invoicing, primarily XRechnung and ZUGFeRD.
@@ -19,7 +19,7 @@ These formats are designed to streamline invoicing processes, reduce errors, and
 
 XRechnung is a standardized format for electronic invoices in Germany. It is an XML-based semantic data model that complies with the European standard EN 16931.
 
-![Illustration of Germany map with handshake and paid invoice icon.](/images/blog/proxyimage-68020110.jpeg)
+![Illustration of Germany map with handshake and paid invoice icon.](/images/blog/proxyimage-68020110.jpeg/)
 
 XRechnung: Germany's standard for electronic invoicing.
 
@@ -38,7 +38,7 @@ ZUGFeRD (Zentraler User Guide des Forums elektronische Rechnung Deutschland) is 
 
 ZUGFeRD 2.1.1 with the "XRechnung" profile generates invoices that are compliant with the XRechnung standard.
 
-![Screenshots showing ZUGFeRD e-invoicing format validation and import options.](/images/blog/proxyimage-6802012e.webp)
+![Screenshots showing ZUGFeRD e-invoicing format validation and import options.](/images/blog/proxyimage-6802012e.webp/)
 
 ZUGFeRD: Germany's hybrid e-invoicing standard explained.
 
@@ -46,7 +46,7 @@ ZUGFeRD: Germany's hybrid e-invoicing standard explained.
 
 Factur-X is essentially the French counterpart to ZUGFeRD. It is a hybrid invoice format that combines PDF/A-3 and XML, similar to ZUGFeRD.
 
-![Visual representation of creating ZUGFeRD/Factur-X invoices.](/images/blog/proxyimage-68020112.png)
+![Visual representation of creating ZUGFeRD/Factur-X invoices.](/images/blog/proxyimage-68020112.png/)
 
 Streamlining invoices with ZUGFeRD and Factur-X formats.
 
@@ -56,7 +56,7 @@ The Factur-X and ZUGFeRD formats are now technically identical, facilitating cro
 
 While XRechnung is a pure XML format, ZUGFeRD and Factur-X are hybrid formats combining PDF and XML. This means:
 
-![Tablet displaying invoice data over architectural plans.](/images/blog/proxyimage-68020110.webp)
+![Tablet displaying invoice data over architectural plans.](/images/blog/proxyimage-68020110.webp/)
 
 Hybrid formats: merging XML with PDF for flexibility.
 

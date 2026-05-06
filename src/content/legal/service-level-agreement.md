@@ -2,7 +2,7 @@
 title: "Service Level Agreement"
 heading: "Service Level Agreement"
 description: ""
-canonicalUrl: "https://www.formx.ai/service-level-agreement"
+canonicalUrl: "https://www.formx.ai/service-level-agreement/"
 ---
 
 We understand that service interruptions hinder productivity and disrupt your operation.

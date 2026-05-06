@@ -8,16 +8,16 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/6527c3d5c597a48dc0e726fc_accounting-calculate.jpeg"
 featured_image_alt: "What Is 3-Way Matching in Accounts Payable? How to Automate It with AI?"
-canonical_url: "/blog/three-way-matching"
+canonical_url: "/blog/three-way-matching/"
 ---
 
-The typical business [reportedly](<https://www.fraud.com/post/the-actual-cost-of-fraud>) loses about 5% of its annual revenue to fraud and unauthorized transactions, with only about 14% of them recovering these financial losses. Three-way matching in [accounts payable](/blog/accounts-payable-process) is one of the best ways to mitigate against these risks. As we’ll explore in this article, it pushes businesses to double and triple-check all transactions so that discrepancies get caught before they become problems.
+The typical business [reportedly](<https://www.fraud.com/post/the-actual-cost-of-fraud>) loses about 5% of its annual revenue to fraud and unauthorized transactions, with only about 14% of them recovering these financial losses. Three-way matching in [accounts payable](/blog/accounts-payable-process/) is one of the best ways to mitigate against these risks. As we’ll explore in this article, it pushes businesses to double and triple-check all transactions so that discrepancies get caught before they become problems.
 
 However, the way in which three-way matching is integrated and operated hugely shapes its accuracy. That’s where AI technology comes in. Keep reading for not only a guide to three-way matching in accounts payable, but also how AI can be used to automate and bolster its most effective characteristics so that businesses can rest assured that transactions are fraud and error-free.
 
 3-way matching in accounts payable is a system intended to thoroughly check transaction details for payment authorization. It gets its name not because it’s just three steps, but because it requires that the details in all three of the following documents match up before payment:
 
-  1. **The Purchase Order:** Confirmation from the buyer to the vendor authorizing the purchase. For a closer look at processing purchase orders specifically, click [here](/blog/purchase-order-processing).
+  1. **The Purchase Order:** Confirmation from the buyer to the vendor authorizing the purchase. For a closer look at processing purchase orders specifically, click [here](/blog/purchase-order-processing/).
   2. **The Supplier’s Invoice:** This is sent from the vendor detailing what’s been ordered and needs paying.
   3. **The Delivery Receipt:** Also from the vendor, this document should include the date of delivery and an itemized list of what was included in the delivery.
 
@@ -82,7 +82,7 @@ In an audit, transactions and the paper trail behind them will be checked with a
 
 All that triple-checking brings with it a massive advantage in better preparing businesses for audits as each transaction will then have a clear trail of documentation to support it.
 
-![](/images/blog/6527c59481cc9dc76d401a72_woman-calculating.jpeg)
+![](/images/blog/6527c59481cc9dc76d401a72_woman-calculating.jpeg/)
 
 As you’ve probably noticed by now, 3-way matching in accounts payable is not a simple task. Going through three different documents and making sure that all necessary details line up has traditionally required staff to sit for hours painstakingly going through each document and inputting it to a central system.
 
@@ -90,7 +90,7 @@ It’s slow, inefficient, prone to errors that are often costly, and a little to
 
 Automating 3-way matching in accounts payable primarily involves automating the extraction of relevant data. Software can also be used to check information against each other but there’s usually some manual intervention needed before the final authorization. As we’ll explore more in the next section, automating data extraction in accounts payable saves businesses from the problems of manual approaches and helps them get the most out of three-way matching.
 
-At FormX, we offer an Intelligent Document Processing (IDP) solution that uses AI technology such as machine learning, natural language processing, and large language models to scan and understand documents such as [purchase orders](/blog/purchase-order-processing), extract the relevant information, and add it to central systems as structured data. This makes it easier than ever to perform the checks and balances involved in 3-way matching.
+At FormX, we offer an Intelligent Document Processing (IDP) solution that uses AI technology such as machine learning, natural language processing, and large language models to scan and understand documents such as [purchase orders](/blog/purchase-order-processing/), extract the relevant information, and add it to central systems as structured data. This makes it easier than ever to perform the checks and balances involved in 3-way matching.
 
 Here are some of the advantages of automating three-way matching through automated, AI-powered data extraction:
 

@@ -8,14 +8,14 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/68074a27b314adec39007417_ZUGFeRD-%26-Factur-X_-Your-Guide-to-E-Invoice-Compliance.jpeg"
 featured_image_alt: "ZUGFeRD & Factur-X: Your Guide to E-Invoice Compliance"
-canonical_url: "/blog/zugferd-factur-x-your-guide-to-e-invoice-compliance"
+canonical_url: "/blog/zugferd-factur-x-your-guide-to-e-invoice-compliance/"
 ---
 
 ZUGFeRD and Factur-X are hybrid electronic invoice formats that combine PDF and XML files. ZUGFeRD 2.3 and Factur-X 1.0.07 are fully compatible and technically identical, based on the UN/CEFACT CII D22B standard.
 
-These formats comply with the European standard EN 16931, which regulates [electronic invoicing for public sector customers (B2G)](/blog/ditch-the-manual-mayhem-unveiling-the-power-of-invoice-scanning-software).
+These formats comply with the European standard EN 16931, which regulates [electronic invoicing for public sector customers (B2G)](/blog/ditch-the-manual-mayhem-unveiling-the-power-of-invoice-scanning-software/).
 
-![Global map with red dotted lines connecting regions and a paid invoice icon.](/images/blog/proxyimage-68074a42.jpeg)
+![Global map with red dotted lines connecting regions and a paid invoice icon.](/images/blog/proxyimage-68074a42.jpeg/)
 
 EN 16931: Standardizing electronic invoices worldwide.
 
@@ -83,7 +83,7 @@ To ensure compliance with ZUGFeRD and Factur-X standards, e-invoices must includ
 
 ## Implementing E-Invoice Compliance
 
-To successfully implement [e-invoice compliance](/blog/invoice-processing-automation-streamline-your-workflow-with-ai):
+To successfully implement [e-invoice compliance](/blog/invoice-processing-automation-streamline-your-workflow-with-ai/):
 
   1. Partner with a reliable access point provider.
   2. Register on the appropriate e-invoicing network.
@@ -95,7 +95,7 @@ To successfully implement [e-invoice compliance](/blog/invoice-processing-automa
 
 ## Addressing Common Challenges
 
-When implementing [e-invoice compliance](/blog/invoice-processing-automation-streamline-your-workflow-with-ai), be prepared to address:
+When implementing [e-invoice compliance](/blog/invoice-processing-automation-streamline-your-workflow-with-ai/), be prepared to address:
 
   * Integration with existing financial systems
   * Ensuring data accuracy and completeness
@@ -104,4 +104,4 @@ When implementing [e-invoice compliance](/blog/invoice-processing-automation-str
 
 
 
-By following this checklist and staying informed about the latest developments in e-invoicing standards, businesses can ensure compliance with [ZUGFeRD and Factur-X requirements](/blog/invoice-digitization-automate-invoice-processing), streamline their invoicing processes, and maintain regulatory adherence across various jurisdictions.
+By following this checklist and staying informed about the latest developments in e-invoicing standards, businesses can ensure compliance with [ZUGFeRD and Factur-X requirements](/blog/invoice-digitization-automate-invoice-processing/), streamline their invoicing processes, and maintain regulatory adherence across various jurisdictions.

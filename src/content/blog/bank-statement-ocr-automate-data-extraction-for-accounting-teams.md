@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/6993000979878da6cfbe4155_1.png"
 featured_image_alt: "Bank Statement OCR: Automate Data Extraction for Accounting Teams"
-canonical_url: "/blog/bank-statement-ocr-automate-data-extraction-for-accounting-teams"
+canonical_url: "/blog/bank-statement-ocr-automate-data-extraction-for-accounting-teams/"
 ---
 
 Bank statement processing is one of the most tedious tasks in accounting. Whether you are reconciling transactions in QuickBooks, preparing audit documentation in Xero, or importing statement data into SAP, the workflow usually starts the same way: downloading PDFs from banking portals and manually typing transaction data into spreadsheets or accounting software.

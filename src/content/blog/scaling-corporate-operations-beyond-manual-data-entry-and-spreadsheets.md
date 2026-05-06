@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/Screenshot-2026-04-13-at-10.05.23 PM.png"
 featured_image_alt: "Scaling Corporate Operations: Beyond Manual Data Entry and Spreadsheets"
-canonical_url: "/blog/scaling-corporate-operations-beyond-manual-data-entry-and-spreadsheets"
+canonical_url: "/blog/scaling-corporate-operations-beyond-manual-data-entry-and-spreadsheets/"
 ---
 
 ‍**The Strategic Shift to Enterprise and Data Automation**
@@ -52,7 +52,7 @@ For insurance and financial auditing, the benefits are even more pronounced. In 
 
 **A:** OCR (Optical Character Recognition) [converts images into raw text](<../tools/invoice-ocr-api.html>) while IDP (Intelligent Document Processing) also utilises OCR technology but then uses AI to interpret that text, identifying the relationship between data points (e.g., matching a "Total" to a specific "Currency").
 
-![](/images/blog/28fafaa8.png)
+![](/images/blog/28fafaa8.png/)
 
 **Q: How do I choose a data extraction software?**
 

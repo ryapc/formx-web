@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/69b6ce71e877c65b1336c2d1_2.png"
 featured_image_alt: "Docsumo Alternative for Bank PDF to Excel: How FormX Automates Bank Statement Extraction for QuickBooks and Xero Teams"
-canonical_url: "/blog/docsumo-alternative-for-bank-pdf-to-excel-how-formx-automates-bank-statement-extraction-for-quickbooks-and-xero-teams"
+canonical_url: "/blog/docsumo-alternative-for-bank-pdf-to-excel-how-formx-automates-bank-statement-extraction-for-quickbooks-and-xero-teams/"
 ---
 
 Bank statements are one of the most time-consuming documents in any accounting workflow. Finance teams receive PDF statements from banks, need to extract every transaction, and then reconcile that data in QuickBooks, Xero, or a spreadsheet. Without the right tool, this is hours of manual copying every month.

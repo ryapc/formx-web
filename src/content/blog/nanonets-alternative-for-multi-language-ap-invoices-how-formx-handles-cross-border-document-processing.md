@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/69ae4f7b2354e57aa812f48c_1.png"
 featured_image_alt: "Nanonets Alternative for Multi-Language AP Invoices: How FormX Handles Cross-Border Document Processing"
-canonical_url: "/blog/nanonets-alternative-for-multi-language-ap-invoices-how-formx-handles-cross-border-document-processing"
+canonical_url: "/blog/nanonets-alternative-for-multi-language-ap-invoices-how-formx-handles-cross-border-document-processing/"
 ---
 
 In a globalized economy, businesses juggle invoices from multiple countries, each with its own language, currency, and format. This complexity can overwhelm accounts payable (AP) teams, leading to manual data entry, costly errors, and delayed payments. Standard AP automation tools and basic OCR often fall short, failing to decipher the nuances of international documents.

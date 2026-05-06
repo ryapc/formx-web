@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 heading: "Data Privacy Policy"
 description: ""
-canonicalUrl: "https://www.formx.ai/data-privacy-policy"
+canonicalUrl: "https://www.formx.ai/data-privacy-policy/"
 ---
 
 ## Who We Are

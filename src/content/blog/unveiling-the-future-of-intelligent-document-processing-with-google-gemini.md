@@ -7,12 +7,12 @@ author: FormX
 date: 2026-04-18
 featured_image: "/images/blog/657560113dcb29ab01e95237__4463160b-04db-45ab-96b9-2f420901948b.jpeg"
 featured_image_alt: "Unveiling the Future of Intelligent Document Processing with Google Gemini"
-canonical_url: "/blog/unveiling-the-future-of-intelligent-document-processing-with-google-gemini"
+canonical_url: "/blog/unveiling-the-future-of-intelligent-document-processing-with-google-gemini/"
 ---
 
 The world of document processing is standing at the precipice of a colossal transformation. With the impending arrival of Google Gemini, a revolutionary large language model (LLM), solutions dedicated to intelligent document processing, like FormX.ai, are poised to unlock unprecedented capabilities. This blog delves into the potential of integrating Google Gemini for intelligent document processing and explores how FormX.ai prepares to leverage its power for greater accuracy and efficiency.
 
-![](/images/blog/6575653bf5303e36c3bec274_large-language-model-search-trend.jpeg)
+![](/images/blog/6575653bf5303e36c3bec274_large-language-model-search-trend.jpeg/)
 
 Large Language Model - Search Trend - Interest Over Time
 

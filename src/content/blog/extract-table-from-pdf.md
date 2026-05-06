@@ -8,14 +8,14 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/640819843340376e2a48db16_pdf-table-featured.png"
 featured_image_alt: "How to Extract Tables from PDF"
-canonical_url: "/blog/extract-table-from-pdf"
+canonical_url: "/blog/extract-table-from-pdf/"
 ---
 
-Almost every business today stores its documents in PDF format. It's no surprise, given the convenience of the format and its popularity for sharing documents. However, [extracting data from PDFs](/blog/extract-data-from-pdf-to-structured-data) can be challenging, especially when the files contain scanned images of the physical document.
+Almost every business today stores its documents in PDF format. It's no surprise, given the convenience of the format and its popularity for sharing documents. However, [extracting data from PDFs](/blog/extract-data-from-pdf-to-structured-data/) can be challenging, especially when the files contain scanned images of the physical document.
 
 Although you can use the tedious approach of manually copying and pasting data from PDFs into another document, extracting tables from PDF files is certainly way more challenging and complicated. You cannot copy and paste without distorting columns and rows.
 
-Despite the challenges, it's vital to understand how to extract tables from PDFs because various documents like [bank statements](/blog/bank-statement-ocr), [purchase orders](/blog/purchase-order-processing), and other financial statements include tables. You can only benefit from the data in these documents if you make sense of it by digitizing and turning it into a structured format.
+Despite the challenges, it's vital to understand how to extract tables from PDFs because various documents like [bank statements](/blog/bank-statement-ocr/), [purchase orders](/blog/purchase-order-processing/), and other financial statements include tables. You can only benefit from the data in these documents if you make sense of it by digitizing and turning it into a structured format.
 
 Luckily, there are several tools like FormX to help you extract tables from PDF efficiently. Read on to learn about the various solutions you can leverage to get a table from a PDF in no time.
 
@@ -25,7 +25,7 @@ If your tabulated data is trapped in a PDF file and you would like to use it els
 
 ### FormX
 
-FormX is an [intelligent document processing](</blog/what-is-document-processing#idp>) solution that helps businesses extract data and tables from PDFs or images and converts them into structured data formats like JSON or CSV. It leverages AI technologies like OCR and machine learning to enhance data validation, [document classification](/blog/document-classification), and information extraction. The AI technologies ensure data extraction is not limited to native PDFs and allow users to create and train their own extractors without writing a single line of code.
+FormX is an [intelligent document processing](</blog/what-is-document-processing#idp>) solution that helps businesses extract data and tables from PDFs or images and converts them into structured data formats like JSON or CSV. It leverages AI technologies like OCR and machine learning to enhance data validation, [document classification](/blog/document-classification/), and information extraction. The AI technologies ensure data extraction is not limited to native PDFs and allow users to create and train their own extractors without writing a single line of code.
 
 FormX is fast, accurate, and more importantly easy to use. It comes with a set of pre-trained extractors, such as IDs, receipts, business registration, etc., that users can use directly to extract table and data fields from various documents. Moreover, the simple integration via API allows businesses to easily send the extracted result to different software for further processing or analysis.
 
@@ -37,27 +37,27 @@ Extracting tables from PDF only takes a few steps to set up.
 
 You can process the first 100 pages of bank statements with FormX for free! You simply have to sign up [**here**](<https://formextractorai.com/signup>).
 
-![](/images/blog/63ef0a4e6f3c2cbaa24c78eb_formx-signup.png)
+![](/images/blog/63ef0a4e6f3c2cbaa24c78eb_formx-signup.png/)
 
 **Step 2. Create your table extractor**
 
 After creating an account, you can then create an extractor to extract tables or other data fields based on the type of your documents.
 
-![](/images/blog/63ef0ab8854a63359f3607fb_extractor-create.png)
+![](/images/blog/63ef0ab8854a63359f3607fb_extractor-create.png/)
 
 **Step 3. Upload your master image and mark your fields/regions**
 
-![](/images/blog/63ef0b0fadd38babf89bc880_labeling.png)
+![](/images/blog/63ef0b0fadd38babf89bc880_labeling.png/)
 
 If your document has a fixed layout, you can then upload a master image and label the anchor regions, which are regions with fixed positions, and detection regions, which are the places where the data can be found.
 
 When labelling the detection regions, you have a variety of extraction items or data types to choose to maximize the accuracy of the extracted results.
 
-![](/images/blog/63ef0ce86f3c2cec8a4cc089_data-type.png)
+![](/images/blog/63ef0ce86f3c2cec8a4cc089_data-type.png/)
 
 **Step 4. Test your extractor**
 
-![](/images/blog/63ef0d5292f26df2eed07cdc_extractor-testing.png)
+![](/images/blog/63ef0d5292f26df2eed07cdc_extractor-testing.png/)
 
 After labelling the regions, you can then upload a sample image to test the accuracy of your table extractor. As you can see, FormX has successfully extracted the table.
 

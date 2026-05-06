@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/64dee128c00fcf95a5069315_finance-calculator.jpeg"
 featured_image_alt: "Automate Financial Data Extraction: Why Your Business Needs It"
-canonical_url: "/blog/financial-data-extraction"
+canonical_url: "/blog/financial-data-extraction/"
 ---
 
 A business’s financial data holds huge value for both daily financial tasks and long-term concerns. Things like financial analysis, checking up on regulatory compliance, and even being able to pay bills on time all require important financial information to be made available for processing.
@@ -39,12 +39,12 @@ Though financial data can encompass a wide range of information, these are the k
   * **A Balance Sheet:** This is an integral accounting document and financial statement that reports what an entity owns (assets), owes (liabilities), and what shareholders' equity is. It showcases the company's financial health and solvency.
   * **Cash Flow Statement:** This statement summarizes how much cash or cash equivalents are transferred in and out of a business. Money received represents inflows, while money spent represents outflows.
   * **Investment Data:** Investment data refers to the information concerning a person or company’s investment(s) made in stocks, bonds, real estate, and other financial instruments.
-  * **Bank Statements:** A staple for any business, a [bank statement](/blog/bank-statement-ocr) summarizes all account transactions on a monthly basis in paper or digital form and contains information about checking and savings accounts, such as account numbers as well as deposits and withdrawals.
+  * **Bank Statements:** A staple for any business, a [bank statement](/blog/bank-statement-ocr/) summarizes all account transactions on a monthly basis in paper or digital form and contains information about checking and savings accounts, such as account numbers as well as deposits and withdrawals.
   * **Payroll Records:** Payroll records are the combined information regarding how much money has been paid or is owed to employees and how this has been calculated. For example, hours worked, contributions to any benefits, tax findings, etc.
 
 
 
-Other financial documents, including [invoices](/blog/invoice-data-capture), bills, credit reports, and more, also provide vital financial information that needs to be extracted. There is almost no end to the documents that financial data can be sourced from, which is why extracting and compiling data can be such a frustrating task when performed manually – something we’ll look at more in the next section.
+Other financial documents, including [invoices](/blog/invoice-data-capture/), bills, credit reports, and more, also provide vital financial information that needs to be extracted. There is almost no end to the documents that financial data can be sourced from, which is why extracting and compiling data can be such a frustrating task when performed manually – something we’ll look at more in the next section.
 
 Precise financial decisions depend on data being accurate and reliable and as such, that the extraction process be free of errors and inconsistencies. Unfortunately, the main limitation of manual financial data extraction is that not only is it resource-intensive, but it’s far more likely to incur duplicates and mistakes than automated approaches simply because of human error.
 
@@ -56,7 +56,7 @@ This illustrates just how inefficient manual financial data extraction can becom
 
 The reason for needing financial data extraction in the first place is that most analytics software can’t process information from unstructured formats such as PDFs or scanned images. Information must be extracted from PDFs and paper documents and converted to structured formats such as JSON or CSV in order for the full value of the data to be accessed.
 
-[Intelligent Document Processing](/blog/what-is-document-processing) (IDP) solutions offer a way to perform this task automatically, replacing the need for manual data entry and all the frustrations that come with it. It uses artificial intelligence (AI) technology such as [Optical Character Recognition](</blog/what-is-data-capture-and-how-to-use-it#ocr>) (OCR) which scans text within a PDF or image and extracts it, and then machine learning (ML) and natural language processing to understand the value of each piece of data so that only the relevant information is added to the central data system.
+[Intelligent Document Processing](/blog/what-is-document-processing/) (IDP) solutions offer a way to perform this task automatically, replacing the need for manual data entry and all the frustrations that come with it. It uses artificial intelligence (AI) technology such as [Optical Character Recognition](</blog/what-is-data-capture-and-how-to-use-it#ocr>) (OCR) which scans text within a PDF or image and extracts it, and then machine learning (ML) and natural language processing to understand the value of each piece of data so that only the relevant information is added to the central data system.
 
 It's a complex set of technologies, but with IDP, it all works in harmony to extract data from financial statements and other documents without any human intervention needed.
 

@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/6436577f7bd14f4969014a15_formx-gpt-featured.png"
 featured_image_alt: "The Future of Intelligent Document Processing with ChatGPT"
-canonical_url: "/blog/idp-gpt-4"
+canonical_url: "/blog/idp-gpt-4/"
 ---
 
 In recent years, the rise of large language models like ChatGPT has caused a major shift in the field of natural language processing (NLP). These models have the ability to generate human-like responses to text inputs, making them an incredibly powerful tool for a wide range of applications.
@@ -21,7 +21,7 @@ In this blog post, we will explore the rise of large language models like GPT-4,
 
 ## What Are GPT-4 and Large Language Models?
 
-![](/images/blog/643650b66c76cadd6bed5891_ai-graph.jpeg)
+![](/images/blog/643650b66c76cadd6bed5891_ai-graph.jpeg/)
 
 Large Language Models (LLMs) like ChatGPT and GPT-4 are designed to process and understand natural language at a level that was previously thought impossible for machines. These models are created by training complex neural networks on massive datasets of text, allowing them to generate coherent responses to a wide range of inputs.
 

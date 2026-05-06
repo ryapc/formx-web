@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/64f75f567fc86dc415d12b65_payment-reconcile-.jpeg"
 featured_image_alt: "Elevate Business Efficiency with Automated Payment Reconciliation"
-canonical_url: "/blog/automated-payment-reconciliation"
+canonical_url: "/blog/automated-payment-reconciliation/"
 ---
 
 In a [study](<https://preferredcfo.com/cash-flow-reason-small-businesses-fail/>) conducted by the US Bank, it was found that in 82% of cases, the failure of a small business could be attributed to poor cash flow management or a poor understanding of it. When it comes to the health of a business and its finances, accuracy isn’t just a good thing – it’s a necessity.
@@ -71,7 +71,7 @@ A way to speed things up while also guaranteeing more accuracy in the data is to
 
 **Final Data Correction:** The final bit of data correction concerns financial statements. Any adjustments made during payment reconciliation need to be reflected so that the overall picture of a business’s financial status is up to date.
 
-![](/images/blog/64f7725c083e63d6bf18c972_pexels-mikhail-nilov-8297031.jpeg)
+![](/images/blog/64f7725c083e63d6bf18c972_pexels-mikhail-nilov-8297031.jpeg/)
 
 There’s no denying how important payment reconciliation is in a business, but its accuracy is hugely shaped by the methods used to implement it. Traditionally, reconciling payments is done through manual data entry and processes, but this approach has many drawbacks to it:
 
@@ -101,7 +101,7 @@ One of the biggest concerns with reconciling payments manually is that because o
 
 Automated payment reconciliation solves many of the problems of a manual approach. The initial step involves digitizing essential financial documents such as invoices, bank statements, and receipts and automating data extraction.
 
-FormX can be an integral part of your automated payment reconciliation process. Our solution integrates AI technologies such as OCR, ML, and LLM to capture relevant data from forms and documents and make it available in structured formats. With FormX, businesses can eliminate [manual data entry](/blog/manual-data-entry), which is very often the bottleneck in the payment reconciliation process. Everything from payment reconciliation to strategic financial analysis can then be done faster, and with more accurate data.
+FormX can be an integral part of your automated payment reconciliation process. Our solution integrates AI technologies such as OCR, ML, and LLM to capture relevant data from forms and documents and make it available in structured formats. With FormX, businesses can eliminate [manual data entry](/blog/manual-data-entry/), which is very often the bottleneck in the payment reconciliation process. Everything from payment reconciliation to strategic financial analysis can then be done faster, and with more accurate data.
 
 The benefits of an automated payment reconciliation process are extensive and all stem from one simple shift: the automation of data extraction. Checking information and ensuring accuracy is an integral part of payment reconciliation. Here’s how automation enhances this and improves overall financial precision in a business:
 

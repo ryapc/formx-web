@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/3.png"
 featured_image_alt: "AI OCR for SAP Invoice Automation: Streamline Your AP Workflow"
-canonical_url: "/blog/ai-ocr-for-sap-invoice-automation-streamline-your-ap-workflow"
+canonical_url: "/blog/ai-ocr-for-sap-invoice-automation-streamline-your-ap-workflow/"
 ---
 
 SAP is the backbone of enterprise finance operations, but getting invoice data into SAP still relies heavily on manual data entry. AP teams spend hours keying vendor details, line items, and amounts from paper invoices and PDFs into SAP - a repetitive process that drains resources and introduces costly errors.

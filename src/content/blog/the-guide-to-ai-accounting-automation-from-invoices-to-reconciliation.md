@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/650402a4aff6544b7989117e_accounting-image.jpeg"
 featured_image_alt: "The Guide to AI Accounting Automation: From Invoices to Reconciliation"
-canonical_url: "/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation"
+canonical_url: "/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/"
 ---
 
 ## **What Is AI Accounting Automation and How Does It Improve Invoices & Reconciliation?**

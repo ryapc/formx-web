@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/69b6cf0bf221b73c53a0e04e_3.png"
 featured_image_alt: "Nanonets Alternative for Xero Invoice Processing: How FormX Handles AP Automation for Accounting Teams"
-canonical_url: "/blog/nanonets-alternative-for-xero-invoice-processing-how-formx-handles-ap-automation-for-accounting-teams"
+canonical_url: "/blog/nanonets-alternative-for-xero-invoice-processing-how-formx-handles-ap-automation-for-accounting-teams/"
 ---
 
 Xero is a cloud accounting platform used by bookkeepers and SMB finance teams around the world. But Xero does not extract data from invoices or bank statements on its own - teams still need a third-party OCR tool to digitize documents and get them into Xero.

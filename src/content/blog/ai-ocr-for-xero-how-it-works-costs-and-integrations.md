@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/3-69837b66.png"
 featured_image_alt: "AI OCR for Xero: How It Works, Costs, and Integrations"
-canonical_url: "/blog/ai-ocr-for-xero-how-it-works-costs-and-integrations"
+canonical_url: "/blog/ai-ocr-for-xero-how-it-works-costs-and-integrations/"
 ---
 
 Xero is a powerful cloud accounting platform, but it lacks built-in OCR capabilities for automatically extracting data from invoices, receipts, and bank statements. Finance teams still spend hours manually entering data from paper documents into Xero - a tedious process that introduces errors and slows down month-end close.

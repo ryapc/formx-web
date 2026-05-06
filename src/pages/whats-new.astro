@@ -12,7 +12,7 @@ const rest = sorted.slice(1);
 <PageLayout
   title="What's New - FormX.ai"
   description="See what's new, what's changed, and what we're working on here at FormX.ai"
-  canonicalUrl="https://www.formx.ai/whats-new"
+  canonicalUrl="https://www.formx.ai/whats-new/"
 >
   <!-- Hero -->
   <div class="section-11 blog-hero">
@@ -52,12 +52,12 @@ const rest = sorted.slice(1);
                 </div>
               </div>
               <div class="whats-new-title-description-block">
-                <a href={`/whats-new/${featured.id}`} class="whats-new-title-link">
+                <a href={`/whats-new/${featured.id}/`} class="whats-new-title-link">
                   {featured.data.title}
                 </a>
                 <div class="text-block-44 featured">{featured.data.description}</div>
               </div>
-              <a href={`/whats-new/${featured.id}`} class="link-4">Learn More &gt;</a>
+              <a href={`/whats-new/${featured.id}/`} class="link-4">Learn More &gt;</a>
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@ const rest = sorted.slice(1);
         <div class="w-layout-blockcontainer container-default-9 whats-new w-container">
           {rest.map((entry) => (
             <div class="what-s-new-item">
-              <a href={`/whats-new/${entry.id}`} class="whats-new-image-wrap w-inline-block">
+              <a href={`/whats-new/${entry.id}/`} class="whats-new-image-wrap w-inline-block">
                 <img
                   loading="lazy"
                   src={entry.data.featured_image}
@@ -88,12 +88,12 @@ const rest = sorted.slice(1);
                   </div>
                 </div>
                 <div class="whats-new-title-description-block">
-                  <a href={`/whats-new/${entry.id}`} class="whats-new-title-link">
+                  <a href={`/whats-new/${entry.id}/`} class="whats-new-title-link">
                     {entry.data.title}
                   </a>
                   <div class="text-block-44">{entry.data.description}</div>
                 </div>
-                <a href={`/whats-new/${entry.id}`} class="link-4">Learn More &gt;</a>
+                <a href={`/whats-new/${entry.id}/`} class="link-4">Learn More &gt;</a>
               </div>
             </div>
           ))}

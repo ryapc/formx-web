@@ -4,19 +4,12 @@ import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
   site: 'https://www.formx.ai',
-  trailingSlash: 'never',
+  trailingSlash: 'always',
   vite: {
     plugins: [tailwindcss()],
   },
   integrations: [
-    sitemap({
-      serialize(item) {
-        if (item.url.endsWith('/') && new URL(item.url).pathname !== '/') {
-          item.url = item.url.slice(0, -1);
-        }
-        return item;
-      },
-    }),
+    sitemap(),
   ],
   redirects: {
     // Note: /post/* redirects are handled by src/pages/post/[...slug].astro

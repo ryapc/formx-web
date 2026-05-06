@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/69837b08a4b35b55006449ca_2.png"
 featured_image_alt: "OCR and Invoice Scanning Software for QuickBooks"
-canonical_url: "/blog/ocr-and-invoice-scanning-software-for-quickbooks"
+canonical_url: "/blog/ocr-and-invoice-scanning-software-for-quickbooks/"
 ---
 
 QuickBooks is the accounting software of choice for millions of small and medium businesses. But when it comes to getting invoice data into QuickBooks, most teams are still stuck with manual data entry - typing vendor names, amounts, and line items one invoice at a time.

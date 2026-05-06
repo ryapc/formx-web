@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/64ddeb1f4740b3e8a5afe883_info-extract-main.jpeg"
 featured_image_alt: "What Is Information Extraction & How to Automate It in 2023?"
-canonical_url: "/blog/information-extraction"
+canonical_url: "/blog/information-extraction/"
 ---
 
 In the landscape of modern data analysis and decision-making, the ability to sift through vast volumes of unstructured text and distill relevant information is of paramount importance. But worry no more, as information extraction can simplify everything. By leveraging automated techniques, it empowers you to convert raw texts into structured data.
@@ -74,7 +74,7 @@ Text Summarization is a method used to condense lengthy pieces of text into shor
 
 It's a technique used to find and classify entities such as names of people, locations, companies, dates, and more within a given text. NER algorithms analyze the text to identify patterns and contexts that indicate the presence of these entities.
 
-It's the most time-consuming technique and is used in various applications, from information retrieval to question-answering systems. For instance, in a [purchase order](/blog/purchase-order-automation), NER can identify the quantity of goods, buyer and seller names, and prices of products and goods, providing structured information for further analysis.
+It's the most time-consuming technique and is used in various applications, from information retrieval to question-answering systems. For instance, in a [purchase order](/blog/purchase-order-automation/), NER can identify the quantity of goods, buyer and seller names, and prices of products and goods, providing structured information for further analysis.
 
 #### **Tokenization**
 
@@ -98,7 +98,7 @@ It’s an NLP information extraction technique that determines the emotional ton
 
 Another technique that supports the extraction of information is Dependency Graph. It's a visual representation that illustrates the relationships between elements in a system. It captures how words are connected based on their syntactic roles, such as subject, object, predicate, modifier, and more. Dependency graphs help reveal the underlying structure of a sentence and how its components interact.
 
-![](/images/blog/64ddfc95dfcd40149e7596d2_man-typing.jpeg)
+![](/images/blog/64ddfc95dfcd40149e7596d2_man-typing.jpeg/)
 
 Some other benefits of IE using advanced techniques include:
 
@@ -124,7 +124,7 @@ Tasks that would have consumed hours or even days using manual methods can be co
 
 Looking for a reliable and powerful information extraction tool? FormX is here to help!
 
-FormX is an innovative information extraction tool that transforms physical documents into structured digital data. Our cutting-edge technology caters to various document types - [invoices](/blog/automated-invoice-processing), [receipts](/blog/how-to-extract-receipt-data-with-ocr-regex-and-ai), purchase orders, [bank statements](/blog/bank-statement-ocr), shipping orders, and more. With FormX, you can effortlessly extract critical information from these documents, streamlining your data processing workflow. What sets FormX apart is its commitment to user convenience and efficiency. We've designed the platform to be a game-changer for businesses and developers.
+FormX is an innovative information extraction tool that transforms physical documents into structured digital data. Our cutting-edge technology caters to various document types - [invoices](/blog/automated-invoice-processing/), [receipts](/blog/how-to-extract-receipt-data-with-ocr-regex-and-ai/), purchase orders, [bank statements](/blog/bank-statement-ocr/), shipping orders, and more. With FormX, you can effortlessly extract critical information from these documents, streamlining your data processing workflow. What sets FormX apart is its commitment to user convenience and efficiency. We've designed the platform to be a game-changer for businesses and developers.
 
 The future of information extraction is poised to be transformative, driven by advancements in artificial intelligence, machine learning, natural language processing, and large language models like GPT-4. As these technologies continue to evolve, information extraction is expected to reach unprecedented accuracy, efficiency, and adaptability levels.
 

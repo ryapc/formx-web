@@ -8,7 +8,7 @@ date: 2026-04-21
 lastmod: 2026-04-18
 featured_image: "/images/blog/67a1bca5d2f32256b8ec4cbd_Streamline-Your-Workflow-with-AI.jpeg"
 featured_image_alt: "Invoice Processing Automation: Streamline Your Workflow with AI"
-canonical_url: "/blog/invoice-processing-automation-streamline-your-workflow-with-ai"
+canonical_url: "/blog/invoice-processing-automation-streamline-your-workflow-with-ai/"
 ---
 
 ## Streamlining Your Workflow: The Power of Invoice Processing Automation

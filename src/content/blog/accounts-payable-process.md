@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/649ce980ea437f1f1189ea8b_document-sign.jpeg"
 featured_image_alt: "What Is The Accounts Payable Process?"
-canonical_url: "/blog/accounts-payable-process"
+canonical_url: "/blog/accounts-payable-process/"
 ---
 
 Accounts payable (AP) is one of the most stressful and potentially costly financial processes that businesses have to keep track of. One wrong move and a business can fall behind on vendor payments, muddle invoices, or unintentionally open themselves up to fraud risks.
@@ -17,7 +17,7 @@ In this article, we’ll break down the accounts payable steps, some of the key 
 
 Keep reading to find out.
 
-![](/images/blog/649ced5dea437f1f118e0c90_accounting.jpeg)
+![](/images/blog/649ced5dea437f1f118e0c90_accounting.jpeg/)
 
 Before we investigate some of the hurdles with AP process, the first question to tackle is “What is accounts payable?”. Simply put, accounts payable refers to any short-term monetary commitments a business has to its creditors, suppliers, vendors, etc. that are still outstanding. The management of this, or the accounts payable process, covers everything from checking invoices to reconciling accounts and making payments according to set deadlines.
 
@@ -47,7 +47,7 @@ The accounts payable steps, as you can likely see, aren’t as simple as receivi
 
 Balancing accuracy and timeliness is the central challenge of the accounts payable process. Compromising either aspect can lead to financial losses and unfortunately, as we’ll explore further in the next section, is an issue that the traditional accounts payable process has yet to overcome.
 
-![](/images/blog/649ced9fea437f1f118e6f09_calculating.jpeg)
+![](/images/blog/649ced9fea437f1f118e6f09_calculating.jpeg/)
 
 Ideally, the accounts payable process should ensure that suppliers are paid correctly and on time so that administrative delays don’t stall business operations. The traditional accounts payable process and its reliance on manual data entry and physical documents often mean that businesses are facing something far from the ideal AP process.
 
@@ -57,7 +57,7 @@ Manual data extraction and entry is by far the most tedious part of a traditiona
 
 Because invoices and receipts are handled differently from vendor to vendor, going through them requires keen attention. It’s a drain on employee time and, unfortunately, often not handled quickly enough to keep up with accounting and payment demands. Speeding up how fast people perform data entry only leads to more errors being made.
 
-In contrast, solutions that help [automate data entry](/blog/how-to-automate-data-entry) solutions such as FormX, can speed things up without compromising accuracy. As a bonus, it also means that employees are freed up to do the jobs they’re actually needed for rather than wasting countless hours on data entry.
+In contrast, solutions that help [automate data entry](/blog/how-to-automate-data-entry/) solutions such as FormX, can speed things up without compromising accuracy. As a bonus, it also means that employees are freed up to do the jobs they’re actually needed for rather than wasting countless hours on data entry.
 
 Even when manual data entry is performed by the most astute employee, human error remains a risk. This is stressful for AP teams as errors in accounts payable processing can lead to a business falling behind on bills, accidentally damaging a relationship with a vendor, or causing delays with goods deliveries. Automated data extraction is one of the simplest and most effective solutions to this issue, and a way to start streamlining the entire AP workflow.
 
@@ -65,7 +65,7 @@ Because of the errors associated with manual data entry and the sheer necessity 
 
 The problem is that checking every invoice against a payment order and/or receipt is incredibly time-consuming. As a result, it can inadvertently cause delays, especially if an error is found and the whole process is forced to start again. The great flaw here is that one of the central accounts payable steps meant to mitigate against mistakes is the very thing that can cause missed payment deadlines or delayed goods delivery.
 
-It's why something as simple as [automating invoice processing](/blog/automated-invoice-processing) and [PO data extraction](/blog/purchase-order-processing), and the timesaving it offers is so valuable to AP teams. It’s also far easier to check data against each other when it’s handed digitally from a central system.
+It's why something as simple as [automating invoice processing](/blog/automated-invoice-processing/) and [PO data extraction](/blog/purchase-order-processing/), and the timesaving it offers is so valuable to AP teams. It’s also far easier to check data against each other when it’s handed digitally from a central system.
 
 Most manual accounts payable processes rely heavily on physical documents. AP teams often find themselves overwhelmed with paperwork and forced to spend added time on filing and office organization just to stay on top of things. Excess paperwork also requires more storage and increases the risk of invoices getting missed or lost.
 
@@ -77,7 +77,7 @@ This is why inconsistencies are so important to keep track of and unfortunately,
 
 “Too much data entry” and slow invoice approval processes have been counted as the [chief concerns](<https://acarp-edu.org/ifol-research-shows-the-rate-and-speed-of-accounts-payable-automation-across-businesses-worldwide/>) of most AP teams. Our automation solutions at FormX directly tackle both issues so that the entire accounts payable process is more streamlined and less prone to errors or fraud.
 
-Our intelligent document processing (IDP) tools use AI and OCR technology to automate the extraction of data from [invoices](</solutions/invoice-ocr-api>), [receipts](</solutions/receipts>), [purchase orders](/blog/purchase-order-processing), and any kind of documents with fixed or dynamic layouts.
+Our intelligent document processing (IDP) tools use AI and OCR technology to automate the extraction of data from [invoices](</solutions/invoice-ocr-api>), [receipts](</solutions/receipts>), [purchase orders](/blog/purchase-order-processing/), and any kind of documents with fixed or dynamic layouts.
 
 How our solution works is that people can send images of scanned invoice, PO, or receipt to FormX via API and our technology will return the extracted data as JSON files to your accounting software for further AP processing and automation. The data is extracted far more quickly than it would be manually, which means fewer delays, while never compromising on accuracy. Vendors get paid on time, business relationships are protected, cash flow is easier to manage, and it’s harder for fraudsters to manipulate the system.
 

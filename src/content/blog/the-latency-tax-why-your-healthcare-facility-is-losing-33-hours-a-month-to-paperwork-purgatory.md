@@ -7,7 +7,7 @@ author: FormX
 date: 2026-04-15
 featured_image: "/images/blog/Screenshot-2026-04-15-at-1.53.46 PM.png"
 featured_image_alt: "The Latency Tax: Why Your Healthcare Facility is Losing 33 Hours a Month to \"Paperwork Purgatory\""
-canonical_url: "/blog/the-latency-tax-why-your-healthcare-facility-is-losing-33-hours-a-month-to-paperwork-purgatory"
+canonical_url: "/blog/the-latency-tax-why-your-healthcare-facility-is-losing-33-hours-a-month-to-paperwork-purgatory/"
 ---
 
 In the modern clinical environment, data is the most abundant resource and, paradoxically, the most significant operational bottleneck. While a single patient generates over one million gigabytes of health-related data in their lifetime, the equivalent of 300 million books, roughly 80% of this intelligence is "dark". It is trapped in unstructured formats: handwritten physician notes, faxed referrals, image-based lab results, and physical ID cards.

@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/6501ee75ba44854e91c682ed_piles-of-documents.jpeg"
 featured_image_alt: "What Is Intelligent Document Processing: A Complete Guide"
-canonical_url: "/blog/intelligent-document-processing-guide"
+canonical_url: "/blog/intelligent-document-processing-guide/"
 ---
 
 Data serves as the backbone of decision-making across industries, underpinning the very essence of informed choices. Having accurate data at your fingertips means businesses [can create evidence-based strategies, understand customers to target better,](<https://lpsonline.sas.upenn.edu/features/5-key-reasons-why-data-analytics-important-business>) and improve overall ROI. However, most data sources are unstructured, and a formidable challenge lies in the scanning and extraction of meaningful data from such massive sources. That's where intelligent document processing comes in!
@@ -36,7 +36,7 @@ Machine Learning (ML) is at the heart of Intelligent Document Processing (IDP), 
 
 Conversely, Unsupervised Learning within IDP brings forth the power to discern latent patterns and relationships within unstructured documents. This dual application of Supervised and Unsupervised Learning within IDP dramatically contributes to its versatility.
 
-![](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png)
+![](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png/)
 
 Here's the step-by-step guide on the workflow of IDP:
 
@@ -58,7 +58,7 @@ Classification ensures each document is routed to the appropriate processing pip
 
 ### Step 3: Data Extraction
 
-With documents categorized, the core data or [information extraction](/blog/information-extraction) process commences. The following are some techniques or approaches that might come into play in this step:
+With documents categorized, the core data or [information extraction](/blog/information-extraction/) process commences. The following are some techniques or approaches that might come into play in this step:
 
   * **OCR (Optical Character Recognition)** : OCR technology recognizes and converts printed or handwritten text within documents into machine-readable text. This step transforms the scanned images into digital text, enabling further analysis.
   * **Rule-Based Extraction** : In this approach, predefined rules and patterns are established to extract specific data points from documents. For instance, rules can be created to identify and extract data from documents with fixed formats like ID cards, passports, etc.
@@ -80,7 +80,7 @@ Some of the advantages of intelligent document processing are:
 
 ### Reduces Human Error
 
-Human operators doing [manual data entry](/blog/manual-data-entry) are susceptible to fatigue and oversight, which leads to inaccuracies in data entry and [document classification](/blog/document-classification). You may not believe this; even the most forgiving statistics in [data entry work show an average human error rate of 1%](<https://www.qualitymag.com/articles/96853-manual-data-entry-and-its-effects-on-quality>).
+Human operators doing [manual data entry](/blog/manual-data-entry/) are susceptible to fatigue and oversight, which leads to inaccuracies in data entry and [document classification](/blog/document-classification/). You may not believe this; even the most forgiving statistics in [data entry work show an average human error rate of 1%](<https://www.qualitymag.com/articles/96853-manual-data-entry-and-its-effects-on-quality>).
 
 IDP, on the other hand, operates tirelessly and consistently. Adhering to predefined rules and machine learning models significantly minimizes the risk of errors.
 
@@ -100,7 +100,7 @@ Here are three prominent IDP use cases:
 
 ### Invoice Processing
 
-Intelligent document processing is widely employed in automating invoice processing workflows. It can extract key information such as invoice numbers, dates, line items, and totals from various invoice formats. This streamlines [accounts payable processes](/blog/accounts-payable-process), reduces manual data entry, and accelerates payment cycles while minimizing errors.
+Intelligent document processing is widely employed in automating invoice processing workflows. It can extract key information such as invoice numbers, dates, line items, and totals from various invoice formats. This streamlines [accounts payable processes](/blog/accounts-payable-process/), reduces manual data entry, and accelerates payment cycles while minimizing errors.
 
 ### Contract Management
 

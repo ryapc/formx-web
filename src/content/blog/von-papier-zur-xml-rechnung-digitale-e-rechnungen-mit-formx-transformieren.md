@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/67cfd83993a5f3113f7aea2b_PDFtoUBL_de.jpeg"
 featured_image_alt: "Von Papier zur XML Rechnung: Digitale E-Rechnungen mit FormX transformieren"
-canonical_url: "/blog/von-papier-zur-xml-rechnung-digitale-e-rechnungen-mit-formx-transformieren"
+canonical_url: "/blog/von-papier-zur-xml-rechnung-digitale-e-rechnungen-mit-formx-transformieren/"
 ---
 
 Die digitale Transformation im Rechnungswesen erlebt mit der Einführung der xml rechnung einen radikalen Wandel. Unternehmen, die ihre Rechnungen von traditionellen Papierdokumenten in digitale Formate umwandeln, profitieren von einer schnelleren, effizienteren und sichereren Abwicklung. In diesem Blog erfahren Sie, wie Sie mit xml rechnung erstellen Ihre Prozesse optimieren und wie FormX Sie bei der Umstellung unterstützt – vom ersten Schritt bis zur vollständigen Integration in Ihr System. Außerdem werfen wir einen Blick auf verschiedene E-Rechnungsformate und vergleichen unter anderem UBL Format, XRechnung und ZUGFeRD.

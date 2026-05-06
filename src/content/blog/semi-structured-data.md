@@ -8,7 +8,7 @@ date: 2025-02-10
 lastmod: 2024-03-28
 featured_image: "/images/blog/652790989fcf03967d7b1f70_data-featured.jpeg"
 featured_image_alt: "What Is Semi-Structured Data?"
-canonical_url: "/blog/semi-structured-data"
+canonical_url: "/blog/semi-structured-data/"
 ---
 
 Data, though often discussed as if it’s a universal form of information, comes in various degrees of structure. There is structured data, semi-structured, and unstructured. Understanding what each is and how they’re used in the digital space can help businesses boost the efficiency of their workflows and data management.
@@ -36,7 +36,7 @@ Similar entities within the data are grouped and organized in a hierarchy but en
 
 
 
-![](/images/blog/65279588f43f42e5f1aa991e_closeup-shot-of-a-screen-with-html-javascript-sour-2022-12-20-12-26-40-utc.jpeg)
+![](/images/blog/65279588f43f42e5f1aa991e_closeup-shot-of-a-screen-with-html-javascript-sour-2022-12-20-12-26-40-utc.jpeg/)
 
 Some of the most common digital formats make use of semi-structured data. For example, emails contain the structured data of time, date, recipient, etc. alongside unstructured text and images, while also being searchable with keywords.
 

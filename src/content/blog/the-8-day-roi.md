@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/68cbc8bd02c99e9bf8f36827_Untitled-design.png"
 featured_image_alt: "The 8-Day ROI: How FormX AI-Powered Document Processing Slashes Costs & Frees Your Team"
-canonical_url: "/blog/the-8-day-roi"
+canonical_url: "/blog/the-8-day-roi/"
 ---
 
 Many organizations are drowning in a digital sea of PDFs, forms, and documents. Manual data entry is a relentless drain on productivity, costing businesses countless hours and opening the door to costly errors. For many organizations, this isn’t just an inefficiency, it's a hidden tax on their bottom line.
@@ -35,7 +35,7 @@ By integrating FormX AI-powered document processing, companies are seeing transf
 
 **Achieve Immediate ROI:** The most compelling argument for automation is its rapid return on investment. These efficiencies aren't realized over years; they are measured in days. Businesses are achieving a staggering **178% monthly return on investment** , **with the technology paying for itself in less than 8 business days.**
 
-![](/images/blog/68cbc90f531fa2c72a41ada0_091802.png)
+![](/images/blog/68cbc90f531fa2c72a41ada0_091802.png/)
 
 FormX improves these numbers by removing the human variable through a multi-step process that ensures high accuracy and reliability:
 

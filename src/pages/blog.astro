@@ -89,7 +89,7 @@ const categories = Object.entries(CATEGORY_LABELS);
 <PageLayout
   title="FormX.ai Blog - Document Processing & AI Resources"
   description="Read the latest articles on AI document processing, OCR, invoice automation, and more from the FormX.ai team."
-  canonicalUrl="https://www.formx.ai/blog"
+  canonicalUrl="https://www.formx.ai/blog/"
   bodyClass="blog-page"
 >
   <div class="section blog-hero">
@@ -133,13 +133,13 @@ const categories = Object.entries(CATEGORY_LABELS);
 
       {/* Category filter tabs */}
       <div class="blog-categories-grid">
-        <a href="/blog" class="button-blog-category all w-button">All</a>
+        <a href="/blog/" class="button-blog-category all w-button">All</a>
         {categories.map(([slug, label]) => (
-          <a href={`/blog-post-category/${slug}`} class="button-blog-category w-button">
+          <a href={`/blog-post-category/${slug}/`} class="button-blog-category w-button">
             {label}
           </a>
         ))}
-        <a href="/whats-new" class="button-blog-category w-button">What's New</a>
+        <a href="/whats-new/" class="button-blog-category w-button">What's New</a>
       </div>
     </div>
   </div>

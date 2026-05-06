@@ -7,7 +7,7 @@ author: FormX
 date: 2026-04-18
 featured_image: "/images/blog/66c5ab82038660dde825433f_GoogleOCR_featured.jpeg"
 featured_image_alt: "Google OCR: How to Use, Free Options, and AI Alternatives"
-canonical_url: "/blog/google-ocr-how-to-use-free-options-and-ai-alternatives"
+canonical_url: "/blog/google-ocr-how-to-use-free-options-and-ai-alternatives/"
 ---
 
 # Unlock Hidden Text: Your Guide to Google OCR and Beyond (Free & Powerful Tools)
@@ -34,7 +34,7 @@ Google Drive provides a user-friendly approach to basic OCR tasks. Here's how to
 
 
 
-![](/images/blog/66c5b02481938240409816c0_GoogleOCR_1.jpeg)
+![](/images/blog/66c5b02481938240409816c0_GoogleOCR_1.jpeg/)
 
 While convenient, Google Drive OCR has limitations. It works best with clear, simple images and may struggle with complex layouts, low-quality images, or handwritten text.
 

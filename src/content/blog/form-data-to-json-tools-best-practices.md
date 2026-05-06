@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/67ea39f81f3a04d62bc57451_Form-Data-to-JSON_-Tools-%26-Best-Practices.jpeg"
 featured_image_alt: "Form Data to JSON: Tools & Best Practices"
-canonical_url: "/blog/form-data-to-json-tools-best-practices"
+canonical_url: "/blog/form-data-to-json-tools-best-practices/"
 ---
 
 JSON (JavaScript Object Notation) is a lightweight data interchange format that has become increasingly popular for transmitting data between servers and web applications.
@@ -45,7 +45,7 @@ For developers looking to implement form to JSON conversion directly in their ap
 
 This code snippet demonstrates how to capture form data, convert it to a JavaScript object, and then stringify it into JSON format.
 
-![Code editor displaying a JSON object with article metadata.](/images/blog/proxyimage-67ea3a01.png)
+![Code editor displaying a JSON object with article metadata.](/images/blog/proxyimage-67ea3a01.png/)
 
 JSON: A versatile format for organizing and sharing data.
 

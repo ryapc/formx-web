@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/6319923bc09cf50a3309f26c_bank-statement-feature.png"
 featured_image_alt: "Bank Statement OCR: How to Automate Bank Statement Processing"
-canonical_url: "/blog/bank-statement-ocr"
+canonical_url: "/blog/bank-statement-ocr/"
 ---
 
 Bank statements are often required during a variety of processes. Financial institutions, such as commercial banks, investment banks, insurance companies, etc., have to manually process piles of bank statements for identity verification, address verification, or credit score assessment. However, manual processing can be error-prone, time-consuming, and quite costly especially when they have to process thousands of bank statements on a daily basis.
@@ -17,7 +17,7 @@ Many technologies have been applied to help expedite the digitization and proces
 
 Optical character recognition (OCR) is the technology used to convert images with texts into machine-readable or editable formats. In other words, OCR can extract the texts from images as shown below.
 
-![](/images/blog/646dadd1493cce6bd18da318_bank-ocr-result.png)
+![](/images/blog/646dadd1493cce6bd18da318_bank-ocr-result.png/)
 
 The block on the right contains the OCR result generated from the sample bank statement on the left. As you can see, the result isn’t structured in formats like a table or JSON file that can be processed easily by other software. Computers or software will not be able to tell that the statement date is 9/6/2022 and the date due is 10/6/2022 since all the texts are just scrambled together and separated by single spaces. After obtaining the end result from OCR engines, businesses will still have to manually convert it into structured formats, which can be quite time-consuming and inefficient.
 
@@ -37,49 +37,49 @@ FormX is an Intelligent Document Processing solution that utilizes OCR, ML, NLP,
 
 Sign up for a free trial to start setting up your Bank Statement OCR to convert PDFs or images to JSON.
 
-![](/images/blog/646da8a2cc9b83dfe4fe3de0_formx-sign-up.png)
+![](/images/blog/646da8a2cc9b83dfe4fe3de0_formx-sign-up.png/)
 
 ### Step 2. Create Your Bank Statement Extractor
 
 FormX has provided a set of pre-built extractors, such as Government ID / Passport, Invoice, Receipts, Bank Statement, and Bill of Lading. Click on Bank Statement to create your first extractor.
 
-![](/images/blog/646da961700064e1c03b6f79_bank-create.png)
+![](/images/blog/646da961700064e1c03b6f79_bank-create.png/)
 
 ### Step 3. Select Auto Extraction Items
 
 After creating your bank statement extractor, you can select the data fields, or extraction items, that you want the extractor to automatically extract. You can also create some custom extraction items if needed.
 
-![](/images/blog/646daa0ca70a1bf8dc95b804_bank-items.png)
+![](/images/blog/646daa0ca70a1bf8dc95b804_bank-items.png/)
 
 ### Step 4. Set Up Formatter to Modify the Extracted Data (Optional)
 
 Formatter is a tool that allows you to add several steps to automatically modify the extracted data. You can remove certain characters, only keep a certain language, or declare date format when needed.
 
-![](/images/blog/646daa462bb197206709ff82_bank-formatter.png)
+![](/images/blog/646daa462bb197206709ff82_bank-formatter.png/)
 
 ### Step 5. Test Your Bank Statement Extractor
 
 After setting up your extractor, you can upload bank statement samples to check the extracted result.
 
-![](/images/blog/646daa6ba70a1bf8dc963c57_bank-json.png)
+![](/images/blog/646daa6ba70a1bf8dc963c57_bank-json.png/)
 
 ### Step 6. Integrate FormX with Your Software or Download the Desktop App
 
 After you have tested out your extractor, you can then integrate the it with your software using RESTful API to automate bank statement processing. The images will be sent to the API endpoint "https://worker.formextractorai.com/extract" with the Form ID and Access Token. You will see the extracted information in the API response. The information can be found in the “Extract” tab.
 
-![](/images/blog/646daaa93625840e9f6145cf_bank-api.png)
+![](/images/blog/646daaa93625840e9f6145cf_bank-api.png/)
 
 Alternatively, you may also download our desktop app for batch processing. You may find the link to download under the Extract tab.
 
-![](/images/blog/648bee207006cdce1a395434_bank-extract.png)
+![](/images/blog/648bee207006cdce1a395434_bank-extract.png/)
 
 After downloading the app, enter the Form ID and Access of your Bank Statement Extractor.
 
-![](/images/blog/648bee322acf21f4e392501b_desktop-bank.jpeg)
+![](/images/blog/648bee322acf21f4e392501b_desktop-bank.jpeg/)
 
 You can then drag and drop all your files to process them altogether. FormX will then generate a csv file that can be uploaded to Excel, Google Sheet, or other software for further processing or analysis.
 
-![](/images/blog/648bee473aaa84b06084d5c4_bank-upload.png)
+![](/images/blog/648bee473aaa84b06084d5c4_bank-upload.png/)
 
 Businesses are under extreme pressure to provide excellent customer services. However, customers are often frustrated by the time it takes for businesses to process their documents.
 

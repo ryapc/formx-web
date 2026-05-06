@@ -9,6 +9,6 @@ const { category } = Astro.props;
 const label = CATEGORY_LABELS[category] ?? category;
 ---
 
-<a href={`/blog-post-category/${category}`} class="badge blog-post-category">
+<a href={`/blog-post-category/${category}/`} class="badge blog-post-category">
   {label}
 </a>

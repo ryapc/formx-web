@@ -8,7 +8,7 @@ date: 2026-04-14
 lastmod: 2026-04-13
 featured_image: "/images/blog/6992ff0a91bc9a661658443c_4.png"
 featured_image_alt: "Receipt OCR for Loyalty Programs: How Malls and Retailers Automate Receipt Processing"
-canonical_url: "/blog/receipt-ocr-for-loyalty-programs-how-malls-and-retailers-automate-receipt-processing"
+canonical_url: "/blog/receipt-ocr-for-loyalty-programs-how-malls-and-retailers-automate-receipt-processing/"
 ---
 
 Running a receipt-based loyalty program at scale is an operational challenge. Whether customers are earning points for food court purchases, redeeming parking rewards, or qualifying for seasonal promotions, the process starts with a receipt - and validating that receipt manually does not scale.

@@ -11,7 +11,7 @@ const { title, excerpt, industry, featured_image } = story.data;
 ---
 
 <a
-  href={`/success-stories/${story.id}`}
+  href={`/success-stories/${story.id}/`}
   class={`success-stories-card${featured ? ' large' : ''} w-inline-block`}
   style={featured ? `background-image: url(${featured_image}); background-size: cover; background-position: center;` : ''}
 >
