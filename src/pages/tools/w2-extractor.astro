@@ -7,16 +7,16 @@ import StatCard from '@/components/sections/StatCard.astro';
 
 <PageLayout
   title="W-2 Extractor - Extract W-2 Data Instantly | FormX.ai"
-  description=""
+  description="Extract wages, withholdings, and all W-2 box fields as structured JSON via REST API or web upload. Works on ADP, Gusto, Workday, and Paychex W-2s. Free to try."
   canonicalUrl="https://www.formx.ai/tools/w2-extractor"
   showFooterForm={true}
 >
   <section class="title-2 bg-f7f8fc">
     <div class="w-layout-blockcontainer pagetitle__container w-container">
       <h1 class="pricing-title"><span class="heading-gradient">W-2 Extractor<br/>‍</span>Pull Every Field from Any W-2</h1>
-      <p class="section__header__content">Upload a form W-2 PDF or image. FormX reads every box - wages, withholdings, state taxes, employer details - and returns structured data instantly.</p>
+      <p class="section__header__content">Upload a W-2 PDF or image via the FormX REST API or web tool. Extract wages, withholdings, state and federal taxes, employer EIN, and all Boxes 1–20 as structured JSON — no templates, works on ADP, Paychex, Gusto, and Workday-generated W-2s.</p>
       <div class="w-embed w-iframe">
-        <iframe src="https://widgets.formx.ai/invoice/" style="width: 100%; height: 600px" frameBorder="0"></iframe>
+        <iframe src="https://widgets.formx.ai/w2-form/" style="width: 100%; height: 600px" frameBorder="0"></iframe>
       </div>
     </div>
   </section>
@@ -24,7 +24,7 @@ import StatCard from '@/components/sections/StatCard.astro';
   <CTACard
     heading="Get started with FormX.ai"
     ctaPrimary={{ text: "Start Free Trial", href: "https://formextractorai.com/signup" }}
-    ctaSecondary={{ text: "Speak with an Expert ->", href: "/talk-with-us" }}
+    ctaSecondary={{ text: "Speak with an Expert ->", href: "/schedule-demo" }}
   />
 
   <FAQSection
@@ -32,23 +32,23 @@ import StatCard from '@/components/sections/StatCard.astro';
     items={[
       {
         question: "What does this W-2 extractor do?",
-        answer: `This form W-2 parser is a tool that automatically reads IRS Form W-2 and pulls out the data inside each box field, including wages, withholdings, employer details, and state tax information, without manual data entry. FormX uses OCR and AI to extract and structure W-2 data in seconds. <a href="/talk-with-us">Get in touch</a> to learn more!<br />`,
+        answer: `This form W-2 parser is a tool that automatically reads IRS Form W-2 and pulls out the data inside each box field, including wages, withholdings, employer details, and state tax information, without manual data entry. FormX uses OCR and AI to extract and structure W-2 data in seconds. <a href="/schedule-demo">Get in touch</a> to learn more!<br />`,
       },
       {
         question: "What W-2 fields does FormX extract?",
-        answer: `FormX extracts all standard W-2 fields: Box 1 through Box 20, including wages, federal and state tax withholdings, Social Security and Medicare data, Box 12 codes (401k, HSA contributions, etc.), and header information including employer EIN, employee name, and tax year. Social Security numbers are masked by default. <a href="/talk-with-us">Schedule a Demo</a> to see how simple it is to automate W-2 Form extraction.<br />`,
+        answer: `FormX extracts all standard W-2 fields: Box 1 through Box 20, including wages, federal and state tax withholdings, Social Security and Medicare data, Box 12 codes (401k, HSA contributions, etc.), and header information including employer EIN, employee name, and tax year. <a href="/schedule-demo">Schedule a Demo</a> to see how simple it is to automate W-2 Form extraction.<br />`,
       },
       {
         question: "What file formats does the W-2 extractor accept?",
-        answer: `FormX accepts PDF, JPG, and PNG. This includes scanned paper W-2s, photographs taken on a phone, and digitally generated PDFs from payroll systems like ADP, Paychex, Gusto, and Workday. Multi-copy W-2 layouts (2-up, 4-up) are supported. <a href="/talk-with-us">Contact us</a> for integrating with different tools to automate your process.<br />`,
+        answer: `FormX accepts PDF, JPG, and PNG. This includes scanned paper W-2s, photographs taken on a phone, and digitally generated PDFs from payroll systems like ADP, Paychex, Gusto, and Workday. Multi-copy W-2 layouts (2-up, 4-up) are supported. <a href="/schedule-demo">Contact us</a> for integrating with different tools to automate your process.<br />`,
       },
       {
         question: "Is it free to extract W-2 data?",
-        answer: `Yes, the free tier allows single W-2 extraction with no signup required. Batch processing of multiple W-2s and API access require available with a FormX account. <a href="/talk-with-us">Reach out to us</a> and we can create a pre-setup demo account for you.<br />`,
+        answer: `Yes, the free tier allows single W-2 extraction with no signup required. Batch processing of multiple W-2s and API access require available with a FormX account. <a href="/schedule-demo">Reach out to us</a> and we can create a pre-setup demo account for you.<br />`,
       },
       {
         question: "Is it safe to upload W-2 forms?",
-        answer: `FormX is ISO 27001 and SOC 2 Type II certified. All uploaded documents are encrypted in transit (TLS 1.2+) and at rest (AES-256). Social Security numbers are masked in all output by default. Documents are not retained after extraction. Read our <a href="/data-privacy-policy" target="_blank">data privacy policy</a> for more.<br />`,
+        answer: `FormX is ISO 27001 and SOC 2 Type II certified. All uploaded documents are encrypted in transit (TLS 1.2+) and at rest (AES-256). Documents are not retained after extraction. Read our <a href="/data-privacy-policy" target="_blank">data privacy policy</a> for more.<br />`,
       },
       {
         question: "Can FormX extract W-2 data via API for batch processing?",
@@ -56,7 +56,15 @@ import StatCard from '@/components/sections/StatCard.astro';
       },
       {
         question: "What is the difference between a W-2 and a 1099, and can FormX extract both?",
-        answer: `A W-2 is issued by employers to employees and reports wages and tax withholdings. A 1099 is issued to independent contractors and reports non-employment income. FormX extracts data from both form types. If you receive 1099s alongside W-2s, FormX can process them within the same workflow.<br /><br /><a href="/talk-with-us">Contact us</a> to setup a trial account for you.<br />`,
+        answer: `A W-2 is issued by employers to employees and reports wages and tax withholdings. A 1099 is issued to independent contractors and reports non-employment income. FormX extracts data from both form types. If you receive 1099s alongside W-2s, FormX can process them within the same workflow.<br /><br /><a href="/schedule-demo">Contact us</a> to setup a trial account for you.<br />`,
+      },
+      {
+        question: "What is the best W-2 parsing API?",
+        answer: `The FormX W-2 parsing API accepts PDF, JPG, and PNG — including scanned and phone-photographed W-2s — and returns all 20 boxes as structured JSON in under 3 seconds. Handles multi-state W-2s, multi-copy layouts (2-up, 4-up), and corrected forms automatically. See our <a href="https://help.formx.ai/reference/document-extraction" target="_blank">API documentation</a> to get started.<br />`,
+      },
+      {
+        question: "Who uses a W-2 extraction API?",
+        answer: `Tax preparation firms processing high volumes at filing season, mortgage lenders verifying borrower income, payroll platforms ingesting employee tax documents, and HR systems automating onboarding. FormX integrates with ADP, Workday, Paylocity, Gusto, and QuickBooks Payroll.<br />`,
       },
     ]}
   />
