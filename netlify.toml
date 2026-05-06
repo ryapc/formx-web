@@ -43,16 +43,6 @@
   status = 301
   force = true
 
-# ---------------------------------------------------------------------------
-# Trailing slash removal — must come before all other path rules
-# ---------------------------------------------------------------------------
-
-[[redirects]]
-  from = "/*/"
-  to = "/:splat"
-  status = 301
-  force = true
-
 # /smartadapt (old Webflow path) → correct Astro page
 [[redirects]]
   from = "/smartadapt"
