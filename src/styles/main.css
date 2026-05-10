@@ -6395,6 +6395,7 @@ figcaption {
   max-width: 100%;
 }
 .product-hero-title.paragraph-small {
+  display: inline-block;
   color: var(--primary-formx-green);
   background-color: #def2ee;
   border-radius: 100px;
