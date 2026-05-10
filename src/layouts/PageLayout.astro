@@ -15,9 +15,14 @@ interface Props {
   noIndex?: boolean;
   bodyClass?: string;
   showFooterForm?: boolean;
+  footerHeading?: string;
+  footerSubtitle?: string | null;
+  footerDescription?: string;
+  footerCtaHref?: string | null;
+  footerCtaText?: string;
 }
 
-const { showFooterForm = false, ...baseProps } = Astro.props;
+const { showFooterForm = false, footerHeading, footerSubtitle, footerDescription, footerCtaHref, footerCtaText, ...baseProps } = Astro.props;
 ---
 
 <BaseLayout {...baseProps}>
@@ -30,5 +35,5 @@ const { showFooterForm = false, ...baseProps } = Astro.props;
       <slot />
     </main>
   </div>
-  {showFooterForm ? <FooterForm /> : <Footer />}
+  {showFooterForm ? <FooterForm heading={footerHeading} subtitle={footerSubtitle} description={footerDescription} ctaHref={footerCtaHref} ctaText={footerCtaText} /> : <Footer />}
 </BaseLayout>

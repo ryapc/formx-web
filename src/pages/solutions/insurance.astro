@@ -141,6 +141,7 @@ import FeatureGrid from '@/components/sections/FeatureGrid.astro';
   <FeatureGrid
     heading="Boost Customer Satisfaction with Streamlined Claims Processing Automation"
     columns={3}
+    cardExtraClass="p-0"
     cards={[
       {
         icon: "/images/pages/solutions_insurance-experience-step-01@2x.webp",
@@ -171,6 +172,8 @@ import FeatureGrid from '@/components/sections/FeatureGrid.astro';
     subheading="Don't miss out on a field proven solution like FormX.ai and experience a return on investment within three months."
     bgClass="bg-f7f8fc"
     columns={3}
+    centerCards={true}
+    cardExtraClass="py-32"
     cards={[
       {
         icon: "/images/pages/solutions_insurance-icon-1@2x.webp",
@@ -192,6 +195,4 @@ import FeatureGrid from '@/components/sections/FeatureGrid.astro';
       }
     ]}
   />
-
-  <section class="bg-f7f8fc"></section>
 </PageLayout>

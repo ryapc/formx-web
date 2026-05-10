@@ -216,13 +216,42 @@ import PageLayout from '@/layouts/PageLayout.astro';
               </div>
             </div>
           </div>
-          <div class="testimonial-back w-slider-arrow-left"><svg class="w-icon-slider-left" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="8,2 2,9 8,16"/></svg></div>
-          <div class="testimonial-next w-slider-arrow-right"><svg class="w-icon-slider-right" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="2,2 8,9 2,16"/></svg></div>
+          <div class="testimonial-back w-slider-arrow-left" id="testimonial-back" style="display:none"><svg class="w-icon-slider-left" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="8,2 2,9 8,16"/></svg></div>
+          <div class="testimonial-next w-slider-arrow-right" id="testimonial-next"><svg class="w-icon-slider-right" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 18" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="2,2 8,9 2,16"/></svg></div>
         </div>
         <div class="_2-block-flex-image grow-1"></div>
       </div>
     </div>
   </div>
+
+  <script>
+    const mask = document.querySelector('.mask-2.w-slider-mask') as HTMLElement;
+    const slides = document.querySelectorAll('.slide.testimonial.w-slide');
+    const btnBack = document.getElementById('testimonial-back') as HTMLElement;
+    const btnNext = document.getElementById('testimonial-next') as HTMLElement;
+    const total = slides.length;
+    let current = 0;
+    const maxStep = total - 2; // show 2 at a time, so last step = total - 2
+
+    function getSlideStep(): number {
+      const slide = slides[0] as HTMLElement;
+      return slide.offsetWidth + parseInt(getComputedStyle(slide).marginRight || '0');
+    }
+
+    function update() {
+      mask.style.transition = 'transform 500ms ease';
+      mask.style.transform = `translateX(${-current * getSlideStep()}px)`;
+      btnBack.style.display = current === 0 ? 'none' : '';
+      btnNext.style.display = current >= maxStep ? 'none' : '';
+    }
+
+    btnNext.addEventListener('click', () => {
+      if (current < maxStep) { current++; update(); }
+    });
+    btnBack.addEventListener('click', () => {
+      if (current > 0) { current--; update(); }
+    });
+  </script>
 
   <!-- Final CTA -->
   <div class="section product-section why-formx">

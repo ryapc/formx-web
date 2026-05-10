@@ -6641,6 +6641,7 @@ figcaption {
   padding: 40px;
 }
 .plain-svg-card.card-bg-white.card-content-center.p-0.m-16 {
+  margin: 0;
   padding-left: 16px;
   padding-right: 16px;
 }
@@ -7493,7 +7494,7 @@ figcaption {
   line-height: 28px;
 }
 .text-color-primary {
-  color: #0a7d6e;
+  color: var(--primary-green-20);
   display: block;
 }
 .footer-paragraph {
@@ -9975,6 +9976,14 @@ figcaption {
   margin-left: 0;
   margin-right: 0;
   overflow: visible;
+}
+.mask-2.w-slider-mask {
+  overflow: visible;
+}
+.slide.testimonial.w-slide {
+  display: inline-block;
+  vertical-align: top;
+  white-space: normal;
 }
 .testimonial-slide-wrap {
   max-width: 625px;

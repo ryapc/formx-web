@@ -6,10 +6,11 @@ interface FAQItem {
 
 interface Props {
   heading?: string;
+  subheading?: string;
   items: FAQItem[];
 }
 
-const { heading, items } = Astro.props;
+const { heading, subheading, items } = Astro.props;
 ---
 
 <div class="section bg-f7f8fc">
@@ -17,6 +18,9 @@ const { heading, items } = Astro.props;
     {heading && (
       <div class="home-heading">
         <h2>{heading}</h2>
+        {subheading && (
+          <div class="text-center text-color-838c9b">{subheading}</div>
+        )}
         <div class="paragraph-small" style="margin-top:8px">
           Not seeing what you're looking for? Please <a href="/schedule-demo/" class="text-highlight-green-20" style="font-weight:600">reach out to us!</a>
         </div>

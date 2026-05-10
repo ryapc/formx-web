@@ -6,12 +6,13 @@ interface CtaButton {
 
 interface Props {
   heading: string;
+  description?: string;
   ctaPrimary?: CtaButton;
   ctaSecondary?: CtaButton;
   bgClass?: string;
 }
 
-const { heading, ctaPrimary, ctaSecondary, bgClass = 'bg-green-gradient' } = Astro.props;
+const { heading, description, ctaPrimary, ctaSecondary, bgClass = 'bg-green-gradient' } = Astro.props;
 ---
 
 <div class={`section product-section ${bgClass}`.trim()}>
@@ -20,6 +21,9 @@ const { heading, ctaPrimary, ctaSecondary, bgClass = 'bg-green-gradient' } = Ast
       <div class="card-xl-vertical-wrap text-center">
         <div class="card-xl-content-wrap">
           <h2 class="card-xl-title color-white">{heading}</h2>
+          {description && (
+            <div class="card-xl-description color-white pricing">{description}</div>
+          )}
           {(ctaPrimary || ctaSecondary) && (
             <div class="card-xl-2-cta-wrap">
               {ctaPrimary && (
@@ -28,7 +32,7 @@ const { heading, ctaPrimary, ctaSecondary, bgClass = 'bg-green-gradient' } = Ast
                 </a>
               )}
               {ctaSecondary && (
-                <a href={ctaSecondary.href} class="button-primary button-white w-button">
+                <a href={ctaSecondary.href} class="button-primary button-white button-center w-button">
                   {ctaSecondary.text}
                 </a>
               )}

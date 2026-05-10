@@ -16,6 +16,7 @@ interface Props {
   bgClass?: string;
   linkHref?: string;
   linkText?: string;
+  linkClass?: string;
 }
 
 const {
@@ -26,6 +27,7 @@ const {
   bgClass = '',
   linkHref,
   linkText,
+  linkClass = 'inter-tight link-semibold text-highlight-green-20',
 } = Astro.props;
 
 const imageFirst = imagePosition === 'left';
@@ -49,10 +51,10 @@ const imageFirst = imagePosition === 'left';
             />
           </div>
           <div class="product-2-block-text-wrapper min-w-0">
-            <h2 class="product-2-block-heading">{heading}</h2>
+            <h2 class="product-2-block-heading" set:html={heading} />
             <div class="product-2-block-paragraph" set:html={body} />
             {linkHref && linkText && (
-              <a href={linkHref} target="_blank" class="inter-tight link-semibold text-highlight-green-20">
+              <a href={linkHref} target="_blank" class={linkClass}>
                 {linkText}
               </a>
             )}
@@ -61,10 +63,10 @@ const imageFirst = imagePosition === 'left';
       ) : (
         <>
           <div class="product-2-block-text-wrapper min-w-0">
-            <h2 class="product-2-block-heading">{heading}</h2>
+            <h2 class="product-2-block-heading" set:html={heading} />
             <div class="product-2-block-paragraph" set:html={body} />
             {linkHref && linkText && (
-              <a href={linkHref} target="_blank" class="inter-tight link-semibold text-highlight-green-20">
+              <a href={linkHref} target="_blank" class={linkClass}>
                 {linkText}
               </a>
             )}

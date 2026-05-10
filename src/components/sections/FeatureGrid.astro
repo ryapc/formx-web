@@ -9,32 +9,39 @@ interface Card {
 
 interface Props {
   heading: string;
+  headingClass?: string;
   subheading?: string;
   columns?: 3 | 4;
   bgClass?: string;
   tightPadding?: boolean;
+  centerCards?: boolean;
+  cardExtraClass?: string;
+  cardBaseClass?: string;
   cards: Card[];
 }
 
-const { heading, subheading, columns = 3, bgClass = '', tightPadding = false, cards } = Astro.props;
+const { heading, headingClass = 'product-heading', subheading, columns = 3, bgClass = '', tightPadding = false, centerCards = false, cardExtraClass = '', cardBaseClass = 'plain-svg-card card-bg-white', cards } = Astro.props;
 
 const gridClass = columns === 4 ? '_4-block-grid' : '_3-block-grid';
 const sectionClass = tightPadding ? 'section advantage-section' : 'section product-section';
+const iconBlockClass = centerCards ? 'card-svg-block svg-center' : 'card-svg-block';
+const titleClass = centerCards ? 'svg-card-title text-center' : 'svg-card-title';
+const cardClass = `${cardBaseClass}${cardExtraClass ? ` ${cardExtraClass}` : ''}`;
 ---
 
 <div class={`${sectionClass} ${bgClass}`.trim()}>
   <div class="container-default w-container min-w-0 max-w-full">
     <div class="product-heading-content-wrapper">
       <div class="product-heading-wrapper mw-800px">
-        <h2 class="product-heading">{heading}</h2>
+        <h2 class={headingClass} set:html={heading} />
         {subheading && <div class="product-subheading">{subheading}</div>}
       </div>
       <div class="product-content-wrapper">
         <div class={gridClass}>
           {cards.map((card) => (
-            <div class="plain-svg-card card-bg-white">
+            <div class={cardClass}>
               {card.icon && (
-                <div class="card-svg-block">
+                <div class={iconBlockClass}>
                   <img
                     src={card.icon}
                     loading="lazy"
@@ -45,7 +52,7 @@ const sectionClass = tightPadding ? 'section advantage-section' : 'section produ
                 </div>
               )}
               <div class="svg-card-content-wrapper">
-                <h6 class="svg-card-title">{card.title}</h6>
+                <h6 class={titleClass}>{card.title}</h6>
                 <div class="svg-card-description">{card.description}</div>
               </div>
             </div>
