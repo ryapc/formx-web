@@ -6395,7 +6395,6 @@ figcaption {
   max-width: 100%;
 }
 .product-hero-title.paragraph-small {
-  display: inline-block;
   color: var(--primary-formx-green);
   background-color: #def2ee;
   border-radius: 100px;
@@ -6410,6 +6409,7 @@ figcaption {
   grid-column-gap: 16px;
   grid-row-gap: 16px;
   flex-flow: column;
+  align-items: flex-start;
   display: flex;
 }
 .product-hero-content-heading {
