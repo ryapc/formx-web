@@ -1,126 +1,178 @@
 ---
-title: "What is Passport OCR? How to Extract Data from ID Documents and Passport?"
-description: "A complete guide with all you need to know about capturing data from passports and ID cards with OCR & AI."
-excerpt: "A complete guide with all you need to know about capturing data from passports and ID cards with OCR & AI."
+title: "How to Extract Data from Passport?"
+description: "A complete guide to passport data extraction: how OCR and AI read the MRZ and VIZ, which methods to use, and how to integrate a passport OCR API for KYC, hotel, and travel workflows."
+excerpt: "A complete guide to passport data extraction: how OCR and AI read the MRZ and VIZ, which methods to use, and how to integrate a passport OCR API for KYC, hotel, and travel workflows."
 category: automation
 author: FormX
 date: 2026-04-14
-lastmod: 2026-04-13
+lastmod: 2026-05-26
 featured_image: "/images/blog/623ad359fb55b3c096ee29ef_buffer-gc3fb02c1c_1280.jpeg"
-featured_image_alt: "What is Passport OCR? How to Extract Data from ID Documents and Passport?"
+featured_image_alt: "How to Extract Data from Passport?"
 canonical_url: "/blog/how-to-capture-data-from-passport-and-id-cards-with-ocr-ai/"
 ---
 
-Passport OCR (Optical Character Recognition) is an automated technology that uses AI to extract and digitize data from identity documents. By specifically targeting the Machine Readable Zone (MRZ) and the Visual Inspection Zone (VIZ), it captures critical data points like name, passport number, and expiry date. This technology is essential for streamlining KYC compliance, airport check-ins, and hotel guest onboarding by replacing manual entry with fast, secure API integrations.
+Extracting passport data used to mean staring at a biographic page and typing. Full name, date of birth, passport number, expiry date. Repeated hundreds of times a day by staff with better things to do.
 
-‍
+Modern passport OCR changes that. It combines optical character recognition with AI to capture a passport image and return structured data in seconds, targeting two zones at once: the Visual Inspection Zone (VIZ) with its human-readable fields, and the Machine Readable Zone (MRZ) with its encoded alphanumeric strings. Checksum validation runs against every extracted value to confirm it's mathematically correct, not just transcribed.
 
-The passport: an everyday object of identification, a compact booklet hat holds a person's most crucial data. It is a cornerstone for any business in verifying a client's identity, acting as a bulwark against criminal activities such as fraud, corruption, or money laundering. Still, the traditional methods of capturing this critical information can feel more like a marathon than a sprint.
+## What is passport data extraction?
 
-Within the world of customer onboarding, employees are often tasked with manually inputting information from digital copies of passports, ID cards, or driver's licenses, following the Know Your Customer (KYC) protocol. Picture slogging through thousands of documents a day - a daunting and labor-intensive endeavor, to say the least.
+Passport data extraction converts a passport image or scan into structured, machine-readable output (typically JSON or XML) using OCR and AI. A passport has two distinct zones: the VIZ holds human-readable information like the holder's name, nationality, and date of birth. The MRZ holds encoded alphanumeric strings that follow ICAO international standards.
 
-Historically, businesses have turned to Optical Character Recognition (OCR) engines, converting these image-based documents into machine-encoded text to expedite the process. But OCR is not without its limitations and pitfalls. As we delve into this blog post, we will explore passport data extraction, its challenges, benefits, and how automation of this process is paving the way to a more efficient future.
+Modern AI-powered extraction reads both zones simultaneously, using checksum logic built into the MRZ to verify accuracy rather than just transcription. The alternative is manual entry: several minutes per document, multiplied across hundreds of daily onboarding events. Banks, hotels, immigration services, and airlines all have this problem. They've had it for decades.
 
-Passport data extraction is about taking critical information, such as the passport number, holder's name, and address, from a passport. However, this process is often complicated as computers, by their very nature, do not understand context, making it hard to organize the extracted information systematically.
+### Visual Inspection Zone (VIZ) vs Machine Readable Zone (MRZ)
 
-So, how do developers and companies automate this process, including reading complex fields like Machine Readable Zones (MRZ)? What challenges need to be addressed during this process?
+The VIZ is what a human reads at a border checkpoint or hotel front desk: full name, photo, nationality, date of birth, document number, dates of issue and expiry, and issuing authority.
 
-The answer lies in Intelligent Document Processing (IDP), an advanced solution that goes beyond simple Optical Character Recognition (OCR). IDP doesn't just convert image-based text into machine-readable text. It also interprets it, giving the text meaning and context.
+The MRZ is the two lines of 44 characters at the bottom of the biographic page, encoded in OCR-B font and structured under ICAO Document 9303. Because field positions are fixed by that standard, a parser doesn't need to figure out where each field starts and ends. It reads the correct character positions directly.
 
-The IDP process usually involves several stages. It starts with preprocessing, where unnecessary noise is removed from images to make them clearer. After that, the OCR phase extracts text from these images. The next phase is the interpretation of the text data.
-
-This is where advanced technologies like Natural Language Processing (NLP) and Machine Learning (ML) come into play. NLP helps the system understand the semantics of the text, while ML allows the system to learn from past operations, thereby improving its future accuracy.
-
-Take, for example, a passport's Machine Readable Zone, or MRZ. This is a two or three-line code at the bottom of the passport, full of characters and numbers that can be difficult for a human to read. However, an effective IDP solution can recognize and decode this MRZ, extracting key passport data such as the passport number, expiry date, and the holder's nationality.
-
-Simply put, by leveraging technologies like OCR, NLP, and ML, IDP enables businesses to automate the extraction of data from passports, significantly reducing manual effort and improving efficiency.
+Each MRZ field includes a check digit calculated from the preceding characters. Any discrepancy between the extracted value and its check digit signals either an OCR error or a potentially altered document. That's the mechanism that makes MRZ-based extraction reliably more accurate than reading the VIZ alone.
 
 ![A sample European passport with the machine readable zone code highlighted](/images/blog/6268bc1b349c0e824e2196f3_gIROdxrfXsZHQquBBj3ddNBC9GeU99x_qesp0mzZwXXTmMCYH9tIgvJZnovaLK0JS4c0ivZjubPPmrKWLgHi6TqPJRDwTIWW1EVrgMw-hHJdsiIr4DZPxXyMdMH1vyWcHmS_7fUM.jpeg/)
 
-The Machine Readable Zone, or MRZ, is a specific area on a passport that typically consists of two lines of characters located at the bottom of the passport page. It's a condensed powerhouse of information, holding the most critical data of the passport, such as the passport number, expiry date, and holder's nationality.
+## What data points are typically extracted from a passport?
 
-Historically, technologies have honed in on this section to extract passport details from scanned images, seeing it as a one-stop-shop for vital information. Yet, like any process involving data extraction, it isn't without its roadblocks. Scanning and extracting data from the MRZ presents a unique set of challenges. The quality of passport images can vary greatly, leading to potential inaccuracies in data extraction.
+Every ICAO-compliant travel document yields the same core fields: full name, gender, nationality, date of birth, passport number, date of issue, date of expiry, and the three-letter country code of the issuing authority. That's true whether the passport is British, Indian, or Nigerian.
 
-Additionally, occasional issues like mistaken photos can contribute to errors in the process. Even the smallest error in extracting passport data can have significant implications, potentially causing issues that could harm your business. As such, it's crucial to consider these potential pitfalls and ensure your data extraction process is as robust and accurate as possible.
+The MRZ adds its own layer: document type code, composite check digits for the full MRZ line, and in some countries a personal number for national identification purposes. Where the VIZ gives you human-readable values, the MRZ gives machine-verified equivalents that can be cross-checked against each other.
 
-While automation using OCR and IDP technologies can significantly streamline passport data extraction, the process isn't without its hurdles. Various factors can impact the performance and accuracy of OCR engines and, consequently, the overall data extraction process. Some of the key challenges are as follows:
+Most extraction systems also capture metadata alongside the identity fields: image resolution in DPI, document boundary coordinates, face crop coordinates, and per-field confidence scores. These let downstream systems assess image quality and decide whether a result is trustworthy before passing it through. Some systems also flag the presence of a chip indicator, signaling whether the document supports NFC retrieval for higher-assurance verification.
 
-Not every document that comes for processing is perfect. Sometimes, the passports or ID cards provided can be blurred or skewed. Whether it's because of a bad scan, improper handling, or a wear-and-tear issue, these imperfections can severely affect the clarity of data in the documents. OCR engines often struggle with such issues as they rely heavily on the quality of the input image. The lower the image quality, the harder it is for OCR to accurately recognize the characters, leading to a higher likelihood of errors in data extraction.
+## What methods are used to extract data from passport?
 
-Another common challenge is dealing with low-fidelity or low-resolution images. This can happen when important paper documents like proof of address are scanned or photographed using devices with low-quality cameras. The resultant low-fidelity images may lack sharpness and detail, making it difficult for OCR engines to identify and extract data accurately.
+There are four main approaches: AI and cloud OCR platforms, developer libraries with image preprocessing, no-code online tools, and RFID/NFC scanning for chip-enabled passports. The right choice depends on document volume, integration requirements, and how strict your accuracy and compliance standards are.
 
-For businesses, these challenges can lead to inaccurate passport data extraction, which may cause issues in customer verification processes, compliance with regulations, and other operational aspects. As such, it's essential to utilize an intelligent document processing solution that can handle such complexities and ensure accurate and efficient data extraction from passports and other ID cards. Such solutions should ideally leverage advanced machine learning techniques to adapt to these challenges and continuously improve their performance.
+### AI and cloud OCR platforms
 
-Passport identity documents around the world come in different formats and templates. For instance, the placement of key information, the language used, or the design elements can vary significantly from country to country. This diversity often poses a significant challenge for OCR engines as they need to identify and correctly extract information from a wide array of formats.
+Modern AI-powered passport OCR platforms use computer vision and large language models to extract VIZ and MRZ data with high accuracy. They handle variations in lighting, orientation, and print quality without requiring manual preprocessing. Because they're trained on passport formats from hundreds of issuing countries, they work reliably across a wide document variety without nationality-specific configuration.
 
-One way to address this issue is by incorporating AI models trained on diverse datasets, including passports and IDs from multiple countries. This allows the system to recognize a broader range of document templates and formats, ensuring a more accurate extraction of data.
+Dedicated passport OCR APIs from providers like FormX.ai, Mindee, and Veryfi return structured JSON that maps directly to identity verification schemas. Send a document image; get back a complete, validated record in seconds. All preprocessing, recognition, and validation runs server-side.
 
-Passport data extraction, particularly for complex fields like MRZ, has several use cases across various industries. These industries utilize Intelligent Document Processing solutions like FormX to streamline data capture and improve overall efficiency. Let's explore some of these applications:
+For high-volume automated workflows, cloud platforms are the practical default. Latency matters when onboarding completion rates depend on it.
 
-Every financial institution, from banks to insurance companies, is obligated by regulatory organizations to conduct comprehensive [Know Your Customer (KYC)](/blog/automate-kyc-with-ocr-ai/) procedures before onboarding their clients. This is a critical step to deter financial crimes such as money laundering. Central to an effective Know Your Customer program is the acquisition of personal information from the passports or ID cards of the clients.
+### Developer libraries and image preprocessing
 
-With automation tools like [OCR in finance & accounting](/blog/ocr-finance-and-accounting/), this process is vastly simplified. Clients can simply take a photo of their passports or ID cards, eliminating the need to manually input all their information. This not only enhances customer experience but also reduces operational costs linked to manual data entry.
+Open-source OCR libraries including Tesseract, EasyOCR, and DocTR let developers build custom passport extraction pipelines at no licensing cost, with full control over recognition and parsing logic. They handle character recognition. MRZ field parsing and checksum validation have to be built on top.
 
-The COVID-19 pandemic has huge economic impacts on the global economy. In early 2020, COVID-19 lockdowns and other precautionary measures taken drove the global economy into crisis. It has created a variety of challenges for everyone and therefore governments over the world have provided relief funds or grants to not only help local businesses and their citizens persevere but more importantly recover to pre-pandemic levels faster.
+These libraries improve significantly when combined with OpenCV for preprocessing: correcting skew, lighting, glare, and low resolution before recognition is the highest-leverage step in a custom pipeline. A document that produces unreliable OCR output raw will often produce accurate output after normalization.
 
-However, the entire process can take quite long if it is done manually since the applicants will have to enter their personal information and send scanned copies of passports or ID cards. Afterwards, the information will still have to be manually verified and saved to the database. To speed things up, the public sector automates data capture from passports or ID cards with OCR and other AI technologies so that applications can be processed much faster. 
+Custom pipelines need ongoing maintenance as document formats evolve and edge cases from different issuing countries appear. They suit teams with dedicated engineering capacity. Managed APIs are the better fit for everyone else.
 
-In the telecommunications industry, ensuring client identity verification is essential to prevent misuse of services. Telecom service providers typically request new customers to provide copies of their passports or ID cards to prevent fraudsters from registering devices or numbers under someone else's name.
+### No-code online tools
 
-Using OCR technology can make this process much more efficient, quickly extracting the necessary information from the scanned documents. This helps in faster customer onboarding while maintaining high-security standards.
+No-code tools let users upload a passport image and download extracted data as text or CSV without writing code. For occasional, low-volume needs they require no technical setup.
 
-Other industries, like healthcare, travel, and insurance, also heavily rely on identity verification and further client data analysis. Adopting OCR technology and intelligent document processing solutions enables these industries to efficiently and accurately extract this critical data from passport identification.
+They don't scale. There's no API access, no structured JSON output, no integration capability. Every extraction is a manual action.
 
-Aside from allowing our users to train their own extractors, FormX has also provided several pre-trained extractors for you to use right away. All you have to do is select the corresponding extractor, test it out with some sample images, and integrate with your software/application via API to easily establish an automated passport/ID cards processing workflow.
+Security constraints also limit their use in regulated industries. Uploading identity documents to third-party web services creates data handling obligations that GDPR and similar frameworks explicitly address. Organizations operating under [KYC](/blog/automate-kyc-with-ocr-ai/) or AML requirements typically can't use consumer-grade tools for this.
 
-**Step 1: Sign up at FormX.ai**
+### NFC and RFID chip scanning
 
-You can create an account at <https://formextractorai.com/signup>
+Passports issued by most countries since 2006 contain an RFID microchip storing a digital copy of the biographic data, a facial image, and in some cases fingerprints. All of it is signed with a digital certificate that can be cryptographically verified. The chip holds the same information as the printed biographic page in a format that can't be forged without invalidating that signature.
+
+NFC-enabled readers and mobile apps extract data directly from the chip, bypassing OCR entirely. Because the data comes from a digitally signed source, accuracy is as good as it gets. Passive authentication confirms the chip hasn't been tampered with since it was issued.
+
+The limitation is physical. NFC scanning only works in-person, with the document present and an NFC-capable device. It's not an option for remote onboarding or document submission workflows.
+
+## What is passport OCR?
+
+Passport OCR is optical character recognition trained specifically on travel document formats, with dedicated logic for parsing MRZ strings and validating extracted values against ICAO checksum rules. General-purpose OCR transcribes whatever text appears in an image. Passport OCR applies domain knowledge of document structure, character encoding standards, and mathematical validation to produce verified output.
+
+### How does passport OCR work?
+
+The process starts with image capture. Input quality determines output quality at every step that follows. Document detection, focus checking, and glare elimination aren't nice-to-haves. They're the difference between a useful result and a low-confidence mess.
+
+After the image is normalized, the OCR engine locates the MRZ by its OCR-B font and fixed-width character structure, extracts each field by its known position within the two 44-character lines, and validates extracted values using the embedded check digits. Once the MRZ region is correctly located, field recognition is deterministic.
+
+The VIZ is processed in parallel using layout detection and named entity recognition, producing a complete structured record that reconciles human-readable and machine-readable data before returning output. If the VIZ and MRZ values for a field disagree (say, different dates of birth), the system flags the discrepancy rather than silently picking one.
+
+### MRZ parsing and checksum validation
+
+The MRZ follows ICAO Document 9303. Line 1 encodes document type, issuing country, and surname followed by given names. Line 2 encodes document number, nationality, date of birth, sex, date of expiry, and personal number. Field positions are fixed, so parsing doesn't require any visual interpretation of field boundaries.
+
+Check digits are single-digit values calculated from the preceding characters using a weighted modulo-10 algorithm: weights of 7, 3, and 1 repeat cyclically, their products sum, and the result takes modulo 10. A passport number field reading "AB1234563" is valid only if the final digit 3 matches that calculation applied to "AB123456". Any discrepancy is either an OCR error or a potentially altered document.
+
+A solid passport OCR system compares MRZ-derived values against the corresponding VIZ fields and flags inconsistencies for human review. That cross-validation is what separates a verification-grade extraction system from a basic transcription tool.
+
+## What are the common use cases for passport data extraction?
+
+The pattern across industries is consistent: high daily document volume, strict accuracy requirements, and a downstream system that needs structured data rather than a scanned image. Manual entry doesn't work at that combination.
+
+### KYC and financial services onboarding
+
+Banks, fintech platforms, and regulated financial institutions use passport OCR as the data capture step in [KYC workflows](/blog/automate-kyc-with-ocr-ai/). A customer who photographs their passport during digital onboarding never has to type their name, date of birth, or document number. Transcription errors that cause identity mismatches during verification are eliminated at the source.
+
+Onboarding abandonment increases with every additional step or delay. Faster document extraction isn't just an operational metric; it affects conversion directly. Passport OCR in KYC contexts is typically combined with liveness detection and document authenticity checks to create a complete remote identity verification pipeline that meets regulatory requirements without an in-person visit.
+
+### Hotel and hospitality check-in
+
+Hotels use passport scanning to automate guest registration. Staff who previously spent several minutes per international guest on manual data entry can focus on the actual check-in interaction while extraction runs in the background.
+
+Many jurisdictions legally require hotels to collect and retain passport data for all foreign guests, making automated extraction both an operational efficiency and a compliance requirement. Mobile check-in apps let guests submit their passport before arrival. By the time they walk in, their identity is already verified.
+
+### Immigration and border control
+
+Immigration authorities process travelers at kiosks capable of reading and validating a passport biographic page in under three seconds. At major international airports where thousands of passengers arrive within the same hour, the gap between three-second automated reading and thirty-second manual inspection determines whether queues are manageable.
+
+Automated border control gates combine passport chip reading with facial recognition: a two-factor identity check that's substantially harder to defeat than visual inspection alone. Accuracy and availability requirements here are the strictest of any use case. Errors or downtime directly delay travelers and create security gaps that manual fallback can't fully cover at high-volume crossings.
+
+### Travel and airline operations
+
+Airlines extract passport data from scanned documents during pre-flight check-in to prepopulate advance passenger information systems required by destination country border agencies. Most countries now mandate that carriers transmit passport data before departure. Automated extraction is what makes that transmission practical at airline scale.
+
+A single transcription error in a passport number can trigger an advance passenger information rejection that strands a traveler and creates financial liability for the airline. Travel platforms using mobile document capture let passengers verify their passport during online check-in, clearing document verification automatically at the airport and cutting queue times at check-in counters and bag drop.
+
+## How to integrate a passport OCR API into your system?
+
+A passport OCR API accepts a passport image, runs preprocessing, MRZ parsing, VIZ extraction, and cross-validation server-side, and returns a structured JSON object with all extracted fields and individual confidence scores, typically within two seconds. The entire pipeline runs on the provider's infrastructure. The calling application receives verified, structured data without implementing any OCR or parsing logic of its own.
+
+Integration is a single POST request to the API endpoint with the document image as base64 or a multipart form upload. It works with any application stack that can make HTTP requests. No dependencies, no models to host, no preprocessing to maintain on the client side.
+
+The JSON response maps to standard identity data schemas used by KYC platforms, property management systems, and airline departure control systems. Field names are consistent across all passport nationalities, so the same integration code handles any nationality without conditional logic.
+
+### Passport OCR SDK for mobile applications
+
+The FormX Mobile SDK provides native in-app document capture with real-time passport detection, automatic focus and exposure adjustment, blur detection, and glare identification before submission. It guides users to capture a photo that meets the quality threshold for accurate extraction, preventing the most common cause of extraction failure before it happens.
+
+In-app capture produces consistently higher-quality images than manual file uploads, which improves extraction accuracy and reduces the frequency of low-confidence results that require human review or re-submission. The SDK supports both iOS and Android and returns the same structured JSON as the API.
+
+## How to extract data from passport with FormX.ai?
+
+FormX.ai extracts structured data from passport images in real time using OCR, AI, and MRZ parsing, returning a complete JSON record with all biographic fields, MRZ values, and per-field confidence scores. No template configuration required. The platform supports passport formats from over 190 ICAO member countries, handling layout variations, font differences, and laminate patterns across issuing authorities.
+
+### Step 1: Sign in and select the passport template
+
+Sign in to the FormX portal and select the predefined Passport extractor from the template library. You can test extraction against your own passport images immediately, without writing any code.
 
 ![](/images/blog/638d904c6a8a2713bfb436c8_passport-step-1.png/)
 
-**Step 2: Create an extractor**
+### Step 2: Upload a test image
 
-After creating an account, you can then create different types of extractors based on your needs. FormX provides a set of pre-built extractors and also allows you to train your own extractor by providing sample images and marking the areas where the desired information is located.
+Upload a photograph or scan of a passport biographic page. The extracted JSON output appears in real time, with each field labeled, its value displayed, and a confidence score alongside. The interface highlights the detected MRZ region and each VIZ field directly on the document image, so you can verify that extraction is reading the right areas before committing to API integration.
 
 ![](/images/blog/638d905f9ba7274303e8f4dd_passport-step-2.png/)
 
-**Step 3: Select “Government ID / Passport” as your extractor**
-
-We’ve pre-trained an extractor allowing our users to extract data from a variety of national IDs, driver’s licenses, and passports.
-
-![](/images/blog/638d90876a8a273209b43782_passport-step-3.png/)
-
-**Step 4: Test your extractor**
-
 ![](/images/blog/638d9092dfce23f5e7c54fb9_passport-step-4.png/)
 
-After selecting your extractor, upload a sample image to test it out. You’ll be able to see the result along with the JSON output.
+### Step 3: Review JSON output and field mapping
+
+The extraction output is a structured JSON object with all standard passport fields mapped to consistent key names, regardless of the source passport's country or language. Confidence scores below a configurable threshold are flagged automatically, routing low-confidence extractions to a human reviewer while high-confidence results pass straight through.
 
 ![](/images/blog/638d90b765555a0e51198fec_passport-step-5.png/)
 
 ![](/images/blog/638d90bffbd74de0488f1e25_passport-step-6.png/)
 
-**Step 5: Obtain Form ID and Access Token**
+### Step 4: Integrate via API or Zapier
 
-Copy the Form ID and Access Token from the “Extract” tab.
+Copy the Form ID and Access Token from the "Extract" tab.
 
 ![](/images/blog/638d90d014dc6e209e51f194_passport-step-7.png/)
 
-**Step 7: Process the image with the API**
+The FormX Passport API accepts passport images via a single REST endpoint and returns structured JSON within seconds. For no-code workflows, the FormX Zapier integration connects passport extraction to CRMs, spreadsheets, and database platforms without any programming.
 
-The extractor can be integrated with other software using the RESTful API and enrich the automation workflow. Send the image to the API endpoint *“https://worker.formextractorai.com/extract”* with the Form ID and Access Token. Then, in the API response, you will see the extracted information.
+## Start extracting passport data
 
-Example with cURL
+Passport OCR has moved from a niche capability to a baseline requirement for any workflow that handles identity documents at volume. The difference between extraction systems isn't whether they can read a passport. It's whether they validate what they read.
 
-Example with Python
-
-## Empower Your Business With Automated Data Extraction
-
-Extracting data from passports, particularly from complex areas like the MRZ, can be challenging due to factors like blurred images or poor-quality scans. However, this process is crucial for many industries, including finance, public sector, and telecommunications, for identity verification and regulatory compliance.
-
-FormX uses AI and OCR technologies to simplify this process. We automate data extraction, making it more accurate and efficient, reducing costs, and enhancing customer experience.
-
-As the world becomes increasingly digital, the demand for such efficient data extraction methods will only grow. Harnessing the power of intelligent document processing will be essential for industries to keep up, ensuring faster, more accurate data handling, and better service delivery overall.
-
-[Sign up for a free account](<https://formextractorai.com/signup>) or [contact us](</schedule-demo>) to see how FormX can help you intelligently digitize your passports and ID cards. 
+[Sign up for a free account](https://formextractorai.com/signup) or [contact us](/schedule-demo) to see how FormX handles passport and ID card extraction for your use case.

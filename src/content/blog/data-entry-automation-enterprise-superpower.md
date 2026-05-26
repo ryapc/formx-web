@@ -67,7 +67,7 @@ To achieve an OCR accounting automated workflow that actually works, you need to
 
 ## Why "Unstructured" is No Longer a Scary Word
 
-Most of your business data is "unstructured," which is just a fancy way of saying it is "messy." Whether it is a handwritten note or a weirdly formatted B2B invoice, unstructured data extraction automated technology can handle it. By integrating an [invoice OCR API](https://www.formx.ai/tools/invoice-ocr-api), you are basically giving your accounting software a set of eyes.
+Most of your business data is "unstructured," which is just a fancy way of saying it is "messy." Whether it is a handwritten note or a weirdly formatted B2B invoice, modern AI can handle it. By integrating an [invoice OCR API](https://www.formx.ai/tools/invoice-ocr-api), you are basically giving your accounting software a set of eyes. If you want to go deeper on how this actually works, [here is a full breakdown of the techniques and use cases](/blog/what-is-unstructured-data-extraction/).
 
 ## The Final Verdict
 
