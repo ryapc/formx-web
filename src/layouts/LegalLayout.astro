@@ -42,4 +42,27 @@ const { title, heading, description = '', canonicalUrl } = Astro.props;
   .legal-content :global(h5) {
     margin-top: 14px;
   }
+  .legal-content :global(p) {
+    margin-bottom: 16px;
+  }
+  .legal-content :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+    font-size: 15px;
+  }
+  .legal-content :global(th),
+  .legal-content :global(td) {
+    border: 1px solid #d0d4dc;
+    padding: 10px 12px;
+    text-align: left;
+    vertical-align: top;
+  }
+  .legal-content :global(th) {
+    background-color: #f5f6f8;
+    font-weight: 600;
+  }
+  .legal-content :global(tbody tr:nth-child(even) td) {
+    background-color: #fafbfc;
+  }
 </style>

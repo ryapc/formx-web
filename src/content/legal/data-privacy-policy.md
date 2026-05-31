@@ -33,6 +33,10 @@ Examples of other content we collect and store include, but are not limited to, 
 
 We collect information about your activity when using our products to help us improve the product. The information we collect include, but are not limited to, your API usage, metadata of the contents you uploaded, the actions you carry out at the dashboard, the pages you visit, and the time you stay on the dashboard.
 
+### Cookies and Other Tracking Technologies
+
+We and our analytics partners collect information about your visits to our websites, together with information such as your IP address, cookies, and other tracking technologies. On our marketing site, non-essential analytics and tracking technologies are loaded only after you consent through our cookie consent banner; you can change or withdraw consent at any time through the same banner.
+
 ### Support Channels
 
 As we may use third-party platforms to provide support to you, we may collect public information from your third-party platform account that we believe is necessary to provide you support.
@@ -111,6 +115,10 @@ In certain circumstances, you have the following data protection rights:
 - **The right to withdraw consent.** You also have the right to withdraw your consent at any time where FormX relies on your consent to process your personal information.
 
 Please note that we may ask you to verify your identity before responding to such requests. You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Children's Privacy
+
+The Services are not directed to individuals under 16. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 provided us with personal information, we will take steps to delete such information. If you are a parent or guardian and you are aware that your children have provided us with personal data, please contact us at [support@formx.ai](mailto:support@formx.ai).
 
 ## Changes to This Privacy Policy
 
