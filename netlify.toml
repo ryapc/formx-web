@@ -841,3 +841,8 @@
   from = "/blog/ai-powered-inventory-management-for-retail"
   to = "/blog"
   status = 301
+
+[[redirects]]
+  from = "/blog/free-bank-statement-generators-pros-cons/"
+  to = "/tools/bank-statement-converter/"
+  status = 301
