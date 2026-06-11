@@ -15,7 +15,7 @@ canonical_url: "/blog/gdpr-vs-hipaa-compliance-for-document-processing/"
 
 While GDPR focuses on protecting the personal data of EU citizens, HIPAA ensures the confidentiality, integrity, and security of Protected Health Information (PHI) in the United States.
 
-![Comparison graphic of HIPAA and GDPR regulations.](/images/blog/proxyimage-680200a7.webp/)
+![Comparison graphic of HIPAA and GDPR regulations.](/images/blog/proxyimage-680200a7.webp)
 
 HIPAA vs GDPR: Two frameworks for data protection.
 
@@ -23,7 +23,7 @@ HIPAA vs GDPR: Two frameworks for data protection.
 
 Both GDPR and HIPAA share common principles aimed at safeguarding sensitive information:
 
-![GDPR symbol: padlock surrounded by EU stars on blue background.](/images/blog/proxyimage-680200a6.png/)
+![GDPR symbol: padlock surrounded by EU stars on blue background.](/images/blog/proxyimage-680200a6.png)
 
 GDPR and HIPAA: united in protecting sensitive data.
 
@@ -35,7 +35,7 @@ GDPR and HIPAA: united in protecting sensitive data.
 
 However, there are notable differences:
 
-![Red keyboard key labeled 'Privacy' with a lock icon.](/images/blog/proxyimage-680200a6.jpeg/)
+![Red keyboard key labeled 'Privacy' with a lock icon.](/images/blog/proxyimage-680200a6.jpeg)
 
 Privacy: a critical focus in the digital age.
 
@@ -72,7 +72,7 @@ To meet the requirements of both GDPR and HIPAA, organizations should consider t
 
 Modern document management systems can significantly aid in achieving and maintaining compliance:
 
-![Rubber stamp labeled 'Compliance' placed on stacked documents.](/images/blog/proxyimage-680200a7.jpeg/)
+![Rubber stamp labeled 'Compliance' placed on stacked documents.](/images/blog/proxyimage-680200a7.jpeg)
 
 Document systems streamline compliance management.
 

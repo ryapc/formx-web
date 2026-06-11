@@ -7,7 +7,7 @@ author: FormX
 date: 2026-05-10
 featured_image: "/images/blog/zugferd-extraction-api-hero.jpg"
 featured_image_alt: "ZUGFeRD Extraction API: How to Parse XML from German E-Invoices"
-canonical_url: "/blog/zugferd-extraction-api"
+canonical_url: "/blog/zugferd-extraction-api/"
 ---
 
 <style>

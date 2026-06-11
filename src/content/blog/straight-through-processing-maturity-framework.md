@@ -5,7 +5,7 @@ excerpt: "In the landscape of high-volume finance and insurance, unstructured pa
 category: automation
 author: FormX
 date: 2026-04-29
-featured_image: "/images/blog/consolidated-blogpost-8.png"
+featured_image: "/images/blog/consolidated-blogpost-8.jpg"
 featured_image_alt: "The Straight-Through Processing Maturity Framework"
 canonical_url: "/blog/straight-through-processing-maturity-framework/"
 ---

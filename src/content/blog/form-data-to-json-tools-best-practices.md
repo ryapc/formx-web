@@ -45,7 +45,7 @@ For developers looking to implement form to JSON conversion directly in their ap
 
 This code snippet demonstrates how to capture form data, convert it to a JavaScript object, and then stringify it into JSON format.
 
-![Code editor displaying a JSON object with article metadata.](/images/blog/proxyimage-67ea3a01.png/)
+![Code editor displaying a JSON object with article metadata.](/images/blog/proxyimage-67ea3a01.png)
 
 JSON: A versatile format for organizing and sharing data.
 

@@ -16,7 +16,7 @@ Ever since the launch of the PDF file format, businesses around the globe have h
 
 A PDF parser is a type of software application or a set of tools for extracting and parsing textual information from Portable Document Format (PDF) files. They are used to extract and parse text, images, fonts, metadata, annotations, and other parts of a PDF document in order to make structured data out of the PDF's unstructured content.
 
-![](/images/blog/638c09c52c86b77ddad02136_how-parsing-work.jpeg/)
+![](/images/blog/638c09c52c86b77ddad02136_how-parsing-work.jpeg)
 
 ‍
 
@@ -37,7 +37,7 @@ PDF files are the best option for many different document types, ranging from bo
 
 
 
-![](/images/blog/638c0a0eb9a23c6010cb2b0c_receipt-json.png/)
+![](/images/blog/638c0a0eb9a23c6010cb2b0c_receipt-json.png)
 
 Parsing tools such as PDFParser, pdf [parser.py](<http://parser.py>), make-pdf, and [pdfid.py](<http://pdfid.py>) can pull out properties that describe the physical structure of PDF documents. These structures include:
 
@@ -58,7 +58,7 @@ There are two ways for businesses to scale manual data entry. First is to hire m
 
 As a result, businesses need specialized software or hardware to accurately parse their documents, which can add up quickly. Additionally, they may need to hire trained personnel to manually verify the extracted data.
 
-![](/images/blog/638c0af45fd2fdcbf19c9066_pdf-use.jpeg/)
+![](/images/blog/638c0af45fd2fdcbf19c9066_pdf-use.jpeg)
 
 PDF parsers provide an automated way to retrieve data from images of receipts stored in PDFs, helping retailers better understand their customer base and create more effective marketing campaigns.
 
@@ -84,7 +84,7 @@ PDF parsers also provide a more accurate way of extracting data from documents t
 
 PDF parsers can transform unstructured data present in PDF documents into structured formats such as CSV, XML, or JSON. This helps businesses easily store, manage, and share the extracted data.
 
-![](/images/blog/638c0d9e10a6cedcef5818b6_paper.jpeg/)
+![](/images/blog/638c0d9e10a6cedcef5818b6_paper.jpeg)
 
 FormX is a powerful, cloud-based platform that helps businesses automate the process of extracting data from PDF documents. By integrating OCR, machine learning, and other technologies, it accurately extracts data from any kinds of PDF file quickly and easily.
 

@@ -82,7 +82,7 @@ In an audit, transactions and the paper trail behind them will be checked with a
 
 All that triple-checking brings with it a massive advantage in better preparing businesses for audits as each transaction will then have a clear trail of documentation to support it.
 
-![](/images/blog/6527c59481cc9dc76d401a72_woman-calculating.jpeg/)
+![](/images/blog/6527c59481cc9dc76d401a72_woman-calculating.jpeg)
 
 As you’ve probably noticed by now, 3-way matching in accounts payable is not a simple task. Going through three different documents and making sure that all necessary details line up has traditionally required staff to sit for hours painstakingly going through each document and inputting it to a central system.
 

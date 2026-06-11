@@ -36,7 +36,7 @@ Machine Learning (ML) is at the heart of Intelligent Document Processing (IDP), 
 
 Conversely, Unsupervised Learning within IDP brings forth the power to discern latent patterns and relationships within unstructured documents. This dual application of Supervised and Unsupervised Learning within IDP dramatically contributes to its versatility.
 
-![](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png/)
+![](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png)
 
 Here's the step-by-step guide on the workflow of IDP:
 

@@ -21,7 +21,7 @@ Anyone working in the finance of a business knows all too well how costly small,
 
 Doing things manually may still be the norm for many but switching over to OCR in finance and accounting can help improve the way a business runs, both in speed and efficiency.
 
-![](/images/blog/633187f0f31eaba6a10662f1_collector-gcc135377c_640.jpeg/)
+![](/images/blog/633187f0f31eaba6a10662f1_collector-gcc135377c_640.jpeg)
 
 “Optical Character Recognition” might sound like nothing you’ve heard of before, but it’s being used every day. Beyond any fancy terminology, OCR is AI technology that is used to “convert images of typed or handwritten words into digital text” ([Forbes](<https://www.forbes.com/sites/googlecloud/2021/01/22/with-ai-your-data-is-worth-more-than-the-paper-its-printed-on/>), 2021). The technology typically uses a combination of hardware, such as scanners, to first “read” the document and OCR software which then takes over the more advanced data processing.
 
@@ -33,7 +33,7 @@ So many businesses have automated how data is processed but it’s important to 
 
 For internal accounting departments and businesses in the financial sector, OCR makes extracting relevant data quicker and easier than ever. Though it generally needs to be used alongside accounting software or machine learning systems to provide maximum benefits, it’s a highly important piece of the automation puzzle. This is why:
 
-![](/images/blog/63318800e06eb64bf85994d1_receipts-ga501d5f6b_1280.jpeg/)
+![](/images/blog/63318800e06eb64bf85994d1_receipts-ga501d5f6b_1280.jpeg)
 
 It can be incredibly tiresome to sift through [receipts](/blog/how-to-extract-receipt-data-with-ocr-regex-and-ai/) and [invoices](/blog/invoice-digitization-automate-invoice-processing/), find the information needed, and then type it all up. Often businesses are dealing with documents from outside suppliers and customers as well as internal staff for reimbursement.
 
@@ -43,7 +43,7 @@ OCR accounting technology scans those physical receipts and invoices and then co
 
 Not only does this mean that valuable staff aren’t wasting time on menial tasks, but it also drastically reduces the risk of error that often occurs with manual data entry. It doesn’t matter the size or format of the invoices and receipts coming in, finance OCR solution will process the text characters and produce usable data far faster than a human could. It really is one of the most powerful ways that businesses can make use of AI technology.
 
-![](/images/blog/6331880cf31eaba5bf06637e_passport-g44fe25388_1280.jpeg/)
+![](/images/blog/6331880cf31eaba5bf06637e_passport-g44fe25388_1280.jpeg)
 
 The value of OCR accounting and finance doesn’t stop in the accounts departments. OCR software is also extremely useful for any business, especially banks, that need to quickly extract and [verify ID](/blog/how-to-capture-data-from-passport-and-id-cards-with-ocr-ai/) and proof of address for customers. We’ve all had to stand there patiently while a bank teller goes through our documents, painstakingly entering each bit of information into the computer while a queue gathers behind us.
 

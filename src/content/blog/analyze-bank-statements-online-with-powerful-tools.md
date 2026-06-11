@@ -15,7 +15,7 @@ Bank statement analysis is a critical process for assessing financial health, tr
 
 Whether you're a business owner, accountant, or individual managing personal finances, analyzing bank statements provides valuable insights into spending patterns, income sources, and overall financial stability.
 
-![Person reviewing bank statements with a calculator.](/images/blog/proxyimage-67e20c72.jpeg/)
+![Person reviewing bank statements with a calculator.](/images/blog/proxyimage-67e20c72.jpeg)
 
 Bank statements reveal spending and financial stability.
 
@@ -37,7 +37,7 @@ Managing bank statements online offers several advantages:
 
 When choosing an online bank statement management solution, look for these key capabilities:
 
-![Person using online banking on laptop and smartphone.](/images/blog/proxyimage-67e20c51.jpeg/)
+![Person using online banking on laptop and smartphone.](/images/blog/proxyimage-67e20c51.jpeg)
 
 Online banking: convenience meets modern financial tools.
 
@@ -66,7 +66,7 @@ Upload PDF statements or use automated bank feeds to import transaction data int
 
 For uploaded documents, OCR technology scans and extracts key financial details, eliminating manual data entry.
 
-![Screenshot of OCR software extracting data from an invoice.](/images/blog/proxyimage-67e20c50.png/)
+![Screenshot of OCR software extracting data from an invoice.](/images/blog/proxyimage-67e20c50.png)
 
 OCR technology simplifies financial data extraction.
 
@@ -86,7 +86,7 @@ Advanced tools use artificial intelligence to:
 
 Review automatically generated reports that provide:
 
-![Configuration panel for automated security business reports.](/images/blog/proxyimage-67e20c50.jpeg/)
+![Configuration panel for automated security business reports.](/images/blog/proxyimage-67e20c50.jpeg)
 
 Streamline reporting with automated security reviews.
 

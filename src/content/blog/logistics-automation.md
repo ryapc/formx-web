@@ -59,7 +59,7 @@ Logistics automation equips you with the agility and efficiency to outperform co
 
 Logistics automation serves as a linchpin for modern businesses. It offers an array of benefits that extend from operational efficiency to customer satisfaction, making it indispensable in today's volatile market landscape.
 
-![](/images/blog/6513e16485cccf8c5e919c90_warehouse.jpeg/)
+![](/images/blog/6513e16485cccf8c5e919c90_warehouse.jpeg)
 
 In an era where efficiency and speed are paramount, logistics companies are turning to automation systems to stay ahead. Here are some of the top automation solutions you can implement today to upgrade your logistics and supply chain operations.
 

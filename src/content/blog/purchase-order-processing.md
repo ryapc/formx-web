@@ -13,7 +13,7 @@ canonical_url: "/blog/purchase-order-processing/"
 
 Running a business requires managing multiple processes, and it's easy to get overwhelmed by the sheer complexity of it all. One process that’s often overlooked is purchase order (PO) processing. However, burying this aspect of business under other priorities can prove costly in the long run. In this post, we will cover the definition and content of a PO, the steps of processing it, the reason for having PO, and finally the differences between manual and automatic PO processing.
 
-![](/images/blog/63eca136d91d2c2109a8aa84_po-sample.jpeg/)
+![](/images/blog/63eca136d91d2c2109a8aa84_po-sample.jpeg)
 
 PO sample from TemplateLab
 
@@ -51,7 +51,7 @@ Payment terms describe when payments are due from buyers for purchases made on P
 
 Each PO needs a unique identifier known as a purchase order number (PON) that can be used by both buyers and sellers while communicating about respective orders over the phone or email. This unique number helps companies keep accurate track of their orders and facilitates efficient resolution of any conflicts related thereto if they arise at any point during the procurement process.
 
-![](/images/blog/63eca1add82cce602a83115d_calculator-g3f1827ecb_640.jpeg/)
+![](/images/blog/63eca1add82cce602a83115d_calculator-g3f1827ecb_640.jpeg)
 
 Purchase orders play an important role in the procurement process. Here are some of the benefits of using these documents.
 
@@ -97,7 +97,7 @@ After recording and filing the purchase order, it’s time to dispatch and deliv
 
 Once all of these steps have been completed successfully, it’s time to close out the process by ensuring that payment has been made according to agreed-upon terms and conditions. This final step ensures that everyone involved in creating and fulfilling the purchase order gets paid appropriately for their work.
 
-![](/images/blog/63eca1ddcdb7e778a2a000cb_notebook-g8b1d7d14e_640.jpeg/)
+![](/images/blog/63eca1ddcdb7e778a2a000cb_notebook-g8b1d7d14e_640.jpeg)
 
 There are two main approaches to the PO process, manual and automated. The manual process entails manually entering all data into a system and verifying the data for accuracy. This is a time-consuming and error-prone process. The cost of manually processing a PO can range from $59 to $741 according to a study conducted by CAPS Research. Cost of PO processing can then accumulate to a staggering amount.
 

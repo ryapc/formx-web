@@ -59,7 +59,7 @@ By transitioning from a paper-based or spreadsheet approach to a dedicated Bill 
 
 ## Why a Bill of Lading Database is Essential for Streamlined Shipment Management
 
-![](/images/blog/BillofLadingDatabase_1.jpg/)
+![](/images/blog/BillofLadingDatabase_1.jpg)
 
 While traditional methods like filing cabinets and spreadsheets might seem to get the job done initially, they can quickly become bottlenecks as your shipment volume grows. Here's why a dedicated bill of lading (BoL) database is a game-changer for efficient shipment management:
 
@@ -102,7 +102,7 @@ While traditional methods like filing cabinets and spreadsheets might seem to ge
 
 ## What is a Bill of Lading: The Cornerstone of Shipment Management
 
-![](/images/blog/BillofLadingDatabase_2.jpg/)
+![](/images/blog/BillofLadingDatabase_2.jpg)
 
 The bill of lading (BoL) is more than just a piece of paper; it's a critical document that plays a multifaceted role in the world of shipping. Let's delve deeper into its significance:
 
@@ -124,7 +124,7 @@ By encompassing these various functions, the BoL plays a vital role in ensuring 
 
 ## Bill of Lading Data Fields: A Roadmap for Efficient Shipment Management
 
-![](/images/blog/BillofLadingDatabase_3.jpg/)
+![](/images/blog/BillofLadingDatabase_3.jpg)
 
 A bill of lading (BoL) is a treasure trove of information, containing crucial details that map the entire journey of your shipment. Understanding the typical data fields included in a BoL empowers you to effectively manage your shipments and navigate potential issues. Let's explore some of the key data points you'll find on a BoL:
 
@@ -174,7 +174,7 @@ A bill of lading (BoL) is a treasure trove of information, containing crucial de
 
 ## Unleash Efficiency with FormX.ai's Bill of Lading Automation:
 
-![](/images/blog/BillofLadingDatabase_4.jpg/)
+![](/images/blog/BillofLadingDatabase_4.jpg)
 
 **Streamline your shipment management with a revolutionary approach to bill of lading (BoL) data handling:**
 

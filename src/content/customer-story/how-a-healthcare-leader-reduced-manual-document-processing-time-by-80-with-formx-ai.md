@@ -23,7 +23,7 @@ metrics:
     icon: "/images/customer-story/icons/case-study-key-3.svg"
     icon_alt: "Cost reduction icon"
 date: 2025-09-30
-canonical_url: "/success-stories/how-a-healthcare-leader-reduced-manual-document-processing-time-by-80-with-formx-ai"
+canonical_url: "/success-stories/how-a-healthcare-leader-reduced-manual-document-processing-time-by-80-with-formx-ai/"
 featured: true
 ---
 

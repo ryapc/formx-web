@@ -35,7 +35,7 @@ By integrating FormX AI-powered document processing, companies are seeing transf
 
 **Achieve Immediate ROI:** The most compelling argument for automation is its rapid return on investment. These efficiencies aren't realized over years; they are measured in days. Businesses are achieving a staggering **178% monthly return on investment** , **with the technology paying for itself in less than 8 business days.**
 
-![](/images/blog/68cbc90f531fa2c72a41ada0_091802.png/)
+![](/images/blog/68cbc90f531fa2c72a41ada0_091802.png)
 
 FormX improves these numbers by removing the human variable through a multi-step process that ensures high accuracy and reliability:
 

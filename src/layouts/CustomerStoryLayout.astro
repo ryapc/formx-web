@@ -21,7 +21,7 @@ const {
   twitter_card, canonical_url,
 } = story.data;
 
-const canonicalUrl = toAbsoluteUrl(canonical_url ?? `/success-stories/${story.id}/`);
+const canonicalUrl = toAbsoluteUrl(canonical_url ? (canonical_url.endsWith('/') ? canonical_url : canonical_url + '/') : `/success-stories/${story.id}/`);
 
 const articleSchema = {
   '@context': 'https://schema.org',

@@ -29,7 +29,7 @@ The MRZ is the two lines of 44 characters at the bottom of the biographic page, 
 
 Each MRZ field includes a check digit calculated from the preceding characters. Any discrepancy between the extracted value and its check digit signals either an OCR error or a potentially altered document. That's the mechanism that makes MRZ-based extraction reliably more accurate than reading the VIZ alone.
 
-![A sample European passport with the machine readable zone code highlighted](/images/blog/6268bc1b349c0e824e2196f3_gIROdxrfXsZHQquBBj3ddNBC9GeU99x_qesp0mzZwXXTmMCYH9tIgvJZnovaLK0JS4c0ivZjubPPmrKWLgHi6TqPJRDwTIWW1EVrgMw-hHJdsiIr4DZPxXyMdMH1vyWcHmS_7fUM.jpeg/)
+![A sample European passport with the machine readable zone code highlighted](/images/blog/6268bc1b349c0e824e2196f3_gIROdxrfXsZHQquBBj3ddNBC9GeU99x_qesp0mzZwXXTmMCYH9tIgvJZnovaLK0JS4c0ivZjubPPmrKWLgHi6TqPJRDwTIWW1EVrgMw-hHJdsiIr4DZPxXyMdMH1vyWcHmS_7fUM.jpeg)
 
 ## What data points are typically extracted from a passport?
 
@@ -145,29 +145,29 @@ FormX.ai extracts structured data from passport images in real time using OCR, A
 
 Sign in to the FormX portal and select the predefined Passport extractor from the template library. You can test extraction against your own passport images immediately, without writing any code.
 
-![](/images/blog/638d904c6a8a2713bfb436c8_passport-step-1.png/)
+![](/images/blog/638d904c6a8a2713bfb436c8_passport-step-1.png)
 
 ### Step 2: Upload a test image
 
 Upload a photograph or scan of a passport biographic page. The extracted JSON output appears in real time, with each field labeled, its value displayed, and a confidence score alongside. The interface highlights the detected MRZ region and each VIZ field directly on the document image, so you can verify that extraction is reading the right areas before committing to API integration.
 
-![](/images/blog/638d905f9ba7274303e8f4dd_passport-step-2.png/)
+![](/images/blog/638d905f9ba7274303e8f4dd_passport-step-2.png)
 
-![](/images/blog/638d9092dfce23f5e7c54fb9_passport-step-4.png/)
+![](/images/blog/638d9092dfce23f5e7c54fb9_passport-step-4.png)
 
 ### Step 3: Review JSON output and field mapping
 
 The extraction output is a structured JSON object with all standard passport fields mapped to consistent key names, regardless of the source passport's country or language. Confidence scores below a configurable threshold are flagged automatically, routing low-confidence extractions to a human reviewer while high-confidence results pass straight through.
 
-![](/images/blog/638d90b765555a0e51198fec_passport-step-5.png/)
+![](/images/blog/638d90b765555a0e51198fec_passport-step-5.png)
 
-![](/images/blog/638d90bffbd74de0488f1e25_passport-step-6.png/)
+![](/images/blog/638d90bffbd74de0488f1e25_passport-step-6.png)
 
 ### Step 4: Integrate via API or Zapier
 
 Copy the Form ID and Access Token from the "Extract" tab.
 
-![](/images/blog/638d90d014dc6e209e51f194_passport-step-7.png/)
+![](/images/blog/638d90d014dc6e209e51f194_passport-step-7.png)
 
 The FormX Passport API accepts passport images via a single REST endpoint and returns structured JSON within seconds. For no-code workflows, the FormX Zapier integration connects passport extraction to CRMs, spreadsheets, and database platforms without any programming.
 

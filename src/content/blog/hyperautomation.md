@@ -33,7 +33,7 @@ Furthermore, hyperautomation doesn't limit itself to just operational tasks. It 
 
 You can use [intelligent document processing (IDP)](/blog/intelligent-document-processing-guide/) as part of your business's hyperautomation initiative. IDP serves as the initial step in many automated workflows by extracting data from various document types and sources. Once extracted, this data is then funneled into the hyperautomated ecosystem, where it's leveraged to drive various processes.
 
-![](/images/blog/651b9d26fa7b60ad8a930910_planning.jpeg/)
+![](/images/blog/651b9d26fa7b60ad8a930910_planning.jpeg)
 
 If you're considering this transformative journey, here's a detailed roadmap to get you started:
 

@@ -21,7 +21,7 @@ Fortunately, there's a better way. Data entry automation is a process that uses 
 
 Let's delve right in.
 
-![](/images/blog/633ea10fa6429f188824f32b_1464571_FormXBlogGraphics_withouttext_608x380_2_100422.png/)
+![](/images/blog/633ea10fa6429f188824f32b_1464571_FormXBlogGraphics_withouttext_608x380_2_100422.png)
 
 Data entry refers to the process by which data is entered into a computer system or database. In this process, we leverage technologies to eliminate or reduce human input in data entry. With data entry automation solutions, it's easy to extract data from different files, such as PDFs, images, and documents. This data can then be converted into a structured format for further downstream processing.
 
@@ -33,7 +33,7 @@ Rule-based data entry automation works by looking for data in specific locations
 
 This data entry automation technology uses algorithms that can learn and adapt to different data formats. Machine learning data entry automation is more versatile and can be used with a wider range of data sources, including unstructured data sources such as PDFs and images.
 
-![](/images/blog/633ea12918affc504ad5d88e_1464571_FormXBlogGraphics_withouttext_608x380_1_100422.png/)
+![](/images/blog/633ea12918affc504ad5d88e_1464571_FormXBlogGraphics_withouttext_608x380_1_100422.png)
 
 Investing in data entry automation can benefit your business in many ways. Here are some of the key advantages:
 

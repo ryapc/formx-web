@@ -5,7 +5,7 @@ excerpt: "Nobody dreams of manually typing container numbers from a smudged Bill
 category: automation
 author: FormX
 date: 2026-04-29
-featured_image: "/images/blog/consolidated-blogpost-11.png"
+featured_image: "/images/blog/consolidated-blogpost-11.jpg"
 featured_image_alt: "Decoding the Bill of Lading with Unstructured Data Extraction Automated Systems"
 canonical_url: "/blog/bill-of-lading-unstructured-data-extraction/"
 ---

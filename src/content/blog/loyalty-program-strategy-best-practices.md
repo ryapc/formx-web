@@ -29,7 +29,7 @@ Consumers nowadays expect personalized services and product recommendations. To 
 
 Loyalty programs often require customers to take photos of their receipts to gain loyalty points. Many have receipt scanning technologies and Intelligent Document Processing solutions like FormX to make the data process more efficient.
 
-![](/images/blog/62e8ef3d7adb7fa619ff9045_cash-register-g70257e7cf_1280.jpeg/)
+![](/images/blog/62e8ef3d7adb7fa619ff9045_cash-register-g70257e7cf_1280.jpeg)
 
 FormX does more than simply converting scanned images of receipts into machine-editable texts. With the help of AI technologies, FormX can understand the context of the data and generate structured data that can be directly used for further processing or analysis. Within just a few seconds, businesses can see accurate details about the customer’s transaction.
 
@@ -77,7 +77,7 @@ When it comes to keeping customers happy and engaged, you have to be creative. C
 
 However you decide to collaborate with your partner, make sure it’s mutually beneficial to the businesses involved and appealing to the customer.
 
-![](/images/blog/62e8f0823edd9ba662c9c5bc_social-media-g91a15c512_1280.png/)
+![](/images/blog/62e8f0823edd9ba662c9c5bc_social-media-g91a15c512_1280.png)
 
 Word-of-mouth marketing can go a long way. People trust products and services recommended by friends and family. Consider how you can reward customers for writing positive reviews, sharing social media content using your products/service, or making customer recommendations.
 

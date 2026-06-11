@@ -34,7 +34,7 @@ Google Drive provides a user-friendly approach to basic OCR tasks. Here's how to
 
 
 
-![](/images/blog/66c5b02481938240409816c0_GoogleOCR_1.jpeg/)
+![](/images/blog/66c5b02481938240409816c0_GoogleOCR_1.jpeg)
 
 While convenient, Google Drive OCR has limitations. It works best with clear, simple images and may struggle with complex layouts, low-quality images, or handwritten text.
 

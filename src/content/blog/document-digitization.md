@@ -17,7 +17,7 @@ That’s why an automated document digitization process can be such a game-chang
 
 Filing and storing endless paper documents may be how offices used to run, but it certainly doesn’t need to be the way forward.
 
-![](/images/blog/64d5e35aa736eb9c3d6ab8cc_macbook-pro-338619_1280.jpeg/)
+![](/images/blog/64d5e35aa736eb9c3d6ab8cc_macbook-pro-338619_1280.jpeg)
 
 In document management, document digitization simply refers to the process of scanning paper documents and creating digital versions of the paper records. By doing so, valuable information is captured, and the document saved to a central repository where it can be easily accessed, searched, and shared. The process becomes more than simply converting paper documents into digital formats with the advancement of AI technologies.
 
@@ -49,7 +49,7 @@ Document digitization software can help scan paper documents and turn them into 
 
 One of the things that most often stops businesses from modernizing their data and switching over to document digitization is concern about how to implement it. In this section we’ll go through each aspect of digitizing documents and how to incorporate it into a business’s workflow for the best results:
 
-![](/images/blog/64d5e3cea3cef7b6edb14fc3_plan-2372176_640.jpeg/)
+![](/images/blog/64d5e3cea3cef7b6edb14fc3_plan-2372176_640.jpeg)
 
 Document digitization is most effective at helping businesses reach their objectives if those goals are clear from the start. Analyze your organization’s current situation and identify the areas where document digitization would be most beneficial.
 

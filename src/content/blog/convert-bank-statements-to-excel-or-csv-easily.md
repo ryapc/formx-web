@@ -30,7 +30,7 @@ Converting bank statements to Excel or CSV offers several advantages:
 
 Several online tools offer quick and easy conversion of PDF bank statements to Excel or CSV:
 
-![Person analyzing financial data on a laptop screen.](/images/blog/proxyimage-67e0c309.jpeg/)
+![Person analyzing financial data on a laptop screen.](/images/blog/proxyimage-67e0c309.jpeg)
 
 Simplify data management with PDF-to-Excel tools.
 
@@ -44,7 +44,7 @@ Simplify data management with PDF-to-Excel tools.
 
 For users with newer versions of Microsoft Excel, the built-in PDF import feature can be a convenient option:
 
-![Illustration showing PDF converting into Excel format.](/images/blog/proxyimage-67e0c30a.webp/)
+![Illustration showing PDF converting into Excel format.](/images/blog/proxyimage-67e0c30a.webp)
 
 Excel's PDF import simplifies data conversion tasks.
 
@@ -58,7 +58,7 @@ Excel's PDF import simplifies data conversion tasks.
 
 Power Query offers a more advanced method for importing PDF bank statements:
 
-![Close-up of a hand using a pen and calculator on financial data.](/images/blog/proxyimage-67e0c309.jpeg/)
+![Close-up of a hand using a pen and calculator on financial data.](/images/blog/proxyimage-67e0c309.jpeg)
 
 Streamline PDF bank statement imports with Power Query.
 
@@ -72,7 +72,7 @@ Streamline PDF bank statement imports with Power Query.
 
 To ensure the best results when converting your bank statements:
 
-![Calculator, pen, and magnifying glass on bank statements.](/images/blog/62b28e159b6d6f76a4cea1ca_audit-gc780b34bd_1280.jpeg/)
+![Calculator, pen, and magnifying glass on bank statements.](/images/blog/62b28e159b6d6f76a4cea1ca_audit-gc780b34bd_1280.jpeg)
 
 Accurate tools simplify bank statement conversions.
 

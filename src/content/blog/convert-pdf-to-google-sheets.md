@@ -25,7 +25,7 @@ This is where converting PDF to Google Sheets comes in. Google Sheets, a powerfu
 
 However, the process of converting PDF to Google Sheets isn't always straightforward. Traditional methods often involve manual data extraction, which can be time-consuming and error-prone. This blog post dives deep into various methods for converting PDF to Google Sheets, addressing the potential hurdles you might encounter. We'll introduce you to both manual and, more importantly, **automated solutions** that streamline the conversion process, saving you valuable time and effort.
 
-![](/images/blog/63ef08d79254f1f0cc2a3d91_spreadsheet-g687e0d1e8_640.jpeg/)
+![](/images/blog/63ef08d79254f1f0cc2a3d91_spreadsheet-g687e0d1e8_640.jpeg)
 
 ## Transform Your PDFs into Dynamic Spreadsheets: The Power of Google Sheets
 
@@ -43,7 +43,7 @@ By harnessing the power of Google Sheets, you can unlock the full potential of y
 
 ‍
 
-![](/images/blog/63ef092f136f384d991ab168_pdf-challenges.jpeg/)
+![](/images/blog/63ef092f136f384d991ab168_pdf-challenges.jpeg)
 
 ## Navigating the Challenges of PDF to Google Sheets Conversion
 
@@ -108,27 +108,27 @@ Here's a step-by-step guide:
 
 You can create an account [here.](<https://formextractorai.com/signup?distinct_id=01912538-9f38-7e63-9ff2-d988e00c6a31>)
 
-![](/images/blog/63ef0a4e6f3c2cbaa24c78eb_formx-signup.png/)
+![](/images/blog/63ef0a4e6f3c2cbaa24c78eb_formx-signup.png)
 
 **Step 2: Create an extractor**
 
 After creating an account, you can then create different types of extractors based on your needs. FormX provides a set of pre-built extractors and also allows you to train your own extractor by providing sample images and marking the areas where the desired information is located.
 
-![](/images/blog/63ef0ab8854a63359f3607fb_extractor-create.png/)
+![](/images/blog/63ef0ab8854a63359f3607fb_extractor-create.png)
 
 **Step 3. Upload your master image and label the anchor and detection region**
 
-![](/images/blog/63ef0b0fadd38babf89bc880_labeling.png/)
+![](/images/blog/63ef0b0fadd38babf89bc880_labeling.png)
 
 After creating your extractor, you can then label the anchor regions, which are regions with fixed positions, and detection regions, which are the places where the data can be found.
 
-![](/images/blog/63ef0ce86f3c2cec8a4cc089_data-type.png/)
+![](/images/blog/63ef0ce86f3c2cec8a4cc089_data-type.png)
 
 When labelling the detection regions, you have a variety of auto extraction items or data types that you can choose to maximize the accuracy of the extracted results.
 
 **Step 4. Test your extractor**
 
-![](/images/blog/63ef0d5292f26df2eed07cdc_extractor-testing.png/)
+![](/images/blog/63ef0d5292f26df2eed07cdc_extractor-testing.png)
 
 Upload a sample image to test the accuracy of your extractor.
 
@@ -138,7 +138,7 @@ There are a few ways for you to do this.
 
 You can set up a Webhook and use Zapier to connect it with Google Sheets.
 
-![](/images/blog/63ef0fac71fbd14022a067aa_webhook.png/)
+![](/images/blog/63ef0fac71fbd14022a067aa_webhook.png)
 
 Lastly, we can also automatically send API to Google Sheets for you to have a completely automatic workflow of PDF to Google Sheets conversion ([contact us](</schedule-demo>) for closed beta).
 
@@ -154,41 +154,41 @@ Another option to convert PDF to Google sheet is by first converting them into C
 
 Let’s take the PDF file below as an example.
 
-![](/images/blog/63ef186771fbd112eba120a2_sample-table.jpeg/)
+![](/images/blog/63ef186771fbd112eba120a2_sample-table.jpeg)
 
 **Step 1. Upload your PDF file to Google Drive**
 
-![](/images/blog/63ef11a3a31e980d509ee42c_upload-file.png/)
+![](/images/blog/63ef11a3a31e980d509ee42c_upload-file.png)
 
 **Step 2. Double click on the file and click on “Open with Google Docs”**
 
-![](/images/blog/63ef11b7a31e9869d09ee6c3_open-with-docs.png/)
+![](/images/blog/63ef11b7a31e9869d09ee6c3_open-with-docs.png)
 
 **Step 3. Make some adjustment before formatting**
 
-![](/images/blog/63ef1334726f3140028c4745_pdf-doc.png/)
+![](/images/blog/63ef1334726f3140028c4745_pdf-doc.png)
 
 As you can see from the image above, some of the numbers and texts aren’t at the right places. Add some spaces and switch some lines so that it will be much easier for you to format later.
 
-![](/images/blog/63ef18f496013dd1f3d918b6_formatted-table.jpeg/)
+![](/images/blog/63ef18f496013dd1f3d918b6_formatted-table.jpeg)
 
 **Step 4. Use the “Find and Replace” feature to replace all single space character “ “ with a comma character “,.”**
 
-![](/images/blog/63ef137cadd38bdc199c622b_replace-all.jpeg/)
+![](/images/blog/63ef137cadd38bdc199c622b_replace-all.jpeg)
 
 After you replace all the single spaces with commas, your data will then look like a CSV file. Note that sometimes the values might have spaces within in and therefore should be adjusted again to avoid formatting issues.
 
-![](/images/blog/63ef1931b6792ed1707abac3_attention.jpeg/)
+![](/images/blog/63ef1931b6792ed1707abac3_attention.jpeg)
 
 **Step 5. Export is as a txt. file.**
 
-![](/images/blog/63ef197fa5cb6372f0a57059_txt-file.jpeg/)
+![](/images/blog/63ef197fa5cb6372f0a57059_txt-file.jpeg)
 
 **Step 6. Change the file name from .txt to .csv**
 
 **Step 7. Upload it to Google Drive and open it with Google Sheets. You have successfully converted your PDF to Google Sheets**
 
-![](/images/blog/63ef19e69254f109222b88f6_final-table.jpeg/)
+![](/images/blog/63ef19e69254f109222b88f6_final-table.jpeg)
 
 Note that this only works for native PDFs. It’s impossible to convert PDF containing images or non-tabular data without using AI technologies.
 

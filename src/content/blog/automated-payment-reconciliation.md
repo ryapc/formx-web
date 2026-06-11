@@ -71,7 +71,10 @@ A way to speed things up while also guaranteeing more accuracy in the data is to
 
 **Final Data Correction:** The final bit of data correction concerns financial statements. Any adjustments made during payment reconciliation need to be reflected so that the overall picture of a business’s financial status is up to date.
 
-![](/images/blog/64f7725c083e63d6bf18c972_pexels-mikhail-nilov-8297031.jpeg/)
+<picture>
+  <source srcset="/images/blog/64f7725c083e63d6bf18c972_pexels-mikhail-nilov-8297031.webp" type="image/webp" />
+  <img src="/images/blog/64f7725c083e63d6bf18c972_pexels-mikhail-nilov-8297031.jpeg" alt="" loading="lazy" />
+</picture>
 
 There’s no denying how important payment reconciliation is in a business, but its accuracy is hugely shaped by the methods used to implement it. Traditionally, reconciling payments is done through manual data entry and processes, but this approach has many drawbacks to it:
 

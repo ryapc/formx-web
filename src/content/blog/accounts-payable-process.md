@@ -17,7 +17,7 @@ In this article, we’ll break down the accounts payable steps, some of the key 
 
 Keep reading to find out.
 
-![](/images/blog/649ced5dea437f1f118e0c90_accounting.jpeg/)
+![](/images/blog/649ced5dea437f1f118e0c90_accounting.jpeg)
 
 Before we investigate some of the hurdles with AP process, the first question to tackle is “What is accounts payable?”. Simply put, accounts payable refers to any short-term monetary commitments a business has to its creditors, suppliers, vendors, etc. that are still outstanding. The management of this, or the accounts payable process, covers everything from checking invoices to reconciling accounts and making payments according to set deadlines.
 
@@ -47,7 +47,7 @@ The accounts payable steps, as you can likely see, aren’t as simple as receivi
 
 Balancing accuracy and timeliness is the central challenge of the accounts payable process. Compromising either aspect can lead to financial losses and unfortunately, as we’ll explore further in the next section, is an issue that the traditional accounts payable process has yet to overcome.
 
-![](/images/blog/649ced9fea437f1f118e6f09_calculating.jpeg/)
+![](/images/blog/649ced9fea437f1f118e6f09_calculating.jpeg)
 
 Ideally, the accounts payable process should ensure that suppliers are paid correctly and on time so that administrative delays don’t stall business operations. The traditional accounts payable process and its reliance on manual data entry and physical documents often mean that businesses are facing something far from the ideal AP process.
 
