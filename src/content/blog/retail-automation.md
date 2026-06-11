@@ -120,7 +120,7 @@ This results in a reduction in wastage, a decrease in overstocking costs, and pr
 
 Retail automation also brings about higher productivity by eliminating repetitive and time-consuming tasks. With automated systems in place, your workforce can focus on core tasks, leading to more efficient and productive workdays. This boost in productivity saves time and optimizes your resources, enabling you to achieve more with the same level of staffing.
 
-![](/images/blog/652e2aa8172747b22447b743_inventory-management.jpeg)
+![Large warehouse with tall red shelving units stacked with cardboard boxes on pallets](/images/blog/652e2aa8172747b22447b743_inventory-management.jpeg)
 
 Let's look at a few use cases of retail automation:
 

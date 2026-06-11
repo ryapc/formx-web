@@ -28,7 +28,7 @@ The manual handling of accounts payable is reminiscent of a time when paper trai
 
 
 
-![](/images/blog/64e331d16b8d852286bd14a7_02-bookkeeping.jpeg)
+![Open handwritten accounting ledger with rows of manual numerical entries](/images/blog/64e331d16b8d852286bd14a7_02-bookkeeping.jpeg)
 
 In the contemporary business environment, where agility and real-time decision-making are paramount, the limitations of manual AP are even more pronounced. Companies are under increasing pressure to:
 
@@ -75,7 +75,7 @@ Navigating the complexities of accounts payable (AP) requires a strategic approa
 
 In conclusion, while the world of AP is rapidly evolving with the advent of technology, grounding operations in these best practices ensures efficiency, accuracy, and robust financial health. Leveraging tools like FormX in tandem with these practices can further amplify the benefits, driving businesses towards operational excellence in the accounts payable department.
 
-![](/images/blog/64e332bf9ab1e9abf57dfe8a_03-digitalization.jpeg)
+![Woman silhouette overlaid with colorful digital code representing business digitalization](/images/blog/64e332bf9ab1e9abf57dfe8a_03-digitalization.jpeg)
 
 In the age of digitization, data extraction from physical or digital documents has become paramount. At the forefront of this evolution, two technologies emerge: Optical Character Recognition (OCR) and Intelligent Document Processing (IDP). But what are they, and why does the difference matter, especially in the realm of Accounts Payable?
 

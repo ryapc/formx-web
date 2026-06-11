@@ -37,27 +37,27 @@ Extracting tables from PDF only takes a few steps to set up.
 
 You can process the first 100 pages of bank statements with FormX for free! You simply have to sign up [**here**](<https://formextractorai.com/signup>).
 
-![](/images/blog/63ef0a4e6f3c2cbaa24c78eb_formx-signup.png)
+![FormX.ai sign-up page with email field and Google sign-in option](/images/blog/63ef0a4e6f3c2cbaa24c78eb_formx-signup.png)
 
 **Step 2. Create your table extractor**
 
 After creating an account, you can then create an extractor to extract tables or other data fields based on the type of your documents.
 
-![](/images/blog/63ef0ab8854a63359f3607fb_extractor-create.png)
+![FormX admin dashboard Extractors page with Create New Extractor card highlighted in red](/images/blog/63ef0ab8854a63359f3607fb_extractor-create.png)
 
 **Step 3. Upload your master image and mark your fields/regions**
 
-![](/images/blog/63ef0b0fadd38babf89bc880_labeling.png)
+![FormX extractor editor showing a bank statement with labeled anchor and detection regions highlighted in pink and blue](/images/blog/63ef0b0fadd38babf89bc880_labeling.png)
 
 If your document has a fixed layout, you can then upload a master image and label the anchor regions, which are regions with fixed positions, and detection regions, which are the places where the data can be found.
 
 When labelling the detection regions, you have a variety of extraction items or data types to choose to maximize the accuracy of the extracted results.
 
-![](/images/blog/63ef0ce86f3c2cec8a4cc089_data-type.png)
+![FormX Document tab listing auto extraction item types including Table, Date, Name, and Signature checkboxes](/images/blog/63ef0ce86f3c2cec8a4cc089_data-type.png)
 
 **Step 4. Test your extractor**
 
-![](/images/blog/63ef0d5292f26df2eed07cdc_extractor-testing.png)
+![FormX Test tab showing extracted bank statement table with Date, Description, Credit, Debit, and Balances columns](/images/blog/63ef0d5292f26df2eed07cdc_extractor-testing.png)
 
 After labelling the regions, you can then upload a sample image to test the accuracy of your table extractor. As you can see, FormX has successfully extracted the table.
 

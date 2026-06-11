@@ -47,7 +47,7 @@ Data plays a significant role in helping businesses show a clean bill of health 
 
 In their 2021 Global Investor Survey, PWC found that [79%](<https://www.pwc.com/us/en/services/esg/library/esg-data-collection-reporting.html>) of investors trust ESG information if it has been assured through auditing. This emphasizes how important it is that ESG data collection be done in a manner that is organized and audit-friendly.
 
-![](/images/blog/6513d9c044bdb5ff8f1d5c9e_data-puzzle.jpeg)
+![Hands assembling puzzle pieces spelling DATA surrounded by database and chart icons](/images/blog/6513d9c044bdb5ff8f1d5c9e_data-puzzle.jpeg)
 
 ESG data casts a relatively wide net, from qualitative data regarding workplace conditions to quantitative information on emissions and environmental resource management. The scope can be intimidating but why is it worth investing in ESG data collection?
 

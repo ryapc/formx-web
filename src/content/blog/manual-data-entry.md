@@ -79,7 +79,7 @@ The healthcare sector is heavily reliant on accurate data. Manual data entry her
 
 
 
-![](/images/blog/64db12489e5748c01524f466_woman-typing.jpeg)
+![Woman typing at a desktop computer in a modern open-plan office](/images/blog/64db12489e5748c01524f466_woman-typing.jpeg)
 
 Manual data entry, while foundational for many businesses, is not without its challenges. As we dive into these drawbacks, it's essential to understand both the broader implications and the specific real-world impacts they can have on operations.
 
@@ -157,7 +157,7 @@ A multinational corporation might receive contracts in various formats from diff
 
 FormX isn't just about basic data extraction. It leverages advanced AI models, like GPT-3.5 and GPT-4, to understand the context and nuances of the extracted data, ensuring that it's both accurate and meaningful.
 
-![](/images/blog/64db17b319c92a97ddf73ff4_man-holding-tablet.jpeg)
+![Industrial worker holding tablet with manufacturing dashboard and automation icons overlay](/images/blog/64db17b319c92a97ddf73ff4_man-holding-tablet.jpeg)
 
 While we've discussed the challenges of manual data entry, it's equally important to highlight the transformative benefits that solutions like FormX bring to the table. These benefits not only address the drawbacks of manual processes but also introduce new avenues for efficiency, accuracy, and growth.
 

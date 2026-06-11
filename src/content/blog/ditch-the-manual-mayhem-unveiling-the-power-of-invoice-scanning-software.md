@@ -38,7 +38,7 @@ Benefits Beyond Numbers:
 
 ## Modern Trends in Invoice Scanning: Beyond the Scan
 
-![](/images/blog/659b5bc3133d5685dac64b4a_0105_formx_blog_2.jpeg)
+![Smartphone with glowing holographic document data structures illustrating AI-powered invoice scanning trends](/images/blog/659b5bc3133d5685dac64b4a_0105_formx_blog_2.jpeg)
 
 Modern Trends in Invoice Scanning: Beyond the Scan
 
@@ -96,7 +96,7 @@ These trends highlight the shift towards an intelligent, automated, and holistic
 
 ## FormX.ai: Capture Your Invoices and Unleash Document Processing Power
 
-![](/images/blog/659b5be7458eb201f120716c_0105_formx_blog_1.jpeg)
+![Person holding laptop surrounded by flying invoices and documents representing manual document chaos](/images/blog/659b5be7458eb201f120716c_0105_formx_blog_1.jpeg)
 
 FormX.ai: Capture Your Invoices and Unleash Document Processing Power
 

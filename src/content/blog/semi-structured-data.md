@@ -36,7 +36,7 @@ Similar entities within the data are grouped and organized in a hierarchy but en
 
 
 
-![](/images/blog/65279588f43f42e5f1aa991e_closeup-shot-of-a-screen-with-html-javascript-sour-2022-12-20-12-26-40-utc.jpeg)
+![Closeup of a dark monitor displaying HTML and JavaScript source code with colorful syntax highlighting](/images/blog/65279588f43f42e5f1aa991e_closeup-shot-of-a-screen-with-html-javascript-sour-2022-12-20-12-26-40-utc.jpeg)
 
 Some of the most common digital formats make use of semi-structured data. For example, emails contain the structured data of time, date, recipient, etc. alongside unstructured text and images, while also being searchable with keywords.
 

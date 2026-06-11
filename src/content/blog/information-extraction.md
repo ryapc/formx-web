@@ -98,7 +98,7 @@ It’s an NLP information extraction technique that determines the emotional ton
 
 Another technique that supports the extraction of information is Dependency Graph. It's a visual representation that illustrates the relationships between elements in a system. It captures how words are connected based on their syntactic roles, such as subject, object, predicate, modifier, and more. Dependency graphs help reveal the underlying structure of a sentence and how its components interact.
 
-![](/images/blog/64ddfc95dfcd40149e7596d2_man-typing.jpeg)
+![Person typing on a laptop keyboard with an external monitor in the background](/images/blog/64ddfc95dfcd40149e7596d2_man-typing.jpeg)
 
 Some other benefits of IE using advanced techniques include:
 

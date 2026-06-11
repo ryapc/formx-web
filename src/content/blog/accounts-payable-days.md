@@ -33,7 +33,7 @@ Accounts payable days is a financial ratio that illustrates the average number o
 
 Grasping the concept of AP days aids in assessing cash flow management, evaluating vendor relationships, and working capital optimization. Businesses can optimize their AP days and reap the benefits of efficient cash flow management by implementing strategies like renegotiating payment terms, streamlining the AP process, and leveraging AP automation.
 
-![](/images/blog/64f5e5d926243b1d596640b3_02-ap-days-formula-dpo.png)
+![AP Days formula: Average Accounts Payable divided by Cost of Goods Sold multiplied by Number of Days in Period](/images/blog/64f5e5d926243b1d596640b3_02-ap-days-formula-dpo.png)
 
 To calculate accounts payable days, we use this formula:
 
@@ -61,7 +61,7 @@ The number of days in the period parameter usually aligns with your company's fi
 
 Businesses can accurately determine their AP Days and pinpoint potential areas for improvement or optimization in their cash flow management and supplier relationships by using the number of days in the period.
 
-![](/images/blog/64f5e5f3af3a6f9f116ead73_03-days-payable-outstanding-calculation.jpeg)
+![Accountant calculating days payable outstanding on a laptop in an office](/images/blog/64f5e5f3af3a6f9f116ead73_03-days-payable-outstanding-calculation.jpeg)
 
 Having explored the components of the AP days formula, we will now guide you through a step-by-step process to calculate this critical financial metric, including the payable turnover.
 

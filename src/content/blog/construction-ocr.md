@@ -15,7 +15,7 @@ The role of data in any industry today is incontestable. Organizations need data
 
 Construction is big business in the US, with the market valued at [$2 trillion](<https://www.globaldata.com/store/report/usa-construction-market-analysis/>) in 2021. With the sector experiencing a rebound from the pandemic, this figure is expected to grow. As construction projects become increasingly complex, construction firms are investing in digital solutions to stay ahead of the competition and ensure project efficiency from start to finish. Recent research by McKinsey shows that, over the last ten years, companies in the industry have [more than doubled](<https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/rise-of-the-platform-era-the-next-chapter-in-construction-technology>) their investment in construction technology. Among the solutions being explored are OCR and ML, which can help companies digitize their data and automate the processing of documents.
 
-![](/images/blog/63c3ede6b5e68ae5d50ba629_construction-benefits.jpeg)
+![Two construction workers in hard hats reviewing blueprints at a building site](/images/blog/63c3ede6b5e68ae5d50ba629_construction-benefits.jpeg)
 
 Automation processes utilize data, yet a great deal of this required information is kept in physical documents and unstructured formats, making it hard for software to interpret. OCR alone can only turn images or printed texts into machine-editable texts; however, the result remains unstructured and therefore cannot be processed without proper formatting.
 
@@ -37,7 +37,7 @@ Firstly, automating document processing help reduce paper costs. No longer do co
 
 Manual processes also tend to be error-prone, and this can mean huge losses for construction companies. With construction OCR, these mistakes can be avoided as the software is able to accurately recognize and process information without human errors.
 
-![](/images/blog/63c3ee947239e9148056570d_construction-ml.jpeg)
+![Three construction workers in hard hats smiling while reviewing documents in a warehouse](/images/blog/63c3ee947239e9148056570d_construction-ml.jpeg)
 
 Construction firms across the country are leveraging OCR software to automate their Accounts Payable processes. This allows them to significantly reduce manual labor while boosting growth. Not only can IDP powered by OCR and ML read and extract[ data from invoices](</solutions/invoice-ocr-api>), purchase orders, and receipts quickly, but it also returns structured information that is sent directly to their accounting software for automated accounts payable processes. This increases efficiency within the finance team while greatly reducing human error..
 
@@ -49,7 +49,7 @@ Data from construction documents must be stored securely and reported on quickly
 
 Furthermore, automated reports make it easier to keep track of quality assurance across various projects quickly. With a comprehensive overview of the data at your fingertips, it's easier to ensure excellent quality control and make informed decisions.
 
-![](/images/blog/63c3ef4d1a1415665d2c636a_construction-steps.jpeg)
+![Construction worker in orange hard hat using a tablet inside heavy machinery cab](/images/blog/63c3ef4d1a1415665d2c636a_construction-steps.jpeg)
 
 With all the advantages that come with using construction OCR, it's no wonder why more and more construction firms are adopting this technology. But making the switch from a traditional to a digital business model is no easy feat, and implementing construction OCR has its own unique set of considerations. Here's an in-depth look at how you can successfully implement OCR technology in your business.
 
