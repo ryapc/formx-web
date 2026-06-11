@@ -34,7 +34,7 @@ AI transforms global invoice management with automation.
 
 ### Enhanced Efficiency and Accuracy
 
-AI dramatically reduces invoice processing time from an average of 17.9 days to just 3.4 days. This improved speed allows companies to [capture early payment discounts and optimize cash flow](/blog/automated-invoice-processing/).
+AI dramatically reduces invoice processing time from an average of 17.9 days to just 3.4 days. This improved speed allows companies to [capture early payment discounts and optimize cash flow](/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/).
 
 ![Person using a calculator and laptop to process invoices.](/images/blog/proxyimage-6808af17.jpeg)
 
@@ -54,7 +54,7 @@ This cost-effectiveness becomes increasingly valuable as businesses grow, allowi
 
 ### Improved Compliance and Fraud Detection
 
-AI systems excel at identifying potential issues such as [duplicate invoices](/blog/conquer-invoice-chaos-automate-processing-with-ocr-invoice-processing/), mismatched vendor details, and [unusual payment amounts](/blog/automated-payment-reconciliation/).
+AI systems excel at identifying potential issues such as [duplicate invoices](/blog/breaking-the-paper-bottleneck-how-an-invoice-ocr-api-and-rpa-supercharge-modern-finance/), mismatched vendor details, and [unusual payment amounts](/blog/automated-payment-reconciliation/).
 
 This capability helps businesses maintain [regulatory compliance](<https://formx.ai/blog/formx-ai-achieves-iso-27001-soc-2-type-2-compliance-enhancing-data-security>) and [protect against fraud](/blog/protect-your-business-the-threat-of-fake-bank-statements-and-how-to-defend-yourself/) across different markets.
 

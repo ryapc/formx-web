@@ -49,7 +49,7 @@ Preferred payment methods differ globally. While electronic transfers are common
 
 ### AI-Powered Data Extraction
 
-Advanced invoice processing solutions use artificial intelligence to automatically extract key data from invoices in any format or language. This [reduces manual data entry and improves accuracy](/blog/reduce-data-entry-and-start-automating-with-machine-learning-ocr/) for international transactions.
+Advanced invoice processing solutions use artificial intelligence to automatically extract key data from invoices in any format or language. This [reduces manual data entry and improves accuracy](/blog/ocr-accounting-automated-workflows-future-finance/) for international transactions.
 
 ![Person using AI-powered software to process invoices on a laptop.](/images/blog/proxyimage-6808b06d.webp)
 
@@ -79,7 +79,7 @@ Corpay offers an end-to-end solution for automating international invoice proces
 
 ### SAP Concur Invoice
 
-Designed for large enterprises, SAP Concur Invoice provides AI-driven invoice matching, fraud detection, and [customizable approval workflows](/blog/enterprise-automation-transform-workflows-with-formx-ai/) to manage high volumes of global transactions.
+Designed for large enterprises, SAP Concur Invoice provides AI-driven invoice matching, fraud detection, and [customizable approval workflows](/blog/scaling-corporate-operations-beyond-manual-data-entry-and-spreadsheets/) to manage high volumes of global transactions.
 
 ### Tipalti
 
@@ -87,7 +87,7 @@ Tipalti specializes in automating global accounts payable, offering features lik
 
 ### Bill.com
 
-Geared towards mid-sized companies, Bill.com provides AI-powered invoice coding, approval routing, and [integration with major accounting software](/blog/accounting-automation/) to simplify cross-border financial operations.
+Geared towards mid-sized companies, Bill.com provides AI-powered invoice coding, approval routing, and [integration with major accounting software](/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/) to simplify cross-border financial operations.
 
 ## Ensuring Ongoing Compliance in a Changing Landscape
 

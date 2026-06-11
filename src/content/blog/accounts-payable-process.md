@@ -65,7 +65,7 @@ Because of the errors associated with manual data entry and the sheer necessity 
 
 The problem is that checking every invoice against a payment order and/or receipt is incredibly time-consuming. As a result, it can inadvertently cause delays, especially if an error is found and the whole process is forced to start again. The great flaw here is that one of the central accounts payable steps meant to mitigate against mistakes is the very thing that can cause missed payment deadlines or delayed goods delivery.
 
-It's why something as simple as [automating invoice processing](/blog/automated-invoice-processing/) and [PO data extraction](/blog/purchase-order-processing/), and the timesaving it offers is so valuable to AP teams. It’s also far easier to check data against each other when it’s handed digitally from a central system.
+It's why something as simple as [automating invoice processing](/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/) and [PO data extraction](/blog/purchase-order-processing/), and the timesaving it offers is so valuable to AP teams. It’s also far easier to check data against each other when it’s handed digitally from a central system.
 
 Most manual accounts payable processes rely heavily on physical documents. AP teams often find themselves overwhelmed with paperwork and forced to spend added time on filing and office organization just to stay on top of things. Excess paperwork also requires more storage and increases the risk of invoices getting missed or lost.
 

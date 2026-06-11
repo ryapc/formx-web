@@ -65,7 +65,7 @@ No-code tools let users upload a passport image and download extracted data as t
 
 They don't scale. There's no API access, no structured JSON output, no integration capability. Every extraction is a manual action.
 
-Security constraints also limit their use in regulated industries. Uploading identity documents to third-party web services creates data handling obligations that GDPR and similar frameworks explicitly address. Organizations operating under [KYC](/blog/automate-kyc-with-ocr-ai/) or AML requirements typically can't use consumer-grade tools for this.
+Security constraints also limit their use in regulated industries. Uploading identity documents to third-party web services creates data handling obligations that GDPR and similar frameworks explicitly address. Organizations operating under [KYC](/blog/the-developers-blueprint-for-autonomous-data-pipelines-solving-the-data-debt-crisis/) or AML requirements typically can't use consumer-grade tools for this.
 
 ### NFC and RFID chip scanning
 
@@ -101,7 +101,7 @@ The pattern across industries is consistent: high daily document volume, strict 
 
 ### KYC and financial services onboarding
 
-Banks, fintech platforms, and regulated financial institutions use passport OCR as the data capture step in [KYC workflows](/blog/automate-kyc-with-ocr-ai/). A customer who photographs their passport during digital onboarding never has to type their name, date of birth, or document number. Transcription errors that cause identity mismatches during verification are eliminated at the source.
+Banks, fintech platforms, and regulated financial institutions use passport OCR as the data capture step in [KYC workflows](/blog/the-developers-blueprint-for-autonomous-data-pipelines-solving-the-data-debt-crisis/). A customer who photographs their passport during digital onboarding never has to type their name, date of birth, or document number. Transcription errors that cause identity mismatches during verification are eliminated at the source.
 
 Onboarding abandonment increases with every additional step or delay. Faster document extraction isn't just an operational metric; it affects conversion directly. Passport OCR in KYC contexts is typically combined with liveness detection and document authenticity checks to create a complete remote identity verification pipeline that meets regulatory requirements without an in-person visit.
 

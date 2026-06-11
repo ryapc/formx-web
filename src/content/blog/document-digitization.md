@@ -37,7 +37,7 @@ Shifting this one key workflow has a ripple effect across all other operations r
 
 Because document digitization is an automated process, it removes the need for the work to be performed manually. The right algorithm and extraction tool can empower companies to run their operations faster and more accurately than ever, all without wasting precious employee time.
 
-[Reducing manual data entry](/blog/reduce-data-entry-and-start-automating-with-machine-learning-ocr/) doesn’t just save money by requiring less labor, the level of accuracy that automation provides instead also means that money isn’t lost to costly errors or misplaced paperwork. The digitization of documents allows companies to do more for less and with the added assurance that important data isn’t being missed.
+[Reducing manual data entry](/blog/ocr-accounting-automated-workflows-future-finance/) doesn’t just save money by requiring less labor, the level of accuracy that automation provides instead also means that money isn’t lost to costly errors or misplaced paperwork. The digitization of documents allows companies to do more for less and with the added assurance that important data isn’t being missed.
 
 ### Modernize Your Data
 
@@ -89,7 +89,7 @@ FormX can be used to automate the digitization of [business certificates](</solu
 
 ### Finance and Accounting
 
-The way that document digitization has helped most in banks and financial institutions is by [automating the Know Your Customer (KYC) process](/blog/automate-kyc-with-ocr-ai/). Used to analyze credit reports, investment portfolios, income verification, and deriving accurate insights about customers, the process usually involves extensive customer data that has to be sorted through.
+The way that document digitization has helped most in banks and financial institutions is by [automating the Know Your Customer (KYC) process](/blog/the-developers-blueprint-for-autonomous-data-pipelines-solving-the-data-debt-crisis/). Used to analyze credit reports, investment portfolios, income verification, and deriving accurate insights about customers, the process usually involves extensive customer data that has to be sorted through.
 
 Data parsing helps finance and accounting firms scrape through everything from customer [IDs](</solutions/id-card-ocr>) to [proof of residence documents](</solutions/address-proof>) in a fraction of the time it would have taken to do manually and with far greater accuracy.
 
@@ -99,7 +99,7 @@ Our FormX document scanning and digitization also extends to retail and wholesal
 
 Automating data extraction from receipts also reduces the manual labor involved in calculating taxes, discounts, and other operations related to a sale. By using the automated extraction of PDFs, the entire process can be completed in minutes instead of hours.
 
-The same applies to [invoice processing](/blog/invoice-digitization-automate-invoice-processing/) and [purchase orders](/blog/purchase-order-automation/), both of which tend to be quite time-sensitive. There’s nothing more frustrating than a payment or delivery being delayed because of administrative issues. Thankfully, digitizing documents helps prevent that from occurring.
+The same applies to [invoice processing](/blog/ocr-accounting-automated-ecosystems/) and [purchase orders](/blog/p2p-data-flow-mapping-enterprise-automation/), both of which tend to be quite time-sensitive. There’s nothing more frustrating than a payment or delivery being delayed because of administrative issues. Thankfully, digitizing documents helps prevent that from occurring.
 
 FormX leverages AI technologies such as OCR, ML, and LLM to help businesses across multiple different industries automate document digitization and in turn, improve everything from workflow efficiency to data management.
 

@@ -11,11 +11,11 @@ featured_image_alt: "OCR in Legal & Financial Document Management"
 canonical_url: "/blog/ocr-in-legal-financial-document-management/"
 ---
 
-‍[Optical Character Recognition (OCR) technology](/blog/what-is-ocr-and-how-business-leverage/) has become a cornerstone in transforming how legal and financial sectors manage vast volumes of documents. By automating the conversion of printed text into machine-readable data, OCR enhances efficiency, reduces errors, and saves considerable time and resources.
+‍[Optical Character Recognition (OCR) technology](/blog/the-developers-blueprint-for-autonomous-data-pipelines-solving-the-data-debt-crisis/) has become a cornerstone in transforming how legal and financial sectors manage vast volumes of documents. By automating the conversion of printed text into machine-readable data, OCR enhances efficiency, reduces errors, and saves considerable time and resources.
 
 ## The Vital Role of OCR in Legal Documents
 
-[OCR technology streamlines the management of legal documents](<https://formx.ai/blog/optical-character-recognition>) by automating data extraction, which is essential for case reviews, document discovery, and compliance checks. Here's how OCR makes a difference:
+[OCR technology streamlines the management of legal documents](</blog/the-developers-blueprint-for-autonomous-data-pipelines-solving-the-data-debt-crisis/>) by automating data extraction, which is essential for case reviews, document discovery, and compliance checks. Here's how OCR makes a difference:
 
 ![Person scanning a check using a smartphone with a laptop nearby.](/images/blog/proxyimage-68020067.png)
 

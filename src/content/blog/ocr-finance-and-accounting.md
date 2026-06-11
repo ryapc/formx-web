@@ -17,7 +17,7 @@ So much of what finance and accounting teams spend their time doing is simply pr
 
 If that sounds like a waste of time, that’s because it largely is. OCR, or “Optical Character Recognition” software is able to perform these tasks in a fraction of the time and with a far lower rate of error. By automatically extracting relevant fields of data, finance and accounting OCR can expedite transaction processing and help businesses avoid delays and even potential fines.
 
-Anyone working in the finance of a business knows all too well how costly small, daily accounting errors can be. That’s a risk that finance and accounting OCR can help eliminate, saving both money and time. Furthermore, businesses in the financial sector trying to protect themselves from fraud by having [KYC](/blog/automate-kyc-with-ocr-ai/) verification benefit hugely from finance OCR. It can accelerate that and many other financial processes.
+Anyone working in the finance of a business knows all too well how costly small, daily accounting errors can be. That’s a risk that finance and accounting OCR can help eliminate, saving both money and time. Furthermore, businesses in the financial sector trying to protect themselves from fraud by having [KYC](/blog/the-developers-blueprint-for-autonomous-data-pipelines-solving-the-data-debt-crisis/) verification benefit hugely from finance OCR. It can accelerate that and many other financial processes.
 
 Doing things manually may still be the norm for many but switching over to OCR in finance and accounting can help improve the way a business runs, both in speed and efficiency.
 
@@ -35,7 +35,7 @@ For internal accounting departments and businesses in the financial sector, OCR 
 
 ![](/images/blog/63318800e06eb64bf85994d1_receipts-ga501d5f6b_1280.jpeg)
 
-It can be incredibly tiresome to sift through [receipts](/blog/how-to-extract-receipt-data-with-ocr-regex-and-ai/) and [invoices](/blog/invoice-digitization-automate-invoice-processing/), find the information needed, and then type it all up. Often businesses are dealing with documents from outside suppliers and customers as well as internal staff for reimbursement.
+It can be incredibly tiresome to sift through [receipts](/blog/how-to-extract-receipt-data-with-ocr-regex-and-ai/) and [invoices](/blog/ocr-accounting-automated-ecosystems/), find the information needed, and then type it all up. Often businesses are dealing with documents from outside suppliers and customers as well as internal staff for reimbursement.
 
 Those documents are rarely standardized and the effort to go through each one and find the relevant information when it’s presented so differently every time is significant. The time it takes to go through all of it manually also makes no sense when OCR is available.
 

@@ -80,7 +80,7 @@ Some of the advantages of intelligent document processing are:
 
 ### Reduces Human Error
 
-Human operators doing [manual data entry](/blog/manual-data-entry/) are susceptible to fatigue and oversight, which leads to inaccuracies in data entry and [document classification](/blog/document-classification/). You may not believe this; even the most forgiving statistics in [data entry work show an average human error rate of 1%](<https://www.qualitymag.com/articles/96853-manual-data-entry-and-its-effects-on-quality>).
+Human operators doing [manual data entry](/blog/manual-data-entry/) are susceptible to fatigue and oversight, which leads to inaccuracies in data entry and [document classification](/blog/ocr-accounting-automated-workflows-future-finance/). You may not believe this; even the most forgiving statistics in [data entry work show an average human error rate of 1%](<https://www.qualitymag.com/articles/96853-manual-data-entry-and-its-effects-on-quality>).
 
 IDP, on the other hand, operates tirelessly and consistently. Adhering to predefined rules and machine learning models significantly minimizes the risk of errors.
 

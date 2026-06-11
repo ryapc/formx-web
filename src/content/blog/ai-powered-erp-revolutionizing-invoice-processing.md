@@ -19,7 +19,7 @@ By integrating AI-powered invoice processing solutions with Enterprise Resource 
 
 ### Intelligent Data Extraction
 
-At the core of AI invoice processing is the ability to automatically extract relevant information from invoices in various formats. [Advanced optical character recognition (OCR) technology](/blog/ai-ocr-revolutionizing-document-processing-with-formx-ai/), combined with [machine learning algorithms](/blog/reduce-data-entry-and-start-automating-with-machine-learning-ocr/), enables systems to accurately capture data such as invoice numbers, dates, amounts, and vendor details.
+At the core of AI invoice processing is the ability to automatically extract relevant information from invoices in various formats. [Advanced optical character recognition (OCR) technology](/blog/breaking-the-paper-bottleneck-how-an-invoice-ocr-api-and-rpa-supercharge-modern-finance/), combined with [machine learning algorithms](/blog/ocr-accounting-automated-workflows-future-finance/), enables systems to accurately capture data such as invoice numbers, dates, amounts, and vendor details.
 
 <picture>
   <source srcset="/images/blog/proxyimage-6808b015.webp" type="image/webp" />
@@ -32,7 +32,7 @@ This eliminates the need for manual data entry and significantly reduces process
 
 ### Natural Language Processing
 
-Natural Language Processing (NLP) allows AI systems to understand and interpret the content of invoices, even when dealing with [non-standard formats](/blog/unstructured-data-extraction/) or [vendor-specific terminology](/blog/document-classification/). This capability enhances the accuracy of data extraction and categorization.
+Natural Language Processing (NLP) allows AI systems to understand and interpret the content of invoices, even when dealing with [non-standard formats](/blog/data-entry-automation-enterprise-superpower/) or [vendor-specific terminology](/blog/ocr-accounting-automated-workflows-future-finance/). This capability enhances the accuracy of data extraction and categorization.
 
 ![Illustration of AI-powered NLP and LLM concepts with a robot.](/images/blog/proxyimage-6808b013.png)
 
@@ -61,7 +61,7 @@ By automating data extraction and validation, AI significantly reduces the risk 
 
 ### Accelerated Processing Times
 
-AI-powered systems can process invoices in a fraction of the time it takes for manual methods. This [acceleration of the invoice lifecycle](/blog/invoice-digitization-automate-invoice-processing/) improves cash flow management and allows businesses to take advantage of early payment discounts.
+AI-powered systems can process invoices in a fraction of the time it takes for manual methods. This [acceleration of the invoice lifecycle](/blog/ocr-accounting-automated-ecosystems/) improves cash flow management and allows businesses to take advantage of early payment discounts.
 
 ![Illustration of invoice processing with AI streamlining steps.](/images/blog/proxyimage-6808b013.png)
 
@@ -69,7 +69,7 @@ AI speeds up invoice processing for better cash flow.
 
 ### Improved Compliance and Audit Trails
 
-[Automated invoice processing](/blog/automated-invoice-processing/) creates a clear, auditable trail of all actions taken on each invoice. This enhances compliance with financial regulations and simplifies the audit process.
+[Automated invoice processing](/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/) creates a clear, auditable trail of all actions taken on each invoice. This enhances compliance with financial regulations and simplifies the audit process.
 
 ![Zoomed-in view of a printed invoice with itemized details.](/images/blog/proxyimage-6808b014.png)
 

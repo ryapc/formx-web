@@ -197,7 +197,7 @@ The model we used for this is random forest with the number of estimators at 300
 
 PHOTO BY [ALEX](<https://unsplash.com/@alx_andru?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>) ON [UNSPLASH](<https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>)
 
-FormX provides a set of pre-trained templates, including receipts, business registration, passport, IDs, etc., so that everyone can easily [extract data from PDFs](/blog/extract-data-from-pdf-to-structured-data/) or images without having to develop the technology.
+FormX provides a set of pre-trained templates, including receipts, business registration, passport, IDs, etc., so that everyone can easily [extract data from PDFs](/blog/bill-of-lading-unstructured-data-extraction/) or images without having to develop the technology.
 
 To extract data from receipts with FormX, you can use our predefined Receipts template. After you sign in, click on “Receipts” on the left hand side, and simply upload your receipts to view the test result. Below is an image of the receipt and the JSON output.  
 

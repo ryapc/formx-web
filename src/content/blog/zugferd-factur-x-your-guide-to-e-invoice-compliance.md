@@ -104,4 +104,4 @@ When implementing [e-invoice compliance](/blog/invoice-processing-automation-str
 
 
 
-By following this checklist and staying informed about the latest developments in e-invoicing standards, businesses can ensure compliance with [ZUGFeRD and Factur-X requirements](/blog/invoice-digitization-automate-invoice-processing/), streamline their invoicing processes, and maintain regulatory adherence across various jurisdictions.
+By following this checklist and staying informed about the latest developments in e-invoicing standards, businesses can ensure compliance with [ZUGFeRD and Factur-X requirements](/blog/ocr-accounting-automated-ecosystems/), streamline their invoicing processes, and maintain regulatory adherence across various jurisdictions.
