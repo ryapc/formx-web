@@ -52,7 +52,7 @@ For insurance and financial auditing, the benefits are even more pronounced. In 
 
 **A:** OCR (Optical Character Recognition) [converts images into raw text](<../tools/invoice-ocr-api.html>) while IDP (Intelligent Document Processing) also utilises OCR technology but then uses AI to interpret that text, identifying the relationship between data points (e.g., matching a "Total" to a specific "Currency").
 
-![](/images/blog/28fafaa8.png/)
+![FormX.ai dashboard showing an invoice document with automatically extracted fields including invoice number, total, and vendor name](/images/blog/28fafaa8.png)
 
 **Q: How do I choose a data extraction software?**
 
@@ -60,6 +60,6 @@ For insurance and financial auditing, the benefits are even more pronounced. In 
 
 Also, look for easy API integration that handles both structured and unstructured layouts. This is crucial because business data is rarely consistent; if the tool can’t adapt to different formats or "talk" to your existing software, it becomes a technical bottleneck rather than a solution that saves you time.
 
-You can try out [FormX.ai](<http://formx.ai>) for free here. 
+You can try out [FormX.ai](https://www.formx.ai) for free here. 
 
 ‍

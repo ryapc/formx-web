@@ -5,7 +5,7 @@ excerpt: "Stop losing 33 hours monthly to \"Paperwork Purgatory.\" Learn how int
 category: automation
 author: FormX
 date: 2026-04-15
-featured_image: "/images/blog/Screenshot-2026-04-15-at-1.53.46 PM.png"
+featured_image: "/images/blog/Screenshot-2026-04-15-at-1.53.46 PM.jpg"
 featured_image_alt: "The Latency Tax: Why Your Healthcare Facility is Losing 33 Hours a Month to \"Paperwork Purgatory\""
 canonical_url: "/blog/the-latency-tax-why-your-healthcare-facility-is-losing-33-hours-a-month-to-paperwork-purgatory/"
 ---

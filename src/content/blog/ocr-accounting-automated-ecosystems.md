@@ -5,7 +5,7 @@ excerpt: "The modern enterprise is no longer a collection of departments: it is 
 category: automation
 author: FormX
 date: 2026-04-29
-featured_image: "/images/blog/consolidated-blogpost-9.png"
+featured_image: "/images/blog/consolidated-blogpost-9.jpg"
 featured_image_alt: "High-Velocity Financial Operations via OCR Accounting Automated Ecosystems"
 canonical_url: "/blog/ocr-accounting-automated-ecosystems/"
 ---

@@ -18,11 +18,11 @@ Document processing has become more efficient in the last few years with the int
 
 Intelligent Document Processing solutions are here to help businesses extract data from unstructured, semi-structured, or complex documents. Let's dive into what document processing is, why we do it, and how we can do it better.
 
-![](/images/blog/6332ae11e96fe832c9b241d9_collector-g36292b6ea_1280.jpeg/)
+![Open filing cabinet drawer packed with labeled folders representing physical document storage](/images/blog/6332ae11e96fe832c9b241d9_collector-g36292b6ea_1280.jpeg)
 
 Document processing initially was a sort of production line work style that aimed to sort and extract data from physical documents. In layman's terms, document processing takes analog data and manual forms from a physical form into a digital format so that the data trapped in said physical documentation can then be fully integrated into day-to-day business practices. By using document processing systems to extract data, companies can digitally replicate and recreate the document's original layout, text, images, and structure. It is ideally used for converting documents with identical formats.
 
-![](/images/blog/6231562914aeb9ebe9c3d357_success-g35bec90a5_640.jpeg/)
+![Blue interlocking gears with business icons illustrating automated document processing workflows](/images/blog/6231562914aeb9ebe9c3d357_success-g35bec90a5_640.jpeg)
 
 Document processing can be performed in a multitude of ways: manual data entry, computer vision algorithms, neural networks, etc. The typical step-by-step process of digitizing analog data into digital data is as follows:
 
@@ -50,7 +50,7 @@ By converting physical documents to structured data, businesses can better prote
 
 IDP makes different business processes extremely faster by removing the document processing bottleneck. Users would no longer have to fill out their personal information when they want to open a bank account, for instance. All they would have to do is upload an image of their driver's license or identity card and the IDP solution would extract the needed information and send it along through the system. This then provides a better overall experience for both the clients and employees.
 
-![](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png/)
+![FormX.ai diagram showing five IDP stages: Data Capture, Pre-processing, Data Extraction, Data Validation, and Integration](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png)
 
 Intelligent document processing essentially captures, extracts, and processes data from various documents. The core characteristics of an IDP platform are:
 
@@ -74,7 +74,7 @@ After the data extraction process has been completed, the end results are then v
 
 This is the final stage of the IDP workflow, where the IDP system is integrated with other software. This software includes robotic process automation (RPA), enterprise resource planning (ERP), and other software to help automate various business processes. If direct integration into other software systems is not possible, IDP solutions can also provide .CSV or .JSON files that can then be imported and integrated directly with other systems.
 
-![](/images/blog/6332b7fb3f958a1153d99618_files-g7f72339b3_640.jpeg/)
+![Black and white photo of tall stacks of paper documents labeled by year in filing trays](/images/blog/6332b7fb3f958a1153d99618_files-g7f72339b3_640.jpeg)
 
 When looking for an IDP software solution for your organization, you want to find the one best suited to your needs. Ideally, the IDP platform you choose should have and be able to do the following:
 

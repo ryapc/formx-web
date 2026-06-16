@@ -17,7 +17,7 @@ Data capture refers to the process or technologies that help businesses extract 
 
 In this blog post, we'll talk about the process of capturing data, the different methods of data capture, and solutions that can help businesses automate data capture.
 
-![](/images/blog/63679238a0bbe14047a3e046_Untitled.jpeg/)
+![Open filing cabinet drawer filled with indexed paper cards representing analog data storage](/images/blog/63679238a0bbe14047a3e046_Untitled.jpeg)
 
 Data capture refers to extracting data from physical or digital documents, such as PDFs or images, and converting them into formats that computers can understand. Formats that computers can read include CSV (Comma-Separated Values), XML (Extensible Markup Language), and JSON (JavaScript Object Notation).
 

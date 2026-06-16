@@ -39,7 +39,7 @@ Let’s start with a successful case first – FormX played an important role in
 We will dive deep into parts where data is captured and extracted. While FormX can pull data off all kinds of physical forms and documents, for the sake of readability, general receipts will be used as a primary example throughout this article.  
 
 
-![](/images/blog/614d74a011af4d4a07051081_receipts.jpeg/)
+![Coffee cup with latte art beside stacked paper receipts on wooden counter](/images/blog/614d74a011af4d4a07051081_receipts.jpeg)
 
 PHOTO BY [CARLI JEEN](<https://unsplash.com/@carlijeen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>) ON [UNSPLASH](<https://unsplash.com/@carlijeen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>)
 
@@ -88,7 +88,7 @@ We will now group them into horizontal lines _relative_ to the receipt, sorted b
 
 
 
-![](/images/blog/614d758587c3947453c4ceb1_formextractor-behind-the-scenes-1.png/)
+![Two paper receipts photographed at a tilted angle showing printed text](/images/blog/614d758587c3947453c4ceb1_formextractor-behind-the-scenes-1.png)
 
 FIGURE 1. RECEIPTS CAPTURED WITH TILTED ANGLE  
 IMAGE SOURCE: [USC ANNENBERG MEDIA](<http://www.uscannenbergmedia.com/2019/09/20/paper-receipts-present-potential-hazard-to-the-environment/>)
@@ -101,7 +101,7 @@ As a disclaimer, the example above is just a random image. In real life, receipt
 
 Each instance of Word comes with a set of four vertices, and with them is a vector of the Word which carries its direction. It can be calculated through the following:
 
-![](/images/blog/614d75e7cd261846f80962df_formextractor-behind-the-scenes-2.png/)
+![Diagram of tilted bounding box with vectors u1 and u2 and direction formula d equals u1 plus u2 divided by magnitude](/images/blog/614d75e7cd261846f80962df_formextractor-behind-the-scenes-2.png)
 
 FIGURE 2. VECTOR DIRECTION OF A BOUNDING BOX
 
@@ -113,7 +113,7 @@ Fortunately, there is a saying – when we see outliers , we RANSAC them! RANdom
 
 Let’s say there’s a 70% chance to get one inlier (a value within a pattern) out of all Words by picking randomly. We have to be 99.99% sure that only inliers are picked according to this formula:
 
-![](/images/blog/614d76033dd0723f94e58469_formextractor-behind-the-scenes-3.png/)
+![RANSAC probability formula 1 minus 1 minus r to the k to the n greater than or equal to C with labeled components](/images/blog/614d76033dd0723f94e58469_formextractor-behind-the-scenes-3.png)
 
 FIGURE 3. FORMULA FOR PICKING INLIERS[  
 ](<http://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fblog.oursky.com%2F2020%2F04%2F06%2Fformextractor-behind-the-scenes-how-artificial-intelligence-ai-is-used-to-extract-and-capture-data%2F&media=https%3A%2F%2Fblog.oursky.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fformextractor-behind-the-scenes-3.png&description=%20Figure%203.%20Formula%20for%20picking%20inliers%20&is_video=false>)
@@ -193,11 +193,11 @@ The model we used for this is random forest with the number of estimators at 300
 
 **Has Symbols.** Candidates with “:” and empty space with less than 2 occurrences are more likely to be time. The ones with am or pm are also prime candidates. Similar to how Date is classified, candidates with Words that imply data related to Time will get extra marks.
 
-![](/images/blog/614d768efbc1579df8aa23ab_alex-o9isBQ25H-g-unsplash-1160x774.jpeg/)
+![Close-up of colorful office building glass facade with rows of yellow, green and blue windows](/images/blog/614d768efbc1579df8aa23ab_alex-o9isBQ25H-g-unsplash-1160x774.jpeg)
 
 PHOTO BY [ALEX](<https://unsplash.com/@alx_andru?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>) ON [UNSPLASH](<https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>)
 
-FormX provides a set of pre-trained templates, including receipts, business registration, passport, IDs, etc., so that everyone can easily [extract data from PDFs](/blog/extract-data-from-pdf-to-structured-data/) or images without having to develop the technology.
+FormX provides a set of pre-trained templates, including receipts, business registration, passport, IDs, etc., so that everyone can easily [extract data from PDFs](/blog/bill-of-lading-unstructured-data-extraction/) or images without having to develop the technology.
 
 To extract data from receipts with FormX, you can use our predefined Receipts template. After you sign in, click on “Receipts” on the left hand side, and simply upload your receipts to view the test result. Below is an image of the receipt and the JSON output.  
 
@@ -209,13 +209,13 @@ Aside from that, you can set up your own template, or Form as we call it, by fol
 
 
 
-![](/images/blog/61ea442f47d11954e159f1ef_WZKL-ohKvfRx2JagGH1MHMeRV_wD5bkF86PSFmNlnX8Q1sTh9utAMTWUDVU3yhNBpb0BAku3W20Q-QgkaPQsoIxD0CFRkYRVWAqa_STmHf96deqmXxHro9Vflou0fBKzsg03lIvV.png/)
+![FormX.ai portal dialog for creating a new document extractor with three document format options](/images/blog/61ea442f47d11954e159f1ef_WZKL-ohKvfRx2JagGH1MHMeRV_wD5bkF86PSFmNlnX8Q1sTh9utAMTWUDVU3yhNBpb0BAku3W20Q-QgkaPQsoIxD0CFRkYRVWAqa_STmHf96deqmXxHro9Vflou0fBKzsg03lIvV.png)
 
   * Select “Receipt” as your document type and pick the auto extraction items you want.
 
 
 
-![](/images/blog/61ea442fbc7ffb3c6f4b321a_Q4sTNVX0oEaWBxPQV5v4zkd2PnUT5XuPJVHMRrCeQ71XlyoWkYgj6Wg1qByxSSfByHDH_HaA0mczC97W-KGYjrtI-1GdGaNvUPDY0azzrUKtsrgblaD3-9ZVgz04EcURuS93-VG1.png/)
+![FormX.ai receipt extractor settings panel showing Receipt document type and auto extraction items checklist](/images/blog/61ea442fbc7ffb3c6f4b321a_Q4sTNVX0oEaWBxPQV5v4zkd2PnUT5XuPJVHMRrCeQ71XlyoWkYgj6Wg1qByxSSfByHDH_HaA0mczC97W-KGYjrtI-1GdGaNvUPDY0azzrUKtsrgblaD3-9ZVgz04EcURuS93-VG1.png)
 
   * Upload an image for testing.  
 

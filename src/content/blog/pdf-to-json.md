@@ -13,7 +13,7 @@ canonical_url: "/blog/pdf-to-json/"
 
 PDFs have undoubtedly become the default exchange format for business documents, but the way data is stored in them often limits their usability. We’re going to dig into exactly why that is, how converting your PDFs to JSON can transform the way your business manages its data, and the tools you need to do it all.
 
-![](/images/blog/63bfd5d41fecb5795790afc2_Post-Image-5-min.jpeg/)
+![Business professional reviewing paper documents next to a laptop in an office](/images/blog/63bfd5d41fecb5795790afc2_Post-Image-5-min.jpeg)
 
 PDFs are already considered an upgrade from paper documents, so why upgrade further? The reason is all in the data. PDFs are an unstructured document format and as such, the data they store is unstructured too. This makes it especially difficult to selectively extract specific data from PDFs for further processing and usage.
 
@@ -23,7 +23,7 @@ Despite their challenges, PDFs are too useful to switch from completely and you 
 
 The problem with trying to convert PDF to JSON is that, depending on the complexity of the PDF layout and the types of data you’re trying to extract, it can be quite a challenging process. However, it’s a challenge that we’ve taken on at [FormX](<../index.html>) and developed highly effective solutions for. Before we get there though, it’s important to understand what makes a PDF different from a JSON and how converting documents can alter the way we use them.
 
-![](/images/blog/63bfd5e008864c7b1e29e8ec_Post-Image-6-min.jpeg/)
+![Large stacked pile of paper documents bound with rubber bands and binder clips](/images/blog/63bfd5e008864c7b1e29e8ec_Post-Image-6-min.jpeg)
 
 PDF and JSON each have their own purposes and advantages. Understanding when to shift from using one to the other starts with looking at how differently they each store data.
 
@@ -44,21 +44,21 @@ Instead of preserving layouts, the central purpose of a JSON is to store data in
 
 The image shown below is a JSON result and illustrates what a receipt looks like when converted from PDF to JSON by FormX. You can see how the information extracted from the PDF is readable to both a human and a computer, making JSON perfect for manual editing as well as for automatic processing.
 
-![](/images/blog/63bfd611ecb9a17eeeaceea0_json.png/)
+![FormX dashboard showing receipt data extracted as JSON with fields like total_amount, date, and invoice_number](/images/blog/63bfd611ecb9a17eeeaceea0_json.png)
 
 How a JSON file looks like in FormX
 
 The best way to consider the difference between a PDF and a JSON file is that a PDF is about prioritizing the integrity of the layout while the purpose of a JSON is data storage and transmission. That’s why when it comes to speeding up your automated data processing, JSON files work so much better.
 
-![](/images/blog/63bfd69d70936275add612b4_Post-Image-7-min.jpeg/)
+![Team of colleagues reviewing printed charts and documents spread on a table](/images/blog/63bfd69d70936275add612b4_Post-Image-7-min.jpeg)
 
 PDFs lack a hierarchical structure in elements, such as <h1> and <p> in HTML for example. By converting them to JSON, this information becomes structured. A headline inside a PDF document is just considered to be “normal” text in a larger font size and a table is just a collection of text fields placed in certain positions inside the document. This is all to say that there is no relation between the elements preserved in a PDF file apart from the visual representation. The consequence of this is that software is then unable to “understand” the represented data. Moreover, PDF files come with different formats and may contain images that cannot be understood by machines without advanced technologies.
 
 As such, to accurately extract information from a PDF with multiple images and pages, you need to identify data and context. It’s why converting a PDF to JSON can be quite a challenge. The way that it’s usually performed is through manual data entry, which may work fine when there’s only a small number of PDFs to process. Sadly, many businesses often have to process countless PDF files on a daily basis and it’s not a sustainable approach for businesses to deal with them manually.
 
-What’s needed is software that can [turn PDF information into structured data](/blog/extract-data-from-pdf-to-structured-data/) so that more can be done with it. A solution that many are implementing to speed up their PDF processing is [Intelligent Document Processing](<../index.html>) solutions. This kind of software, combining [OCR](/blog/best-ocr-software/) with AI and ML technology, can understand the context of a PDF as well as the data it it and convert it to a JSON where the information is then available in a structured, usable format.
+What’s needed is software that can [turn PDF information into structured data](/blog/bill-of-lading-unstructured-data-extraction/) so that more can be done with it. A solution that many are implementing to speed up their PDF processing is [Intelligent Document Processing](<../index.html>) solutions. This kind of software, combining [OCR](/blog/scaling-corporate-operations-beyond-manual-data-entry-and-spreadsheets/) with AI and ML technology, can understand the context of a PDF as well as the data it it and convert it to a JSON where the information is then available in a structured, usable format.
 
-![](/images/blog/63bfd6b97842c56cbb9b4f61_Post-Image-8-min.jpeg/)
+![Multiple printed text document pages scattered and overlapping on a white surface](/images/blog/63bfd6b97842c56cbb9b4f61_Post-Image-8-min.jpeg)
 
 Implementing Intelligent Document Processing (IDP) solution, and using it to convert PDF to JSON can transform several business processes:
 
@@ -82,21 +82,21 @@ FormX is a robust, reliable solution that helps businesses automate the data ext
 
 [Sign up for a free trial](<https://formextractorai.com/signup>) to start setting up your extractor to convert PDF or images to JSON.
 
-![](/images/blog/63bfd74cc8f95f1ecac82b65_1.png/)
+![FormX.ai sign-up page with email login, Passkey, and Google sign-in options](/images/blog/63bfd74cc8f95f1ecac82b65_1.png)
 
 ### **Create Your First Extractor** ‍
 
 FormX has provided a set of pre-built extractors such as IDs, invoice, receipt, address proof, food license, and business registration. In addition, as our solution is powered by machine learning, you can also train your own extractor by uploading sample images and label the data fields that you wish to extract without writing a single line of code.
 
-![](/images/blog/63bfd765a55c345b5bd7afa5_2.png/)
+![FormX dashboard showing built-in extractor options including Invoice, Receipts, ID, and Business Registration](/images/blog/63bfd765a55c345b5bd7afa5_2.png)
 
 ### **Test Your Extractor** ‍
 
 After the extractors are set, you could upload PDF documents that you’d like to convert and check the results.
 
-![](/images/blog/63bfd7b55252883d6c5878d6_3.png/)
+![FormX extractor test results showing a Dutch passport with extracted fields like surname, given names, and date of birth](/images/blog/63bfd7b55252883d6c5878d6_3.png)
 
-![](/images/blog/63bfd7cf0e91e31c6a010841_4.png/)
+![FormX JSON output panel displaying structured passport data including country_code, surname, and passport_number fields](/images/blog/63bfd7cf0e91e31c6a010841_4.png)
 
 ### **Obtain Form ID and Access Token** ‍
 
@@ -104,7 +104,7 @@ You could copy the Form ID and Access Token from the “Extract” tab. The ID a
 
 The extractor can be integrated using the RESTful API and enrich the automation workflow. Send the image to the API endpoint *“**https://worker.formextractorai.com/extract”*** with the Form ID and Access Token. Then, in the API response, you will see the extracted information.
 
-![](/images/blog/63bfd7e21d393a09d5764278_5.png/)
+![FormX API integration page showing HTTP endpoint, Form ID, Access Token, and curl code sample](/images/blog/63bfd7e21d393a09d5764278_5.png)
 
 ## Ready to Convert?
 

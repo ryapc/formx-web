@@ -15,7 +15,7 @@ ZUGFeRD and Factur-X are hybrid electronic invoice formats that combine PDF and 
 
 These formats comply with the European standard EN 16931, which regulates [electronic invoicing for public sector customers (B2G)](/blog/ditch-the-manual-mayhem-unveiling-the-power-of-invoice-scanning-software/).
 
-![Global map with red dotted lines connecting regions and a paid invoice icon.](/images/blog/proxyimage-68074a42.jpeg/)
+![Global map with red dotted lines connecting regions and a paid invoice icon.](/images/blog/proxyimage-68074a42.jpeg)
 
 EN 16931: Standardizing electronic invoices worldwide.
 
@@ -104,4 +104,4 @@ When implementing [e-invoice compliance](/blog/invoice-processing-automation-str
 
 
 
-By following this checklist and staying informed about the latest developments in e-invoicing standards, businesses can ensure compliance with [ZUGFeRD and Factur-X requirements](/blog/invoice-digitization-automate-invoice-processing/), streamline their invoicing processes, and maintain regulatory adherence across various jurisdictions.
+By following this checklist and staying informed about the latest developments in e-invoicing standards, businesses can ensure compliance with [ZUGFeRD and Factur-X requirements](/blog/ocr-accounting-automated-ecosystems/), streamline their invoicing processes, and maintain regulatory adherence across various jurisdictions.

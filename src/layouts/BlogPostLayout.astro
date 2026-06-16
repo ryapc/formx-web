@@ -17,7 +17,7 @@ const { post, relatedPosts } = Astro.props;
 const { title, description, excerpt, category, date, lastmod, featured_image, featured_image_alt, og_title, og_description, og_image, twitter_card, canonical_url } = post.data;
 
 const formattedDate = formatDate(date);
-const canonicalUrl = toAbsoluteUrl(canonical_url ?? `/blog/${post.id}/`);
+const canonicalUrl = toAbsoluteUrl(canonical_url ? (canonical_url.endsWith('/') ? canonical_url : canonical_url + '/') : `/blog/${post.id}/`);
 
 const articleSchema = {
   '@context': 'https://schema.org',

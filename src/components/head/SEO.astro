@@ -1,5 +1,5 @@
 ---
-import { SITE_DEFAULT_OG_IMAGE, GOOGLE_VERIFICATION } from '@/lib/constants';
+import { SITE_DEFAULT_OG_IMAGE, GOOGLE_VERIFICATION, toAbsoluteUrl } from '@/lib/constants';
 
 interface Props {
   title: string;
@@ -25,7 +25,7 @@ const {
 
 const resolvedOgTitle = ogTitle ?? title;
 const resolvedOgDescription = ogDescription ?? description;
-const resolvedOgImage = ogImage ?? SITE_DEFAULT_OG_IMAGE;
+const resolvedOgImage = toAbsoluteUrl(ogImage ?? SITE_DEFAULT_OG_IMAGE);
 const resolvedCanonical = canonicalUrl ?? Astro.url.href;
 ---
 
@@ -34,6 +34,7 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
 <meta property="og:title" content={resolvedOgTitle} />
 <meta property="og:description" content={resolvedOgDescription} />
 <meta property="og:image" content={resolvedOgImage} />
+<meta property="og:url" content={Astro.url.href} />
 <meta property="og:type" content="website" />
 <meta name="twitter:title" content={resolvedOgTitle} />
 <meta name="twitter:description" content={resolvedOgDescription} />

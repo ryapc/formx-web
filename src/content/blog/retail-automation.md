@@ -17,7 +17,7 @@ Retail automation isn't just a lifeline; it's your key to thriving in this ever-
 
 This blog post will delve into different types of retail automation, its manifold benefits, and how it can reshape your business for the better.
 
-Retail automation is a comprehensive concept encompassing a variety of technologies aimed at streamlining and enhancing different facets of the retail sector. It involves adopting various hardware and digital solutions, such as automated checkout kiosks and advanced inventory management systems, to automate routine tasks, enable self-service capabilities, and enhance operational efficiency. You can leverage retail automation technologies to improve efficiency, reduce human error, [automate supply chain](/blog/supply-chain-automation/), and expand your inventory.
+Retail automation is a comprehensive concept encompassing a variety of technologies aimed at streamlining and enhancing different facets of the retail sector. It involves adopting various hardware and digital solutions, such as automated checkout kiosks and advanced inventory management systems, to automate routine tasks, enable self-service capabilities, and enhance operational efficiency. You can leverage retail automation technologies to improve efficiency, reduce human error, [automate supply chain](/blog/p2p-data-flow-mapping-enterprise-automation/), and expand your inventory.
 
 Here are some of the types of automation in the retail industry:
 
@@ -120,7 +120,7 @@ This results in a reduction in wastage, a decrease in overstocking costs, and pr
 
 Retail automation also brings about higher productivity by eliminating repetitive and time-consuming tasks. With automated systems in place, your workforce can focus on core tasks, leading to more efficient and productive workdays. This boost in productivity saves time and optimizes your resources, enabling you to achieve more with the same level of staffing.
 
-![](/images/blog/652e2aa8172747b22447b743_inventory-management.jpeg/)
+![Large warehouse with tall red shelving units stacked with cardboard boxes on pallets](/images/blog/652e2aa8172747b22447b743_inventory-management.jpeg)
 
 Let's look at a few use cases of retail automation:
 

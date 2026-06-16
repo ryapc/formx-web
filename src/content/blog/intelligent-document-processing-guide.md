@@ -36,7 +36,7 @@ Machine Learning (ML) is at the heart of Intelligent Document Processing (IDP), 
 
 Conversely, Unsupervised Learning within IDP brings forth the power to discern latent patterns and relationships within unstructured documents. This dual application of Supervised and Unsupervised Learning within IDP dramatically contributes to its versatility.
 
-![](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png/)
+![Flowchart showing five IDP stages: Data Capture, Pre-processing, Data Extraction, Data Validation, and Integration](/images/blog/62341d2c8e591561e939be79_stages-of-idp.png)
 
 Here's the step-by-step guide on the workflow of IDP:
 
@@ -80,7 +80,7 @@ Some of the advantages of intelligent document processing are:
 
 ### Reduces Human Error
 
-Human operators doing [manual data entry](/blog/manual-data-entry/) are susceptible to fatigue and oversight, which leads to inaccuracies in data entry and [document classification](/blog/document-classification/). You may not believe this; even the most forgiving statistics in [data entry work show an average human error rate of 1%](<https://www.qualitymag.com/articles/96853-manual-data-entry-and-its-effects-on-quality>).
+Human operators doing [manual data entry](/blog/manual-data-entry/) are susceptible to fatigue and oversight, which leads to inaccuracies in data entry and [document classification](/blog/ocr-accounting-automated-workflows-future-finance/). You may not believe this; even the most forgiving statistics in [data entry work show an average human error rate of 1%](<https://www.qualitymag.com/articles/96853-manual-data-entry-and-its-effects-on-quality>).
 
 IDP, on the other hand, operates tirelessly and consistently. Adhering to predefined rules and machine learning models significantly minimizes the risk of errors.
 

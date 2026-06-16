@@ -17,7 +17,7 @@ In this article, we’ll break down the accounts payable steps, some of the key 
 
 Keep reading to find out.
 
-![](/images/blog/649ced5dea437f1f118e0c90_accounting.jpeg/)
+![Calculator beside a printed financial ledger with checkmarks and handwritten notes](/images/blog/649ced5dea437f1f118e0c90_accounting.jpeg)
 
 Before we investigate some of the hurdles with AP process, the first question to tackle is “What is accounts payable?”. Simply put, accounts payable refers to any short-term monetary commitments a business has to its creditors, suppliers, vendors, etc. that are still outstanding. The management of this, or the accounts payable process, covers everything from checking invoices to reconciling accounts and making payments according to set deadlines.
 
@@ -47,7 +47,7 @@ The accounts payable steps, as you can likely see, aren’t as simple as receivi
 
 Balancing accuracy and timeliness is the central challenge of the accounts payable process. Compromising either aspect can lead to financial losses and unfortunately, as we’ll explore further in the next section, is an issue that the traditional accounts payable process has yet to overcome.
 
-![](/images/blog/649ced9fea437f1f118e6f09_calculating.jpeg/)
+![Hand holding a pencil over printed receipts and a notebook with a calculator nearby](/images/blog/649ced9fea437f1f118e6f09_calculating.jpeg)
 
 Ideally, the accounts payable process should ensure that suppliers are paid correctly and on time so that administrative delays don’t stall business operations. The traditional accounts payable process and its reliance on manual data entry and physical documents often mean that businesses are facing something far from the ideal AP process.
 
@@ -65,7 +65,7 @@ Because of the errors associated with manual data entry and the sheer necessity 
 
 The problem is that checking every invoice against a payment order and/or receipt is incredibly time-consuming. As a result, it can inadvertently cause delays, especially if an error is found and the whole process is forced to start again. The great flaw here is that one of the central accounts payable steps meant to mitigate against mistakes is the very thing that can cause missed payment deadlines or delayed goods delivery.
 
-It's why something as simple as [automating invoice processing](/blog/automated-invoice-processing/) and [PO data extraction](/blog/purchase-order-processing/), and the timesaving it offers is so valuable to AP teams. It’s also far easier to check data against each other when it’s handed digitally from a central system.
+It's why something as simple as [automating invoice processing](/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/) and [PO data extraction](/blog/purchase-order-processing/), and the timesaving it offers is so valuable to AP teams. It’s also far easier to check data against each other when it’s handed digitally from a central system.
 
 Most manual accounts payable processes rely heavily on physical documents. AP teams often find themselves overwhelmed with paperwork and forced to spend added time on filing and office organization just to stay on top of things. Excess paperwork also requires more storage and increases the risk of invoices getting missed or lost.
 

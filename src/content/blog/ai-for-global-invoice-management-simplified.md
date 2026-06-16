@@ -19,7 +19,7 @@ In today's interconnected global economy, businesses face increasing challenges 
 
 AI-powered invoice processing systems are revolutionizing how businesses handle international transactions. These advanced tools leverage machine learning, natural language processing, and optical character recognition to automate key aspects of invoice management:
 
-![AI software analyzing an international invoice.](/images/blog/67ecc93446967d407804ff34_proxyimage.webp/)
+![AI software analyzing an international invoice.](/images/blog/67ecc93446967d407804ff34_proxyimage.webp)
 
 AI transforms global invoice management with automation.
 
@@ -34,9 +34,9 @@ AI transforms global invoice management with automation.
 
 ### Enhanced Efficiency and Accuracy
 
-AI dramatically reduces invoice processing time from an average of 17.9 days to just 3.4 days. This improved speed allows companies to [capture early payment discounts and optimize cash flow](/blog/automated-invoice-processing/).
+AI dramatically reduces invoice processing time from an average of 17.9 days to just 3.4 days. This improved speed allows companies to [capture early payment discounts and optimize cash flow](/blog/the-guide-to-ai-accounting-automation-from-invoices-to-reconciliation/).
 
-![Person using a calculator and laptop to process invoices.](/images/blog/proxyimage-6808af17.jpeg/)
+![Person using a calculator and laptop to process invoices.](/images/blog/proxyimage-6808af17.jpeg)
 
 AI accelerates invoice processing, boosting cash flow efficiency.
 
@@ -46,7 +46,7 @@ Moreover, AI achieves 99% accuracy in data extraction, minimizing errors and dis
 
 By automating manual tasks, AI invoice processing can lower per-invoice costs by up to 79%, from $10.18 to $2.14.
 
-![AI-powered invoice processing interface displayed on screen.](/images/blog/proxyimage-6808af16.png/)
+![AI-powered invoice processing interface displayed on screen.](/images/blog/proxyimage-6808af16.png)
 
 AI transforms invoice management, cutting costs by 79%.
 
@@ -54,11 +54,11 @@ This cost-effectiveness becomes increasingly valuable as businesses grow, allowi
 
 ### Improved Compliance and Fraud Detection
 
-AI systems excel at identifying potential issues such as [duplicate invoices](/blog/conquer-invoice-chaos-automate-processing-with-ocr-invoice-processing/), mismatched vendor details, and [unusual payment amounts](/blog/automated-payment-reconciliation/).
+AI systems excel at identifying potential issues such as [duplicate invoices](/blog/breaking-the-paper-bottleneck-how-an-invoice-ocr-api-and-rpa-supercharge-modern-finance/), mismatched vendor details, and [unusual payment amounts](/blog/automated-payment-reconciliation/).
 
 This capability helps businesses maintain [regulatory compliance](<https://formx.ai/blog/formx-ai-achieves-iso-27001-soc-2-type-2-compliance-enhancing-data-security>) and [protect against fraud](/blog/protect-your-business-the-threat-of-fake-bank-statements-and-how-to-defend-yourself/) across different markets.
 
-![Person pointing at virtual icons for AML, compliance, and fraud.](/images/blog/proxyimage-6808af16.jpeg/)
+![Person pointing at virtual icons for AML, compliance, and fraud.](/images/blog/proxyimage-6808af16.jpeg)
 
 Tools to ensure compliance and prevent financial fraud.
 
@@ -66,7 +66,7 @@ Tools to ensure compliance and prevent financial fraud.
 
 AI-powered invoice management provides up-to-date financial data, enabling businesses to make informed decisions quickly.
 
-![Invoice document with vendor, order details, and address highlighted.](/images/blog/proxyimage-6808af16.png/)
+![Invoice document with vendor, order details, and address highlighted.](/images/blog/proxyimage-6808af16.png)
 
 AI simplifies invoice management for smarter decisions.
 

@@ -13,7 +13,10 @@ canonical_url: "/blog/how-ocr-is-transforming-the-insurance-industry-for-the-bet
 
 ## How OCR digitizes the insurance industry
 
-![](/images/blog/66bcb94c9fae536dc80fb34c_OCR-Insurance_1.jpeg/)
+<picture>
+  <source srcset="/images/blog/66bcb94c9fae536dc80fb34c_OCR-Insurance_1.webp" type="image/webp" />
+  <img src="/images/blog/66bcb94c9fae536dc80fb34c_OCR-Insurance_1.jpeg" alt="" loading="lazy" />
+</picture>
 
 How OCR digitizes the insurance industry
 
@@ -41,7 +44,10 @@ These examples highlight the insurance industry's heavy reliance on administrati
 
 ## The Power of OCR in Insurance: Transforming Processes and Data Management
 
-![](/images/blog/66bcb97f0f20e07238d50b4a_OCR-Insurance_2.jpeg/)
+<picture>
+  <source srcset="/images/blog/66bcb97f0f20e07238d50b4a_OCR-Insurance_2.webp" type="image/webp" />
+  <img src="/images/blog/66bcb97f0f20e07238d50b4a_OCR-Insurance_2.jpeg" alt="" loading="lazy" />
+</picture>
 
 The Power of OCR in Insurance: Transforming Processes and Data Management
 
@@ -51,7 +57,7 @@ However, manual document processing often leads to delays, which can negatively 
 
 ## Unlocking the Potential of Data with OCR
 
-![](/images/blog/66bcb9ded92ab83bd2c7a4f9_OCR-Insurance_3.jpeg/)
+![Person typing on laptop with digital document search interface showing file and folder icons](/images/blog/66bcb9ded92ab83bd2c7a4f9_OCR-Insurance_3.jpeg)
 
 Unlocking the Potential of Data with OCR
 
@@ -64,7 +70,7 @@ This section dives deeper into how OCR unlocks the true potential of data within
 
 ## Boosting Profitability and Customer Satisfaction with OCR and IDP
 
-![](/images/blog/66bcb9c22c2d1515a41881ba_OCR-Insurance_4.jpeg/)
+![Digital workflow automation diagram with connected document, chart, and checkmark icons over laptop](/images/blog/66bcb9c22c2d1515a41881ba_OCR-Insurance_4.jpeg)
 
 Boosting Profitability and Customer Satisfaction with OCR and IDP
 
@@ -77,7 +83,7 @@ The final section explores how OCR, combined with Intelligent Document Processin
 
 ## Unlocking Efficiency in Insurance: A Step-by-Step Guide to OCR Insurance Automation
 
-![](/images/blog/66bcb9ff783cec0a8f78d8a4_OCR-Insurance_5.jpeg/)
+![Healthcare professional touching glowing shield verification icon on digital insurance interface](/images/blog/66bcb9ff783cec0a8f78d8a4_OCR-Insurance_5.jpeg)
 
 Unlocking Efficiency in Insurance: A Step-by-Step Guide to OCR Insurance Automation
 
@@ -105,7 +111,7 @@ The path to digital transformation is paved with continuous learning and adaptat
 
 ## The Road to Digital Advantage: Unleash the Power of OCR in Insurance
 
-![](/images/blog/66bcba2be1edf3678d3d424d_OCR-Insurance_6.jpeg/)
+![Doctor using laptop with floating blue digital health data and medical icons overlay](/images/blog/66bcba2be1edf3678d3d424d_OCR-Insurance_6.jpeg)
 
 The Road to Digital Advantage: Unleash the Power of OCR in Insurance
 

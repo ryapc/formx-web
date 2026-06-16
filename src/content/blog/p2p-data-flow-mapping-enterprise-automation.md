@@ -6,7 +6,7 @@ category: automation
 author: FormX
 date: 2026-04-29
 lastmod: 2026-04-29
-featured_image: "/images/blog/consolidated-blog-7.png"
+featured_image: "/images/blog/consolidated-blog-7.jpg"
 featured_image_alt: "P2P Data Flow Mapping and Enterprise Automation"
 canonical_url: "/blog/p2p-data-flow-mapping-enterprise-automation/"
 ---
@@ -19,7 +19,7 @@ The solution lies in rewiring your backend. In this guide, we map out the data e
 
 A data entry automation enterprise system secures the logistics chain by replacing manual document handling with intelligent extraction. Using an automated data capture API, it instantly digitizes unstructured bills of lading and shipping receipts at the warehouse level, creating a real-time, transparent data flow that allows systems to proactively forecast demand.
 
-The automation journey begins long before an invoice is paid. In modern warehouses, physical efficiency is driven by Automated Guided Vehicles (AGVs) that navigate via sensors. However, the flow of information is equally critical. The supply chain is historically cluttered with unstructured data sources like [bills of lading](/blog/extract-data-from-bill-of-lading/) and shipping receipts. By deploying intelligent document processing right at the loading dock, companies ensure that the digital record moves concurrently with the physical inventory, eliminating blind spots in the procurement lifecycle.
+The automation journey begins long before an invoice is paid. In modern warehouses, physical efficiency is driven by Automated Guided Vehicles (AGVs) that navigate via sensors. However, the flow of information is equally critical. The supply chain is historically cluttered with unstructured data sources like [bills of lading](/blog/bill-of-lading-unstructured-data-extraction/) and shipping receipts. By deploying intelligent document processing right at the loading dock, companies ensure that the digital record moves concurrently with the physical inventory, eliminating blind spots in the procurement lifecycle.
 
 ## Why Do Traditional Purchase Order Workflows Cause Vendor Friction?
 

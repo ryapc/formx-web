@@ -841,3 +841,49 @@
   from = "/blog/ai-powered-inventory-management-for-retail"
   to = "/blog"
   status = 301
+
+[[redirects]]
+  from = "/blog/free-bank-statement-generators-pros-cons/"
+  to = "/tools/bank-statement-converter/"
+  status = 301
+
+# Webflow .html legacy URLs (Ahrefs P1 - 2026-06-10)
+[[redirects]]
+  from = "/blog/convert-pdf-to-google-sheets/convert-pdf-to-google-sheets.html"
+  to = "/blog/convert-pdf-to-google-sheets/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/tools/pdf-to-csv-converter.html"
+  to = "/tools/pdf-to-csv-converter/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/tools/document-splitter.html"
+  to = "/tools/document-splitter/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/tools/invoice-ocr-api.html"
+  to = "/tools/invoice-ocr-api/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/solutions/insurance.html"
+  to = "/solutions/insurance/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/solutions/logistics.html"
+  to = "/landing/logistics/"
+  status = 301
+
+[[redirects]]
+  from = "/blog/pricing.html"
+  to = "/pricing/"
+  status = 301
+
+[[redirects]]
+  from = "/whats-new/2023-10-01/2023-10-01.html"
+  to = "/whats-new/2023-10-01/"
+  status = 301

@@ -7,7 +7,7 @@ author: FormX
 date: 2026-05-10
 featured_image: "/images/blog/w2-ocr-api-hero.jpg"
 featured_image_alt: "W-2 OCR API: Automate W-2 Data Extraction at Scale"
-canonical_url: "/blog/w2-ocr-api"
+canonical_url: "/blog/w2-ocr-api/"
 ---
 
 <style>

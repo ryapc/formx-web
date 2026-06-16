@@ -19,7 +19,7 @@ Such inefficiencies drain resources and can lead to significant business mishaps
 
 Intelligent Character Recognition (ICR) is a subset of Optical Character Recognition (OCR) that is more advanced when it comes to translating handwritten or printed text from images or documents into a machine-readable format. While Optical Character Recognition (OCR) primarily deals with recognizing printed characters, ICR elevates this by leveraging self-learning system to interpret a diverse range of handwritten text styles and fonts.
 
-This heightened capability makes Intelligent Character Recognition indispensable for projects requiring processing and digitizing handwritten documents. ICR is commonly used in [data entry](/blog/how-to-automate-data-entry/) tasks, [document classification](/blog/document-classification/), and automation procedures. It plays a pivotal role when there's a need to understand and extract text from scanned documents or images.
+This heightened capability makes Intelligent Character Recognition indispensable for projects requiring processing and digitizing handwritten documents. ICR is commonly used in [data entry](/blog/how-to-automate-data-entry/) tasks, [document classification](/blog/ocr-accounting-automated-workflows-future-finance/), and automation procedures. It plays a pivotal role when there's a need to understand and extract text from scanned documents or images.
 
 ICR and OCR are pioneering technologies pivotal in converting both printed and handwritten content into machine-readable digital formats. At a glance, their use cases may seem similar, but there are discernible differences related to their scope and capabilities. Here is an overview of the differences:
 

@@ -15,7 +15,7 @@ In today's digital world, fraudsters are constantly devising new ways to exploit
 
 ## Understanding the Risks:
 
-![](/images/blog/65c4982cdc14796ce2e009d7_FakeBankStatement_2.jpeg/)
+![Stacks of coins of varying heights in front of a classical bank building facade](/images/blog/65c4982cdc14796ce2e009d7_FakeBankStatement_2.jpeg)
 
 Understanding the Risks
 
@@ -33,7 +33,7 @@ By understanding these far-reaching consequences, businesses can appreciate the 
 
 ## 3 Steps to Unmask the Deception: Spotting Edited Bank Statements
 
-![](/images/blog/65c4980d8589fed620e0fcf4_FakeBankStatement_1.jpeg/)
+![Bank statement document with a pen resting on it, glasses and calculator in the background](/images/blog/65c4980d8589fed620e0fcf4_FakeBankStatement_1.jpeg)
 
 3 Steps to Unmask the Deception: Spotting Edited Bank Statements
 
@@ -67,7 +67,7 @@ Step 3: Leverage Technology:
 
 ## The Cost of Falling Victim:
 
-![](/images/blog/65c4984ad7187db51fd410ef_FakeBankStatement_3.jpeg/)
+![Distressed man holding his head at a laptop surrounded by scattered banknotes and coins](/images/blog/65c4984ad7187db51fd410ef_FakeBankStatement_3.jpeg)
 
 The Cost of Falling Victim
 
@@ -81,7 +81,7 @@ The consequences of failing to detect a fake bank statement can be severe:
 
 ## Proactive Defense: Building a Fortress Against Deception
 
-![](/images/blog/65c4990647767cd51681488a_FakeBankStatement_4.jpeg/)
+![Small figure standing at the entrance of a massive stone labyrinth representing security challenges](/images/blog/65c4990647767cd51681488a_FakeBankStatement_4.jpeg)
 
 Proactive Defense: Building a Fortress Against Deception
 
